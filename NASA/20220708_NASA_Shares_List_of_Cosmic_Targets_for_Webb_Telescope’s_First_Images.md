@@ -1,4 +1,8 @@
-NASA’s James Webb Space Telescope, a partnership with ESA (European Space Agency) and CSA (Canadian Space Agency), will soon reveal unprecedented and detailed views of the universe, with the upcoming release of its first full-color images and spectroscopic data.
+NASA’s James Webb Space Telescope, a partnership with ESA (European Space Agency[^agency]) and CSA (Canadian Space Agency), will soon reveal unprecedented[^unprecedented] and detailed views of the universe, with the upcoming[^upcoming] release of its first full-color images and spectroscopic[^spectroscopic] data.
+[^agency]: agency /ˈeɪdʒ(ə)nsi/ noun a business or organization providing a particular service on behalf of another business, person, or group.
+[^unprecedented]: unprecedented /ʌnˈprɛsɪdɛntɪd/ adjective never done or known before.
+[^upcoming]: upcoming /ʌpˈkʌmɪŋ/ adjective about to happen; forthcoming.
+[^spectroscopic]: spectroscopic /ˌspektrəˈskɒpɪk/ /ˌspektrəˈskɑːpɪk/ adjective connected with the process of forming and looking at spectra with a spectroscope
 
 Below is the list of cosmic objects that Webb targeted for these first observations, which will be released in NASA’s live broadcast beginning at 10:30 a.m. EDT Tuesday, July 12. Each image will simultaneously be made available on social media as well as on the agency’s website.
 
