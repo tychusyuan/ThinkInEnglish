@@ -15,4 +15,7 @@ More information on how to join NASA for the release of Webb’s first images is
 
 The James Webb Space Telescope is the world's premier space science observatory. Webb will solve mysteries in our solar system, look beyond to distant worlds around other stars, and probe the mysterious structures and origins of our universe and our place in it.
 
+![]([1.png](images/49721714093_5ae214c5ec_k_1.jpg))
+
+
 Banner image: File photo of the primary mirror of NASA's James Webb Space Telescope from March 2020, following a deployment test. Credit: NASA/Chris Gunn
