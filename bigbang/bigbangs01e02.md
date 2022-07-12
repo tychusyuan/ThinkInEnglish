@@ -25,50 +25,38 @@ Thailand has had the fork since the latter half of the 19th century.
 
 They don't put the fork in their mouth,they use it to put the food on a spoon......which then goes into their mouth.
 
-Ask him for a napkin, I dare you.
+Ask him for a napkin[^napkin], I dare you.
 [^napkin]: napkin /ˈnapkɪn/ noun: napkin; plural noun: napkins; noun: table napkin; plural noun: table napkins ; a square piece of cloth or paper used at a meal to wipe the fingers or lips and to protect garments.
 
 I'll get it.
 
-Do I look puffy? I feel puffy.
+Do I look puffy[^puffy]? I feel puffy.
+[^puffy]: puffy /ˈpʌfi/ adjective: puffy; comparative adjective: puffier; superlative adjective: puffiest ; (especially of part of the body) unusually swollen.
 
 Hey, Leonard.
 Oh, hi, Penny.
 
-Am I interrupting?
+Am I interrupting[^interrupt]?
+[^interrupt]: interrupt /ɪntəˈrʌpt/ verb gerund or present participle: interrupting ; stop the continuous progress of (an activity or process).
 No.
 
 You're not swelling, Howard.
 
-No, look at my fingers,they're like Vienna sausages.
+No, look at my fingers,they're like Vienna sausages[^sausage].
+[^sausage]: sausage /ˈsɒsɪdʒ/ plural noun: sausages ; an item of food in the form of a cylindrical length of minced pork or other meat encased in a skin, typically sold raw to be grilled or fried before eating.
 
-
-- Sounds like you have company.
-- They're not going anywhere.
-
+Sounds like you have company.
+They're not going anywhere.
 
 So you're coming home from work.
 That's great. How was work?
 
+You know, it's a Cheesecake Factory......people order cheesecake and I bring it to them.
 
-You know, it's a Cheesecake Factory...
+So you kind of act as like a carbohydrate delivery system?
 
+Yeah, call it whatever you want,I get minimum wage.
 
-...people order cheesecake
-and I bring it to them.
-
-23
-00:00:57,724 --> 00:01:02,728
-So you kind of act
-as like a carbohydrate delivery system?
-
-24
-00:01:03,688 --> 00:01:06,231
-Yeah, call it whatever you want,
-I get minimum wage.
-
-25
-00:01:07,650 --> 00:01:08,650
 Yeah.
 
 26
