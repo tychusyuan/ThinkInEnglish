@@ -61,11 +61,13 @@ Yeah, call it whatever you want,I get minimum wage.
 Yeah.
 
 I was wondering if you could help me out...
+[^wondering]: wondering /ˈwʌnd(ə)rɪŋ/ adjective: wondering ; characterized by or expressive of a desire to know something; curious.
 
 Yes.
 Oh.
 
-Okay, great, I'm having some furniture delivered......and I may not be here, so, oh...
+Okay, great, I'm having some furniture[^furniture] delivered and I may not be here, so, oh...
+[^furniture]: furniture /ˈfəːnɪtʃə/ noun: furniture ; the movable articles that are used to make a room or building suitable for living or working in, such as tables, chairs, or desks.
 
 Hello.
 
@@ -81,28 +83,17 @@ Yeah, I probably won't.
 Hey, Sheldon.
 Hi.
 
-37
-00:01:36,471 --> 00:01:38,180
 Hey, Raj.
 
-38
-00:01:39,641 --> 00:01:41,475
 Still not talking to me, huh?
 
-39
-00:01:41,643 --> 00:01:43,685
-Don't take it personally,
-it's his pathology.
 
-40
-00:01:43,853 --> 00:01:46,647
-- He can't talk to women.
-- He can't talk to attractive women.
+Don't take it personally,it's his pathology.
 
-41
-00:01:46,815 --> 00:01:49,316
-Or in your case,
-a cheesecake-scented goddess.
+He can't talk to women.
+He can't talk to attractive women.
+
+Or in your case,a cheesecake-scented goddess.
 
 42
 00:01:49,776 --> 00:01:52,444
