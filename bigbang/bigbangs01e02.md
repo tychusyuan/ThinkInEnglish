@@ -51,63 +51,35 @@ They're not going anywhere.
 So you're coming home from work.
 That's great. How was work?
 
-You know, it's a Cheesecake Factory......people order cheesecake and I bring it to them.
+You know, it's a Cheesecake Factory people order cheesecake and I bring it to them.
 
 So you kind of act as like a carbohydrate delivery system?
+[^carbohydrate]: carbohydrate /kɑːbəˈhʌɪdreɪt/ noun: carbohydrate; plural noun: carbohydrates ; any of a large group of organic compounds occurring in foods and living tissues and including sugars, starch, and cellulose. They contain hydrogen and oxygen in the same ratio as water (2:1) and typically can be broken down to release energy in the animal body. food consisting of or containing a lot of carbohydrates.
 
 Yeah, call it whatever you want,I get minimum wage.
 
 Yeah.
 
-26
-00:01:08,818 --> 00:01:10,736
-I was wondering
-if you could help me out...
+I was wondering if you could help me out...
 
-27
-00:01:10,904 --> 00:01:13,030
-- Yes.
-- Oh.
+Yes.
+Oh.
 
-28
-00:01:13,198 --> 00:01:15,532
-Okay, great, I'm having
-some furniture delivered...
+Okay, great, I'm having some furniture delivered......and I may not be here, so, oh...
 
-29
-00:01:15,700 --> 00:01:18,035
-...and I may not be here, so, oh...
-
-30
-00:01:18,995 --> 00:01:20,329
 Hello.
 
-31
-00:01:21,164 --> 00:01:23,248
-<font color="#E86CE4">(SPEAKS IN RUSSIAN)</font>
-
-32
-00:01:24,626 --> 00:01:25,667
 I'm sorry?
 
-33
-00:01:25,835 --> 00:01:29,171
-Haven't you ever been told
-how beautiful you are in flawless Russian?
+Haven't you ever been told how beautiful you are in flawless Russian?
 
-34
-00:01:29,339 --> 00:01:31,924
-- No, I haven't.
-- Get used to it.
+No, I haven't.
+Get used to it.
 
-35
-00:01:32,509 --> 00:01:34,176
 Yeah, I probably won't.
 
-36
-00:01:35,261 --> 00:01:36,303
-- Hey, Sheldon.
-- Hi.
+Hey, Sheldon.
+Hi.
 
 37
 00:01:36,471 --> 00:01:38,180
