@@ -74,6 +74,7 @@ Hello.
 I'm sorry?
 
 Haven't you ever been told how beautiful you are in flawless Russian?
+[^flawless]: flawless /ˈflɔːləs/ adjective: flawless ; without any imperfections or defects; perfect.
 
 No, I haven't.
 Get used to it.
@@ -87,73 +88,43 @@ Hey, Raj.
 
 Still not talking to me, huh?
 
-
 Don't take it personally,it's his pathology.
+[^pathology]: pathology /pəˈθɒlədʒi/ noun: pathology ; the science of the causes and effects of diseases, especially the branch of medicine that deals with the laboratory examination of samples of body tissue for diagnostic or forensic purposes.
 
 He can't talk to women.
 He can't talk to attractive women.
+[^pathology]: attractive /əˈtraktɪv/ adjective: attractive ; pleasing or appealing to the senses.
 
-Or in your case,a cheesecake-scented goddess.
+Or in your case,a cheesecake-scented[^scented] goddess.
+[^scented]: scented /ˈsɛntɪd/ adjective: scented ; having a pleasant scent.
 
-42
-00:01:49,776 --> 00:01:52,444
-- There's gonna be some furniture delivered?
-- Yeah.
+There's gonna be some furniture delivered?
+Yeah.
 
-43
-00:01:52,612 --> 00:01:56,198
-If it gets here and I'm not here,
-could you sign for it and put it in?
+If it gets here and I'm not here,could you sign for it and put it in?
 
-44
-00:01:56,366 --> 00:01:58,700
-- Yeah, no problem.
-- Great, here's my spare key.
+Yeah, no problem.
+Great, here's my spare key.
+[^spare]: spare /spɛː/ adjective: spare; comparative adjective: sparer; superlative adjective: sparest ; additional to what is required for ordinary use.
 
-45
-00:01:58,868 --> 00:02:00,494
 Thank you.
 
-46
-00:02:01,871 --> 00:02:03,038
-- Penny, wait.
-- Yeah?
+Penny, wait.
+Yeah?
 
-47
-00:02:04,415 --> 00:02:05,791
 Um...
 
-48
-00:02:06,376 --> 00:02:08,043
-If you don't have any other plans...
+If you don't have any other plans......do you wanna join us for Thai food and a Superman movie marathon?
 
-49
-00:02:08,211 --> 00:02:11,380
-...do you wanna join us for Thai food
-and a Superman movie marathon?
 
-50
-00:02:11,548 --> 00:02:14,341
-A marathon? Wow, how many
-Superman movies are there?
+A marathon? Wow, how many Superman movies are there?
 
-51
-00:02:14,759 --> 00:02:17,636
 You're kidding, right?
 
-52
-00:02:17,804 --> 00:02:20,514
-I do like the one where
-Lois Lane falls from the helicopter...
+I do like the one where Lois Lane falls from the helicopter......and Superman catches her.
 
-53
-00:02:20,682 --> 00:02:21,974
-...and Superman catches her.
-
-54
-00:02:22,142 --> 00:02:24,560
-- Which one was that?
-- One.
+Which one was that?
+One.
 
 55
 00:02:25,145 --> 00:02:28,564
