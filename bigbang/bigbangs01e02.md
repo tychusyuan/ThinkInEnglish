@@ -1,63 +1,46 @@
 
-Here you go. Pad Thai, no peanuts.
-
+Here you go. Pad Thai, no peanuts[^peanut].
+[^peanut]: /ˈpiːnʌt/ plural noun: peanuts ; the oval seed of a tropical South American plant, often roasted and salted and eaten as a snack or used to make oil or animal feed.
 
 Does it have peanut oil?
 
-
 I'm not sure.
 
+Everyone keep an eye on Howard in case he starts to swell[^swell] up.
+[^swell]: swell /swɛl/ verb: swell; 3rd person present: swells; past tense: swelled; gerund or present participle: swelling; past participle: swollen ; (especially of a part of the body) become larger or rounder in size, typically as a result of an accumulation of fluid.
 
-Everyone keep an eye on Howard
-in case he starts to swell up.
+Since[^since] it's not bee season[^season],you can have my epinephrine[^epinephrine].
+[^since]: since /sɪns/ preposition: since ; in the intervening period between (the time mentioned) and the time under consideration, typically the present.
+[^season]: season /ˈsiːz(ə)n/ noun: season; plural noun: seasons ; each of the four divisions of the year (spring, summer, autumn, and winter) marked by particular weather patterns and daylight hours, resulting from the earth's changing position with regard to the sun.
+[^epinephrine]: epinephrine /ˌɛpɪˈnɛfrɪn,ˌɛpɪˈnɛfriːn/ noun: epinephrine ; another term for adrenaline.
 
+Any chopsticks[^chopstick]?
+[^chopstick]: chopstick /ˈtʃɒpstɪk/ plural noun: chopsticks ; each of a pair of small, thin, tapered sticks of wood, ivory, or plastic, held together in one hand and used as eating utensils especially by the Chinese and the Japanese.
 
-Since it's not bee season,
-you can have my epinephrine.
-
-
-- Any chopsticks?
-- Don't need chopsticks, this is Thai food.
-
+Don't need chopsticks, this is Thai food.
 
 Here we go.
 
+Thailand has had the fork since the latter half of the 19th century.
 
-Thailand has had the fork
-since the latter half of the 19th century.
-
-
-They don't put the fork in their mouth,
-they use it to put the food on a spoon...
-
-
-...which then goes into their mouth.
-
+They don't put the fork in their mouth,they use it to put the food on a spoon......which then goes into their mouth.
 
 Ask him for a napkin, I dare you.
-
-
-<font color="#E86CE4">(KNOCKING ON DOOR)</font>
-
+[^napkin]: napkin /ˈnapkɪn/ noun: napkin; plural noun: napkins; noun: table napkin; plural noun: table napkins ; a square piece of cloth or paper used at a meal to wipe the fingers or lips and to protect garments.
 
 I'll get it.
 
-
 Do I look puffy? I feel puffy.
 
+Hey, Leonard.
+Oh, hi, Penny.
 
-- Hey, Leonard.
-- Oh, hi, Penny.
-
-
-- Am I interrupting?
-- No.
-
+Am I interrupting?
+No.
 
 You're not swelling, Howard.
 
- No, look at my fingers,
-they're like Vienna sausages.
+No, look at my fingers,they're like Vienna sausages.
 
 
 - Sounds like you have company.
