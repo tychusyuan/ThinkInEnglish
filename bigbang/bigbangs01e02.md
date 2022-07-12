@@ -115,7 +115,7 @@ Yeah?
 Um...
 
 If you don't have any other plans......do you wanna join us for Thai food and a Superman movie marathon?
-
+[^marathon]: marathon /ˈmarəθ(ə)n/ noun: marathon; plural noun: marathons ; a long-distance running race, strictly one of 26 miles 385 yards (42.195 km).
 
 A marathon? Wow, how many Superman movies are there?
 
@@ -126,13 +126,8 @@ I do like the one where Lois Lane falls from the helicopter......and Superman ca
 Which one was that?
 One.
 
-55
-00:02:25,145 --> 00:02:28,564
-You realize that scene was rife
-with scientific inaccuracy?
+You realize that scene was rife with scientific inaccuracy?
 
-56
-00:02:28,731 --> 00:02:30,482
 Yes, I know, men can't fly.
 
 57
