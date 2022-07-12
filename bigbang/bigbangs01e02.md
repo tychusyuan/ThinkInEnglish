@@ -1,404 +1,1609 @@
-[Script Info]
-;SrtEdit 6.3.2012.1001
-;Copyright(C) 2005-2012 Yuan Weiguo
 
-Title: 
-Original Script: 
-Original Translation: 
-Original Timing: 
-Original Editing: 
-Script Updated By: 
-Update Details: 
-ScriptType: v4.00+
-Collisions: Reverse
-PlayResX: 384
-PlayResY: 288
-Timer: 100.0000
-Synch Point: 1
-WrapStyle: 0
-ScaledBorderAndShadow: no
+Here you go. Pad Thai, no peanuts.
 
-[V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,微软雅黑,20,&H00FFFFFF,&HF0000000,&H006C3300,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,5,134
 
-[Events]
-Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.75,0:00:05.19,Default,NTP,0000,0000,0000,,给  泰国炒面  不加花生\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here we go. pad thai,no peanuts.
-Dialogue: 0,0:00:05.27,0:00:06.57,Default,NTP,0000,0000,0000,,里面有花生油吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But does it have peanut oil?
-Dialogue: 0,0:00:06.65,0:00:07.96,Default,NTP,0000,0000,0000,,我不太清楚\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm not sure.
-Dialogue: 0,0:00:08.03,0:00:10.87,Default,NTP,0000,0000,0000,,大家都盯着点霍华德以防他肿起来\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Everyone keep an eye on howard in case he starts to swell up.
-Dialogue: 0,0:00:11.93,0:00:15.29,Default,NTP,0000,0000,0000,,既然现在没蜜蜂出没  你可以用我的肾上腺素\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Since it's not bee season,you can have my epinephrine.
-Dialogue: 0,0:00:15.50,0:00:18.32,Default,NTP,0000,0000,0000,,-有筷子吗  -不需要  这是泰国菜\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-are there any chopsticks. -no need. this is thai food.
-Dialogue: 0,0:00:18.33,0:00:19.65,Default,NTP,0000,0000,0000,,开始了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here we go.
-Dialogue: 0,0:00:19.69,0:00:22.62,Default,NTP,0000,0000,0000,,泰国在19世纪后半期才有叉子\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thailand has had the fork since the latter half of the 19th century.
-Dialogue: 0,0:00:22.63,0:00:25.04,Default,NTP,0000,0000,0000,,有趣的是他们不直接把叉子放在嘴里\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Interestingly  they don't put the fork in their mouth--
-Dialogue: 0,0:00:25.05,0:00:28.38,Default,NTP,0000,0000,0000,,而是用叉子来把食物放在勺子里然后用勺子放到嘴里\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They use it to put the food on a spoon which then goes into their mouth.
-Dialogue: 0,0:00:29.51,0:00:31.41,Default,NTP,0000,0000,0000,,跟他要个餐巾  我量你也不敢\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ask him for a napkin. I dare you.
-Dialogue: 0,0:00:33.37,0:00:34.57,Default,NTP,0000,0000,0000,,我去开\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll get it.
-Dialogue: 0,0:00:34.97,0:00:36.86,Default,NTP,0000,0000,0000,,我脸肿了吗  我觉得我脸肿了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do I look puffy? I feel puffy.
-Dialogue: 0,0:00:38.57,0:00:40.22,Default,NTP,0000,0000,0000,,-嘿  里奥纳德  -嘿  潘妮\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-hey,leonard. -oh,hi,penny.
-Dialogue: 0,0:00:40.24,0:00:41.34,Default,NTP,0000,0000,0000,,-我有打扰吗  -没有\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-am I interrupting? -no.
-Dialogue: 0,0:00:41.34,0:00:42.76,Default,NTP,0000,0000,0000,,霍华德  你没肿\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you're not swelling,howard.
-Dialogue: 0,0:00:43.19,0:00:45.70,Default,NTP,0000,0000,0000,,看看我的手指  他们看起来象维也纳香肠\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look at my fingers. they're like vienna sausages.
-Dialogue: 0,0:00:46.02,0:00:49.04,Default,NTP,0000,0000,0000,,-听起来你好象有客人  -他们总在\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-sounds like you have company. -they're not going anywhere.
-Dialogue: 0,0:00:50.28,0:00:53.05,Default,NTP,0000,0000,0000,,你下班了  太好了  工作怎么样\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So,you're coming home from work. that's great. how was work?
-Dialogue: 0,0:00:53.06,0:00:54.97,Default,NTP,0000,0000,0000,,那是卖芝士蛋糕的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know,it's a cheesecake factory.
-Dialogue: 0,0:00:54.99,0:00:56.92,Default,NTP,0000,0000,0000,,客人点芝士蛋糕  我给他们端过去\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}People order cheesecake and I bring it to them.
-Dialogue: 0,0:00:57.18,0:01:02.02,Default,NTP,0000,0000,0000,,这和碳水化合物传送系统有点象\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So you kind of act like a carbohydrate delivery system.
-Dialogue: 0,0:01:03.74,0:01:06.40,Default,NTP,0000,0000,0000,,是  随便你怎么叫  反正拿的工资最低\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah. call it whatever you want,I get minimum wage.
-Dialogue: 0,0:01:08.66,0:01:11.07,Default,NTP,0000,0000,0000,,我想问一下你能不能帮我点忙...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was wondering if you could help me out with something.
-Dialogue: 0,0:01:11.08,0:01:12.08,Default,NTP,0000,0000,0000,,好的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}yes.
-Dialogue: 0,0:01:13.12,0:01:15.57,Default,NTP,0000,0000,0000,,好的  明天会有人给我送家具\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Great. I'm having some furniture delivered tomorrow
-Dialogue: 0,0:01:15.63,0:01:17.05,Default,NTP,0000,0000,0000,,我可能不在  所以...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and I may not be here,so...
-Dialogue: 0,0:01:19.04,0:01:20.24,Default,NTP,0000,0000,0000,,好啊\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hello.
-Dialogue: 0,0:01:24.58,0:01:27.35,Default,NTP,0000,0000,0000,,-什么  -有没有人用优美的俄语跟你说过\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-i'm sorry? -haven't you ever been told
-Dialogue: 0,0:01:27.38,0:01:28.63,Default,NTP,0000,0000,0000,,你是多么的漂亮吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How beautiful you are in flawless russian?
-Dialogue: 0,0:01:29.02,0:01:30.24,Default,NTP,0000,0000,0000,,没有\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No,I haven't.
-Dialogue: 0,0:01:30.25,0:01:31.42,Default,NTP,0000,0000,0000,,你会习惯的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get used to it.
-Dialogue: 0,0:01:32.38,0:01:34.14,Default,NTP,0000,0000,0000,,我可能不会\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah. I probably won't.
-Dialogue: 0,0:01:35.10,0:01:36.47,Default,NTP,0000,0000,0000,,-嘿  谢尔顿  -嘿\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-hey,sheldon. -hi.
-Dialogue: 0,0:01:36.50,0:01:37.71,Default,NTP,0000,0000,0000,,嘿  拉杰\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey,raj.
-Dialogue: 0,0:01:39.88,0:01:41.41,Default,NTP,0000,0000,0000,,还是不跟我说话\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Still not talking to me,huh?
-Dialogue: 0,0:01:41.58,0:01:43.70,Default,NTP,0000,0000,0000,,他不是故意和你过不去  这是他的老毛病了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't take it personally,it's his pathology.
-Dialogue: 0,0:01:43.71,0:01:45.09,Default,NTP,0000,0000,0000,,他不能跟女人说话\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He can't talk to women.
-Dialogue: 0,0:01:45.10,0:01:47.41,Default,NTP,0000,0000,0000,,他不能跟漂亮女人说话\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He can't talk to atractive woman,or in your case,
-Dialogue: 0,0:01:47.42,0:01:49.71,Default,NTP,0000,0000,0000,,或者就是象你这样有迷人芝士蛋糕味的女神\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A cheesecake-scented goddess.
-Dialogue: 0,0:01:49.89,0:01:52.38,Default,NTP,0000,0000,0000,,明天会有人来送家具?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So there's gonna be some furniture delivered?
-Dialogue: 0,0:01:52.40,0:01:54.60,Default,NTP,0000,0000,0000,,是的  如果送来的时候我不在\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah. If it gets here and I'm not here,could you sign
-Dialogue: 0,0:01:54.61,0:01:56.43,Default,NTP,0000,0000,0000,,你能帮我签收一下然后放到我房间吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And have them put it in my apartment?
-Dialogue: 0,0:01:56.44,0:01:57.66,Default,NTP,0000,0000,0000,,没问题\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No problem.
-Dialogue: 0,0:01:57.67,0:01:59.73,Default,NTP,0000,0000,0000,,太好了  这是备用钥匙  谢谢\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Great. here's my spare key. thank you.
-Dialogue: 0,0:02:01.94,0:02:03.15,Default,NTP,0000,0000,0000,,潘妮  等等\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Penny,wait.
-Dialogue: 0,0:02:06.37,0:02:07.90,Default,NTP,0000,0000,0000,,如果你没什么安排的话\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If you don't have any other plans,do you want to join us
-Dialogue: 0,0:02:07.95,0:02:11.65,Default,NTP,0000,0000,0000,,你想一起吃点泰国菜看个超人电影马拉松吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}For thai food and a superman movie marathon?
-Dialogue: 0,0:02:11.71,0:02:14.87,Default,NTP,0000,0000,0000,,马拉松?  到底有多少部超人电影啊\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A marathon? how many superman movies are there?
-Dialogue: 0,0:02:14.93,0:02:16.61,Default,NTP,0000,0000,0000,,你是开玩笑的  对不对\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're kidding,right?
-Dialogue: 0,0:02:17.69,0:02:20.60,Default,NTP,0000,0000,0000,,我比较喜欢露易丝·莱恩从飞机上掉下来\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I do like the one where lois lane falls from the helicopter
-Dialogue: 0,0:02:20.63,0:02:23.24,Default,NTP,0000,0000,0000,,超人俯冲下去接住她的那部  那是第几部\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And superman swooshes down and catches her. which one was that?
-Dialogue: 0,0:02:23.28,0:02:24.74,Default,NTP,0000,0000,0000,,第一部\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}One.
-Dialogue: 0,0:02:25.15,0:02:28.35,Default,NTP,0000,0000,0000,,你知道那个场景完全不符合科学吧\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You realize that scene was rife with scientific inaccuracy.
-Dialogue: 0,0:02:28.79,0:02:30.57,Default,NTP,0000,0000,0000,,是的  我知道  人不能飞\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes,I know,men can't fly.
-Dialogue: 0,0:02:30.62,0:02:32.27,Default,NTP,0000,0000,0000,,不  不  假设人能飞\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No. let's assume that they can.
-Dialogue: 0,0:02:33.89,0:02:35.22,Default,NTP,0000,0000,0000,,露易丝·莱恩从高空往下掉\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lois lane is falling,
-Dialogue: 0,0:02:35.28,0:02:38.01,Default,NTP,0000,0000,0000,,以每秒32英尺的初速度做自由落体加速\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Accelerating at an initial rate of 32 feet per second per second.
-Dialogue: 0,0:02:38.02,0:02:41.21,Default,NTP,0000,0000,0000,,超人俯冲下来用两个钢筋一样的手臂想要接住她\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Superman swoops down to save her by reaching out two arms of steel.
-Dialogue: 0,0:02:41.21,0:02:44.85,Default,NTP,0000,0000,0000,,此时莱恩小姐在以每小时120公里的速度往下掉\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Miss lane,who is now traveling At approximately 120 miles an hour
-Dialogue: 0,0:02:44.86,0:02:47.94,Default,NTP,0000,0000,0000,,碰到钢筋手臂  立马被劈成三半\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hits them and is immediately sliced into three equal pieces.
-Dialogue: 0,0:02:50.14,0:02:53.48,Default,NTP,0000,0000,0000,,但是如果超人也达到那个速度然后减速\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Unless superman matches her speed and decelerates.
-Dialogue: 0,0:02:53.64,0:02:56.94,Default,NTP,0000,0000,0000,,还有时间吗  先生  她离地面两尺高\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In what space,sir? she's two feet above the ground.
-Dialogue: 0,0:02:57.54,0:03:00.27,Default,NTP,0000,0000,0000,,如果他真的爱她的话  他应该让她掉在马路上\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Frankly,if he really loved her,he'd let her hit the pavement.
-Dialogue: 0,0:03:00.28,0:03:01.83,Default,NTP,0000,0000,0000,,那还比较仁慈\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It'd be a more merciful death.
-Dialogue: 0,0:03:02.52,0:03:06.77,Default,NTP,0000,0000,0000,,你的全部论证都是建立在\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse me,your entire argument is predicated on the assumption
-Dialogue: 0,0:03:06.78,0:03:09.07,Default,NTP,0000,0000,0000,,超人的飞行有惊人的冲击力的基础上\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That superman's flight is a feat of strength.
-Dialogue: 0,0:03:09.08,0:03:11.38,Default,NTP,0000,0000,0000,,听到你自己说的了么\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you listening to yourself? it is well established
-Dialogue: 0,0:03:11.39,0:03:13.06,Default,NTP,0000,0000,0000,,很明显他的飞行有无限的冲击力\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That his flight is a feat of strength.
-Dialogue: 0,0:03:13.07,0:03:15.46,Default,NTP,0000,0000,0000,,这是他能跃过大厦的能力的延伸\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It is an extension of his ability to leap tall buildings,
-Dialogue: 0,0:03:15.49,0:03:18.03,Default,NTP,0000,0000,0000,,也是吸收来自太阳的能力\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}An ability he derives from exposure to earth's yellow sun.
-Dialogue: 0,0:03:18.08,0:03:19.86,Default,NTP,0000,0000,0000,,那他晚上怎么也能飞\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And how does he fly at night?
-Dialogue: 0,0:03:20.01,0:03:22.32,Default,NTP,0000,0000,0000,,月亮反射的太阳光\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A combination of the moon's solar reflection
-Dialogue: 0,0:03:22.36,0:03:25.02,Default,NTP,0000,0000,0000,,结合氪星球皮肤细胞储存的能量\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And the energy-storage capacity of kryptonian skin cells.
-Dialogue: 0,0:03:26.60,0:03:28.26,Default,NTP,0000,0000,0000,,我去洗澡了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm just gonna go wash up.
-Dialogue: 0,0:03:28.55,0:03:31.74,Default,NTP,0000,0000,0000,,我有2600本漫画  我打赌\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have 2,600 comic books in there. I challenge you
-Dialogue: 0,0:03:31.75,0:03:34.21,Default,NTP,0000,0000,0000,,你找不到任何有关氪星球皮肤细胞的线索\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}To find a single reference to kryptonian skin cells.
-Dialogue: 0,0:03:34.22,0:03:35.60,Default,NTP,0000,0000,0000,,接受挑战\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Challenge accepted.
-Dialogue: 0,0:03:39.39,0:03:40.92,Default,NTP,0000,0000,0000,,我们被锁在外面了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're locked out.
-Dialogue: 0,0:03:41.13,0:03:43.31,Default,NTP,0000,0000,0000,,还有  那个美女走了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Also,the pretty girl left.
-Dialogue: 0,0:04:02.72,0:04:06.87,Default,NTP,0000,0000,0000,,{\c&HFFF53C&}天才也性感  第1季  第2集\N{\fs8}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}By aBu 201705
-Dialogue: 0,0:04:09.87,0:04:12.81,Default,NTP,0000,0000,0000,,她的公寓在四楼但是电梯坏了所以你得...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}ok.Her apartment's on the fourth floor but the elevator's broken,so...
-Dialogue: 0,0:04:12.82,0:04:15.35,Default,NTP,0000,0000,0000,,你就那么走了?  好的  谢谢\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're just gonna be done? okay. cool. thanks
-Dialogue: 0,0:04:16.76,0:04:18.48,Default,NTP,0000,0000,0000,,那我们就自己搬上去\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We'll just bring it up ourselves.
-Dialogue: 0,0:04:18.50,0:04:20.01,Default,NTP,0000,0000,0000,,我非常不同意\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I hardly think so.
-Dialogue: 0,0:04:21.23,0:04:22.44,Default,NTP,0000,0000,0000,,为什么\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why not?
-Dialogue: 0,0:04:22.71,0:04:24.55,Default,NTP,0000,0000,0000,,我们没有手推车\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well,we don't have a dolly,
-Dialogue: 0,0:04:24.59,0:04:28.18,Default,NTP,0000,0000,0000,,也没有吊装带或者胸大肌\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Or lifting belts or any measurable upper-body strength.
-Dialogue: 0,0:04:29.13,0:04:31.37,Default,NTP,0000,0000,0000,,我们不需要力气  我们是物理学家\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We don't need strength--we're physicists.
-Dialogue: 0,0:04:31.65,0:04:34.14,Default,NTP,0000,0000,0000,,我们是阿基米德的传人\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We are the intellectual descendants of archimedes.
-Dialogue: 0,0:04:34.15,0:04:36.52,Default,NTP,0000,0000,0000,,给我一个支点  我可以撬动地球\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give me a fulcrum and a lever and I can move the earth.
-Dialogue: 0,0:04:36.53,0:04:38.53,Default,NTP,0000,0000,0000,,只需要...  我弄不动  我弄不动\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's just a matter of... I don't have this.
-Dialogue: 0,0:04:40.39,0:04:42.09,Default,NTP,0000,0000,0000,,阿基米德肯定非常自豪\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Archimedes would be so proud.
-Dialogue: 0,0:04:48.92,0:04:50.42,Default,NTP,0000,0000,0000,,你有什么主意吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you have any ideas?
-Dialogue: 0,0:04:50.87,0:04:53.75,Default,NTP,0000,0000,0000,,是的  但都需要绿灯侠和魔戒\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes,but they all involve a green lantern and a power ring.
-Dialogue: 0,0:04:55.64,0:04:58.14,Default,NTP,0000,0000,0000,,-慢点  -慢点\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Easy... easy.
-Dialogue: 0,0:05:00.64,0:05:02.14,Default,NTP,0000,0000,0000,,好的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ok.
-Dialogue: 0,0:05:03.41,0:05:06.16,Default,NTP,0000,0000,0000,,现在有了个斜面\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now we've got an inclined plane. the force required to lift
-Dialogue: 0,0:05:06.17,0:05:08.39,Default,NTP,0000,0000,0000,,拉力由于楼梯的正弦角而减少了...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is reduced by the sine of the angle of the stairs,
-Dialogue: 0,0:05:08.40,0:05:10.10,Default,NTP,0000,0000,0000,,角度大约是30度  那就减少了差不多一半\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Call it 30 degrees,so,about half.
-Dialogue: 0,0:05:10.55,0:05:11.87,Default,NTP,0000,0000,0000,,正好一半\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Exactly half.
-Dialogue: 0,0:05:13.90,0:05:15.10,Default,NTP,0000,0000,0000,,正好一半\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Exactly half.
-Dialogue: 0,0:05:16.61,0:05:17.81,Default,NTP,0000,0000,0000,,推吧\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's push.
-Dialogue: 0,0:05:21.99,0:05:23.76,Default,NTP,0000,0000,0000,,看  动了  很简单\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}See,it's moving,this is easy.
-Dialogue: 0,0:05:24.23,0:05:25.64,Default,NTP,0000,0000,0000,,数学里都证明了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's all in the math.
-Dialogue: 0,0:05:26.56,0:05:29.02,Default,NTP,0000,0000,0000,,-转角的公式是什么  -什么\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-what's your formula for the corner? -what?
-Dialogue: 0,0:05:35.37,0:05:36.60,Default,NTP,0000,0000,0000,,好的  没问题\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay,no problem.
-Dialogue: 0,0:05:36.62,0:05:38.62,Default,NTP,0000,0000,0000,,上来  帮我拉上来然后拐弯\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just come up here,help me pull and turn.
-Dialogue: 0,0:05:43.47,0:05:46.04,Default,NTP,0000,0000,0000,,重力  太没良心了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah,gravity,thou art a heartless bitch.
-Dialogue: 0,0:05:48.28,0:05:51.96,Default,NTP,0000,0000,0000,,你知道我们花这么大的力气\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You do understand that our efforts here will in no way increase the odds
-Dialogue: 0,0:05:51.97,0:05:54.06,Default,NTP,0000,0000,0000,,一点也不会增加你和这个女人性交的几率\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Of you having sexual congress with this woman.
-Dialogue: 0,0:05:55.28,0:05:57.83,Default,NTP,0000,0000,0000,,男人为女人做事不是为了做爱\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Men do things for women without expecting sex.
-Dialogue: 0,0:05:58.07,0:06:00.07,Default,NTP,0000,0000,0000,,那是刚做完爱的男人\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Those would be men who just had sex.
-Dialogue: 0,0:06:01.67,0:06:03.75,Default,NTP,0000,0000,0000,,我这么做是为了做个好邻居\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm doing this to be a good neighbor.
-Dialogue: 0,0:06:04.59,0:06:07.18,Default,NTP,0000,0000,0000,,再说也不会减少几率\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In any case,there's no way it could lower the odds.
-Dialogue: 0,0:06:10.01,0:06:11.23,Default,NTP,0000,0000,0000,,快到了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Almost there.
-Dialogue: 0,0:06:12.00,0:06:13.20,Default,NTP,0000,0000,0000,,快到了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Almost there.
-Dialogue: 0,0:06:14.21,0:06:15.79,Default,NTP,0000,0000,0000,,-快到了  -没  还没有\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-almost there. -no,we're not.
-Dialogue: 0,0:06:15.80,0:06:17.68,Default,NTP,0000,0000,0000,,没  还没有  没  还没有\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-i'm sorry. -no,we're not!
-Dialogue: 0,0:06:19.27,0:06:20.94,Default,NTP,0000,0000,0000,,小心你的手指\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Watch your fingers.
-Dialogue: 0,0:06:20.96,0:06:22.68,Default,NTP,0000,0000,0000,,天  我的手指\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh,god,my fingers!
-Dialogue: 0,0:06:24.89,0:06:26.79,Default,NTP,0000,0000,0000,,-你还好吗  -不好  她...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-you okay? -no,her...
-Dialogue: 0,0:06:27.10,0:06:29.66,Default,NTP,0000,0000,0000,,见鬼了  看看这个地方\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Great caesar's ghost,look at this place.
-Dialogue: 0,0:06:32.02,0:06:33.48,Default,NTP,0000,0000,0000,,潘妮这也就是有一点点乱\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So penny's a little messy.
-Dialogue: 0,0:06:33.61,0:06:35.20,Default,NTP,0000,0000,0000,,一点点乱?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A little messy?
-Dialogue: 0,0:06:35.38,0:06:38.43,Default,NTP,0000,0000,0000,,曼德尔布罗特集合才叫一点点乱\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The mandelbrot set of complex numbers is a little messy.
-Dialogue: 0,0:06:38.56,0:06:39.66,Default,NTP,0000,0000,0000,,这完全是一塌糊涂\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is chaos.
-Dialogue: 0,0:06:40.29,0:06:41.39,Default,NTP,0000,0000,0000,,问一下\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse me.
-Dialogue: 0,0:06:41.81,0:06:43.53,Default,NTP,0000,0000,0000,,跟我解释下托盘餐具放在沙发上\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Explain to me an organizational system
-Dialogue: 0,0:06:43.60,0:06:45.75,Default,NTP,0000,0000,0000,,这算哪门子组织系统\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where a tray of flatware on a couch is valid.
-Dialogue: 0,0:06:46.94,0:06:48.54,Default,NTP,0000,0000,0000,,我刚才有提到过这是沙发\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm just inferring this is a couch
-Dialogue: 0,0:06:48.61,0:06:50.57,Default,NTP,0000,0000,0000,,因为证据表明咖啡桌上\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Because the evidence suggests the coffee table
-Dialogue: 0,0:06:50.64,0:06:52.11,Default,NTP,0000,0000,0000,,正在举办小型二手货贩卖\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is having a tiny garage sale.
-Dialogue: 0,0:06:53.77,0:06:55.84,Default,NTP,0000,0000,0000,,你有没有想过并不是世界上所有的人\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Did it ever occur to you that not everyone has
-Dialogue: 0,0:06:55.91,0:06:58.20,Default,NTP,0000,0000,0000,,都有那种强迫症\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The compulsive need to sort,organize and label
-Dialogue: 0,0:06:58.30,0:06:59.74,Default,NTP,0000,0000,0000,,要把身边的东西都按顺序排好贴上标签?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The entire world around them?
-Dialogue: 0,0:07:00.64,0:07:01.74,Default,NTP,0000,0000,0000,,没有\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No.
-Dialogue: 0,0:07:03.19,0:07:04.29,Default,NTP,0000,0000,0000,,他们不是那样的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well,they don't.
-Dialogue: 0,0:07:04.51,0:07:06.25,Default,NTP,0000,0000,0000,,你可能不太相信\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hard as it may be for you to believe,
-Dialogue: 0,0:07:06.32,0:07:09.78,Default,NTP,0000,0000,0000,,大多数人不会把早餐麦片按纤维含量的顺序排列\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Most people don't sort their breakfast cereal numerically by fiber Content.
-Dialogue: 0,0:07:11.27,0:07:13.91,Default,NTP,0000,0000,0000,,但是我相信我们都觉察到那有时候很管用\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse me,but I think we've both found that helpful at times.
-Dialogue: 0,0:07:17.37,0:07:19.41,Default,NTP,0000,0000,0000,,-快点  该走了  -等等\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-come on,we should go. -hang on.
-Dialogue: 0,0:07:21.17,0:07:23.43,Default,NTP,0000,0000,0000,,-你在干吗  -我在整理\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-what are you doing? -i'm straightening up.
-Dialogue: 0,0:07:24.11,0:07:25.72,Default,NTP,0000,0000,0000,,谢尔顿  这不是你的家\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is not your home.
-Dialogue: 0,0:07:25.82,0:07:29.40,Default,NTP,0000,0000,0000,,这谁的家都不是  这是一团乱熵(熵越大  系统越无序)\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is not anyone's home. this is a swirling vortex of entropy.
-Dialogue: 0,0:07:31.38,0:07:34.75,Default,NTP,0000,0000,0000,,当那个异性装扮癖者住在这的时候你可没关心他怎么布置的这个地方\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When the transvestite lived here,you didn't care how he kept the place.
-Dialogue: 0,0:07:34.84,0:07:36.43,Default,NTP,0000,0000,0000,,那是因为太完美无暇了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Because it was immaculate.
-Dialogue: 0,0:07:36.45,0:07:38.69,Default,NTP,0000,0000,0000,,你打开那个男人的衣柜\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean,you opened that man's closet,
-Dialogue: 0,0:07:38.74,0:07:40.47,Default,NTP,0000,0000,0000,,从左到右依次是晚礼服\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It was left to right evening gowns,
-Dialogue: 0,0:07:40.51,0:07:42.80,Default,NTP,0000,0000,0000,,燕尾服然后是他的警察制服\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cocktail dresses,then his police uniforms.
-Dialogue: 0,0:07:44.31,0:07:45.89,Default,NTP,0000,0000,0000,,你开他的衣柜干吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What were you doing in his closet?
-Dialogue: 0,0:07:45.96,0:07:48.11,Default,NTP,0000,0000,0000,,我帮他拉电缆装网络摄象头\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I helped him run some cable for a web cam.
-Dialogue: 0,0:07:48.16,0:07:50.11,Default,NTP,0000,0000,0000,,-好啊  两位  -好啊  潘妮\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey guys. Hey penny
-Dialogue: 0,0:07:50.11,0:07:52.47,Default,NTP,0000,0000,0000,,家具到了  我们刚运上来  刚刚\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This just arrived,we just brought this up... just now.
-Dialogue: 0,0:07:52.71,0:07:54.85,Default,NTP,0000,0000,0000,,太好了  运上来费劲吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Great. was it hard getting it up the stairs?
-Dialogue: 0,0:07:54.99,0:07:56.32,Default,NTP,0000,0000,0000,,-不费劲  -不费劲?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-no. -"no"?
-Dialogue: 0,0:07:56.42,0:07:57.56,Default,NTP,0000,0000,0000,,一点都不费劲\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No.
-Dialogue: 0,0:07:57.92,0:07:59.03,Default,NTP,0000,0000,0000,,一点都不\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No.
-Dialogue: 0,0:08:00.04,0:08:01.71,Default,NTP,0000,0000,0000,,那我们不打扰你了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well,we'll get out of your hair.
-Dialogue: 0,0:08:01.77,0:08:03.29,Default,NTP,0000,0000,0000,,好的  再次感谢\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay,great. thank you again.
-Dialogue: 0,0:08:06.27,0:08:07.56,Default,NTP,0000,0000,0000,,潘妮\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}penny
-Dialogue: 0,0:08:08.27,0:08:11.06,Default,NTP,0000,0000,0000,,我想让你知道你不需要这样生活\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I just want you to know that you don't have to live like this.
-Dialogue: 0,0:08:12.27,0:08:13.37,Default,NTP,0000,0000,0000,,我愿意为你效劳\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm here for you.
-Dialogue: 0,0:08:15.62,0:08:17.12,Default,NTP,0000,0000,0000,,他在说什么\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's he talking about?
-Dialogue: 0,0:08:18.50,0:08:20.12,Default,NTP,0000,0000,0000,,-是个笑话  -我没听懂\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-it's a joke. -i don't get it.
-Dialogue: 0,0:08:20.22,0:08:21.74,Default,NTP,0000,0000,0000,,对  是他说的不好\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah,he didn't tell it right.
-Dialogue: 0,0:08:33.92,0:08:36.74,Default,NTP,0000,0000,0000,,谢尔顿\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}sheldon
-Dialogue: 0,0:08:47.22,0:08:49.74,Default,NTP,0000,0000,0000,,谢尔顿\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}sheldon
-Dialogue: 0,0:08:50.22,0:08:52.74,Default,NTP,0000,0000,0000,,有人吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}hello
-Dialogue: 0,0:09:13.18,0:09:15.57,Default,NTP,0000,0000,0000,,谢尔顿\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}sheldon
-Dialogue: 0,0:09:18.18,0:09:19.57,Default,NTP,0000,0000,0000,,潘妮在睡觉\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Penny's sleeping.
-Dialogue: 0,0:09:21.97,0:09:23.18,Default,NTP,0000,0000,0000,,你疯了吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you insane?
-Dialogue: 0,0:09:23.20,0:09:25.17,Default,NTP,0000,0000,0000,,你不能在半夜\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can't just break into a woman's apartment
-Dialogue: 0,0:09:25.22,0:09:26.92,Default,NTP,0000,0000,0000,,闯进一个女人的公寓  打扫\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In the middle of the night and clean.
-Dialogue: 0,0:09:27.04,0:09:29.59,Default,NTP,0000,0000,0000,,我别无选择  我睡不着\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I had no choice. I couldn't sleep knowing
-Dialogue: 0,0:09:29.64,0:09:31.73,Default,NTP,0000,0000,0000,,想到在我卧室外面是我们的客厅\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That just outside my bedroom was our living room,
-Dialogue: 0,0:09:31.77,0:09:33.97,Default,NTP,0000,0000,0000,,在我们客厅外面是走廊\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And just outside our living room was that hallway,
-Dialogue: 0,0:09:34.01,0:09:36.94,Default,NTP,0000,0000,0000,,和走廊这边就是...这个样子\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And immediately adjacent to the hallway was... this.
-Dialogue: 0,0:09:39.15,0:09:41.02,Default,NTP,0000,0000,0000,,你有没有意识到如果潘妮醒过来\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you realize that if penny wakes up,
-Dialogue: 0,0:09:41.21,0:09:43.99,Default,NTP,0000,0000,0000,,我们根本无法合理的解释为什么在这\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There is no reasonable explanation as to why we're here.
-Dialogue: 0,0:09:44.49,0:09:46.73,Default,NTP,0000,0000,0000,,我刚给了个你合理的解释\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I just gave you a reasonable explanation.
-Dialogue: 0,0:09:47.62,0:09:49.86,Default,NTP,0000,0000,0000,,没  没  你只是给了个解释\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No,no,you gave me an explanation.
-Dialogue: 0,0:09:50.12,0:09:53.30,Default,NTP,0000,0000,0000,,它的合理性要由你的陪审团来决定\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Its reasonableness will be determined by a jury of your peers.
-Dialogue: 0,0:09:54.12,0:09:56.61,Default,NTP,0000,0000,0000,,搞笑  我哪来的陪审团\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't be ridiculous. I have no peers.
-Dialogue: 0,0:09:57.28,0:09:59.03,Default,NTP,0000,0000,0000,,我们得赶快离开这\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We have to get out of here.
-Dialogue: 0,0:10:02.19,0:10:04.84,Default,NTP,0000,0000,0000,,你应该用低音区说话\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You might want to speak in a lower register.
-Dialogue: 0,0:10:05.21,0:10:06.32,Default,NTP,0000,0000,0000,,什么\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What?
-Dialogue: 0,0:10:06.98,0:10:08.79,Default,NTP,0000,0000,0000,,进化使得女人在睡觉的时候\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Evolution has made women sensitive
-Dialogue: 0,0:10:08.81,0:10:10.60,Default,NTP,0000,0000,0000,,对高音区的噪音非常敏感\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}To high-pitched noises while they sleep
-Dialogue: 0,0:10:10.68,0:10:12.78,Default,NTP,0000,0000,0000,,所以她们才能在婴儿哭的时候醒来\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So that they'll be roused by a crying baby.
-Dialogue: 0,0:10:12.88,0:10:14.47,Default,NTP,0000,0000,0000,,如果你不想吵醒她\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If you want to avoid waking her,
-Dialogue: 0,0:10:14.67,0:10:16.36,Default,NTP,0000,0000,0000,,就用低音区说话\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Speak in a lower register.
-Dialogue: 0,0:10:18.15,0:10:19.60,Default,NTP,0000,0000,0000,,那太荒谬了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's ridiculous!
-Dialogue: 0,0:10:22.73,0:10:23.87,Default,NTP,0000,0000,0000,,不对\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No.
-Dialogue: 0,0:10:24.63,0:10:26.27,Default,NTP,0000,0000,0000,,那太荒谬了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"that's ridiculous."
-Dialogue: 0,0:10:29.58,0:10:30.68,Default,NTP,0000,0000,0000,,好吧\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fine.
-Dialogue: 0,0:10:32.64,0:10:35.47,Default,NTP,0000,0000,0000,,我接受你的理论  我们快走吧\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I accept your premise. now,please,let's go.
-Dialogue: 0,0:10:35.70,0:10:37.81,Default,NTP,0000,0000,0000,,不弄好我是不会走的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm not leaving until I'm done.
-Dialogue: 0,0:10:42.21,0:10:45.17,Default,NTP,0000,0000,0000,,你有靠在那的时间不如打扫\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If you have time to lean,you have time to clean.
-Dialogue: 0,0:10:49.27,0:10:50.72,Default,NTP,0000,0000,0000,,随便吧\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh,what the hell.
-Dialogue: 0,0:10:58.68,0:10:59.78,Default,NTP,0000,0000,0000,,早上好\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Morning.
-Dialogue: 0,0:11:00.41,0:11:01.52,Default,NTP,0000,0000,0000,,早上好\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Morning.
-Dialogue: 0,0:11:02.09,0:11:04.34,Default,NTP,0000,0000,0000,,我必须要说我睡的非常香甜\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have to say I slept splendidly.
-Dialogue: 0,0:11:05.49,0:11:08.10,Default,NTP,0000,0000,0000,,虽然时间不长但是睡眠质量很好\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Granted,not long,but just deeply and well.
-Dialogue: 0,0:11:08.77,0:11:10.11,Default,NTP,0000,0000,0000,,我一点也不感到奇怪\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm not surprised.
-Dialogue: 0,0:11:10.20,0:11:11.94,Default,NTP,0000,0000,0000,,失眠的灵丹妙药就是\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A well-known folk cure for insomnia
-Dialogue: 0,0:11:12.02,0:11:14.77,Default,NTP,0000,0000,0000,,闯到邻居家里打扫\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is to break in your neighbor's apartment and clean.
-Dialogue: 0,0:11:15.80,0:11:16.90,Default,NTP,0000,0000,0000,,讽刺?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sarcasm?
-Dialogue: 0,0:11:17.61,0:11:18.71,Default,NTP,0000,0000,0000,,你觉得是吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You think?
-Dialogue: 0,0:11:19.55,0:11:22.05,Default,NTP,0000,0000,0000,,就算是吧  我的方法可能有点唐突\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Granted,my methods may have been somewhat unorthodox,
-Dialogue: 0,0:11:22.21,0:11:25.00,Default,NTP,0000,0000,0000,,但是我认为这能很好的提高潘妮的生活质量\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But I think the end result will be a measurable enhancement
-Dialogue: 0,0:11:25.02,0:11:27.52,Default,NTP,0000,0000,0000,,你说的对\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-to penny's quality of life -you've convinced me.
-Dialogue: 0,0:11:27.54,0:11:30.32,Default,NTP,0000,0000,0000,,也许今晚我们应该偷溜进去把她的地毯洗了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe tonight we should sneak in and shampoo her carpet.
-Dialogue: 0,0:11:30.99,0:11:33.66,Default,NTP,0000,0000,0000,,-你不认为那太过分了吗  -是\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-you don't think that crosses a line? -yes.
-Dialogue: 0,0:11:33.88,0:11:35.22,Default,NTP,0000,0000,0000,,天啊\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}For god's sake,
-Dialogue: 0,0:11:35.29,0:11:39.15,Default,NTP,0000,0000,0000,,哪次我开口说话都得举个讽刺的牌子吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do I have to hold up a sarcasm sign every time I open my mouth?
-Dialogue: 0,0:11:39.54,0:11:41.29,Default,NTP,0000,0000,0000,,你有讽刺的牌子?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You have a sarcasm sign?
-Dialogue: 0,0:11:44.15,0:11:46.24,Default,NTP,0000,0000,0000,,不  我没有讽刺的牌子\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No,I do not have a sarcasm sign.
-Dialogue: 0,0:11:47.19,0:11:49.48,Default,NTP,0000,0000,0000,,你想来点麦片吗  我觉得我今天情绪高涨\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you want some cereal? I feel so good today,
-Dialogue: 0,0:11:49.53,0:11:51.84,Default,NTP,0000,0000,0000,,我今天要选架子尾的低纤维\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm gonna choose from the low-fiber end of the shelf.
-Dialogue: 0,0:11:51.91,0:11:53.41,Default,NTP,0000,0000,0000,,好啊  honey puffs\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hello,honey puffs.
-Dialogue: 0,0:11:54.32,0:11:55.69,Default,NTP,0000,0000,0000,,妈的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Son of a bitch!
-Dialogue: 0,0:11:57.62,0:11:58.72,Default,NTP,0000,0000,0000,,潘妮起来了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Penny's up.
-Dialogue: 0,0:11:59.63,0:12:02.12,Default,NTP,0000,0000,0000,,你们这些怪物混蛋\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You sick geeky bastards!
-Dialogue: 0,0:12:03.54,0:12:05.29,Default,NTP,0000,0000,0000,,她怎么知道是我们干的?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How did she know it was us?
-Dialogue: 0,0:12:06.56,0:12:08.99,Default,NTP,0000,0000,0000,,我可能不小心留下了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I may have left a suggested organizational schematic
-Dialogue: 0,0:12:09.06,0:12:10.40,Default,NTP,0000,0000,0000,,如何整理卧室衣柜的建议图解\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}For her bedroom closet.
-Dialogue: 0,0:12:10.46,0:12:11.90,Default,NTP,0000,0000,0000,,里奥纳德\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}leonard
-Dialogue: 0,0:12:11.97,0:12:13.38,Default,NTP,0000,0000,0000,,天那  这下要糟了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}God,this is gonna be bad.
-Dialogue: 0,0:12:13.53,0:12:15.85,Default,NTP,0000,0000,0000,,再见  honey puffs  好啊  big bran\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good-bye,honey puffs. hello,big bran.
-Dialogue: 0,0:12:17.11,0:12:19.62,Default,NTP,0000,0000,0000,,昨晚在我睡觉的时候你们溜进我的公寓了?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You came into my apartment last night while I was sleeping?!
-Dialogue: 0,0:12:19.69,0:12:21.02,Default,NTP,0000,0000,0000,,是的  只是为了打扫\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes,but only to clean.
-Dialogue: 0,0:12:21.10,0:12:23.82,Default,NTP,0000,0000,0000,,准确的说是整理  你那里其实不太脏\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Really more to organize. you're not actually dirty,per se.
-Dialogue: 0,0:12:24.77,0:12:26.32,Default,NTP,0000,0000,0000,,把钥匙还给我\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give me back my key.
-Dialogue: 0,0:12:27.81,0:12:29.01,Default,NTP,0000,0000,0000,,我非常抱歉\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm very,very sorry.
-Dialogue: 0,0:12:29.09,0:12:31.10,Default,NTP,0000,0000,0000,,你知道这有多么的恐怖吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you understand how creepy this is?
-Dialogue: 0,0:12:31.28,0:12:33.46,Default,NTP,0000,0000,0000,,是的  我们昨晚讨论了好久\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh,yes,we discussed it at length last night.
-Dialogue: 0,0:12:33.79,0:12:36.08,Default,NTP,0000,0000,0000,,在我的房间  在我睡觉的时候\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In my apartment,while I was sleeping?!
-Dialogue: 0,0:12:36.26,0:12:39.36,Default,NTP,0000,0000,0000,,还有打呼  可能是有点鼻窦感染\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And snoring. and that's probably just a sinus infection.
-Dialogue: 0,0:12:39.55,0:12:41.03,Default,NTP,0000,0000,0000,,但也有可能是睡眠呼吸暂停综合症\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But it could be sleep apnea.
-Dialogue: 0,0:12:41.10,0:12:43.14,Default,NTP,0000,0000,0000,,你可能需要看一下耳鼻喉科医师\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You might want to see an otolaryngologist.
-Dialogue: 0,0:12:45.75,0:12:47.08,Default,NTP,0000,0000,0000,,喉科医生\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A throat doctor.
-Dialogue: 0,0:12:48.73,0:12:51.72,Default,NTP,0000,0000,0000,,哪种医生能把鞋从屁股上取下来\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And what kind of doctor removes shoes from asses?
-Dialogue: 0,0:12:52.75,0:12:54.19,Default,NTP,0000,0000,0000,,那要取决于深度\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Depending on the depth,
-Dialogue: 0,0:12:54.22,0:12:57.01,Default,NTP,0000,0000,0000,,要么是...直肠科医师\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's either a... proctologist
-Dialogue: 0,0:12:57.10,0:12:58.67,Default,NTP,0000,0000,0000,,要么是外科医生\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Or a general surgeon.
-Dialogue: 0,0:12:59.10,0:13:01.07,Default,NTP,0000,0000,0000,,讽刺\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}sacasm
-Dialogue: 0,0:13:08.10,0:13:09.07,Default,NTP,0000,0000,0000,,天啊\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}god
-Dialogue: 0,0:13:09.89,0:13:11.44,Default,NTP,0000,0000,0000,,潘妮  我认为你现在的感觉非常正常\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}penny I think what you're feeling
-Dialogue: 0,0:13:11.50,0:13:13.54,Default,NTP,0000,0000,0000,,也许等你没这么感觉...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is perfectly valid and maybe a little bit later
-Dialogue: 0,0:13:13.59,0:13:16.77,Default,NTP,0000,0000,0000,,因为没别的词了  被侵犯\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When you're feeling a little less... for lack of a better word--violated,
-Dialogue: 0,0:13:16.79,0:13:18.53,Default,NTP,0000,0000,0000,,我们可以好好谈一下\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe we can talk about this some more.
-Dialogue: 0,0:13:18.55,0:13:20.97,Default,NTP,0000,0000,0000,,-离我远点  -好的  那是另一个办法\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-stay away from me. -sure,that's another way to go.
-Dialogue: 0,0:13:21.05,0:13:23.39,Default,NTP,0000,0000,0000,,潘妮  潘妮  等等\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Penny,penny! hold on
-Dialogue: 0,0:13:23.46,0:13:25.07,Default,NTP,0000,0000,0000,,先声明\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just to clarify,
-Dialogue: 0,0:13:25.11,0:13:27.69,Default,NTP,0000,0000,0000,,因为你走后我们肯定会讨论\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Because there will be a discussion when you leave,
-Dialogue: 0,0:13:29.06,0:13:31.04,Default,NTP,0000,0000,0000,,你是只对我们在你睡觉的时候\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is your objection solely to our presence
-Dialogue: 0,0:13:31.12,0:13:32.97,Default,NTP,0000,0000,0000,,进入你的房间反感呢\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In the apartment while you were sleeping,
-Dialogue: 0,0:13:33.05,0:13:37.47,Default,NTP,0000,0000,0000,,还是你对我们强加的整理体系也感到反感?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Or do you also object to the imposition of a new organizational paradigm.
-Dialogue: 0,0:13:43.79,0:13:45.99,Default,NTP,0000,0000,0000,,那可真有点呆若木鸡啊\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well,that was a little non-responsive.
-Dialogue: 0,0:13:46.69,0:13:49.65,Default,NTP,0000,0000,0000,,你现在马上把自己送过去道歉\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You are going to march yourself over there right now and apologize.
-Dialogue: 0,0:13:54.65,0:13:55.75,Default,NTP,0000,0000,0000,,有什么好笑的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's funny?
-Dialogue: 0,0:13:56.05,0:13:57.78,Default,NTP,0000,0000,0000,,那不是讽刺吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That wasn't sarcasm?
-Dialogue: 0,0:13:58.05,0:13:59.78,Default,NTP,0000,0000,0000,,不是\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No
-Dialogue: 0,0:14:00.47,0:14:03.15,Default,NTP,0000,0000,0000,,天啊  你今天真是一塌糊涂\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Boy,you are all over the place this morning.
-Dialogue: 0,0:14:07.11,0:14:09.93,Default,NTP,0000,0000,0000,,我有一个硕士两个博士  我不应该做这个\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have a master's and two ph.d.s,I should not have to do this.
-Dialogue: 0,0:14:11.10,0:14:12.28,Default,NTP,0000,0000,0000,,干吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What?!
-Dialogue: 0,0:14:12.80,0:14:15.17,Default,NTP,0000,0000,0000,,我为昨晚的事感到非常抱歉\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I am truly sorry for what happened last night.
-Dialogue: 0,0:14:15.20,0:14:16.86,Default,NTP,0000,0000,0000,,责任全在我\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I take full responsibility.
-Dialogue: 0,0:14:17.37,0:14:19.84,Default,NTP,0000,0000,0000,,我希望这不会影响你对里奥纳德的看法\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And I hope that it won't color your opinion of leonard,
-Dialogue: 0,0:14:19.99,0:14:23.55,Default,NTP,0000,0000,0000,,他不仅是个非常好的人而且我还听说\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Who is not only a wonderful guy,but also,I hear,
-Dialogue: 0,0:14:23.74,0:14:25.49,Default,NTP,0000,0000,0000,,是个非常完美的情人\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A gentle and thorough lover.
-Dialogue: 0,0:14:38.03,0:14:39.58,Default,NTP,0000,0000,0000,,我能做的都做了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I did what I could.
-Dialogue: 0,0:14:44.26,0:14:45.38,Default,NTP,0000,0000,0000,,嘿  拉杰\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey,raj.
-Dialogue: 0,0:14:50.75,0:14:51.85,Default,NTP,0000,0000,0000,,嘿\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey,listen.
-Dialogue: 0,0:14:52.34,0:14:54.73,Default,NTP,0000,0000,0000,,我不知道你听说昨晚里奥纳德和谢尔顿干的事了没有\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know if you heard about what happened last night.
-Dialogue: 0,0:14:54.83,0:14:56.31,Default,NTP,0000,0000,0000,,但是我感到非常气愤\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But I'm really upset about it.
-Dialogue: 0,0:14:56.37,0:14:58.64,Default,NTP,0000,0000,0000,,他们不请自入的进了我的房间\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean,they just... they let themselves into my place
-Dialogue: 0,0:14:58.73,0:15:01.02,Default,NTP,0000,0000,0000,,然后他们把房子打扫了一遍  你相信吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And then they cleaned it. can you even believe that?
-Dialogue: 0,0:15:01.08,0:15:02.36,Default,NTP,0000,0000,0000,,太诡异了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How weird is that?
-Dialogue: 0,0:15:02.81,0:15:04.45,Default,NTP,0000,0000,0000,,她离我好近\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She's standing very close to me.
-Dialogue: 0,0:15:05.73,0:15:07.53,Default,NTP,0000,0000,0000,,她闻起来真香\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh,my,she does smell good.
-Dialogue: 0,0:15:07.82,0:15:09.73,Default,NTP,0000,0000,0000,,是什么  香草味的吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What is that,vanilla?
-Dialogue: 0,0:15:10.33,0:15:12.23,Default,NTP,0000,0000,0000,,在我们那\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know,where I come from,
-Dialogue: 0,0:15:12.37,0:15:15.36,Default,NTP,0000,0000,0000,,如果有人晚上闯入你的家  你可以开枪  知道吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If someone comes into your house at night,you shoot. okay?
-Dialogue: 0,0:15:15.41,0:15:16.85,Default,NTP,0000,0000,0000,,不仅仅是打伤\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And you don't shoot to wound.
-Dialogue: 0,0:15:16.90,0:15:18.86,Default,NTP,0000,0000,0000,,我妹妹对她老公开了次枪\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean,all right,my sister shot her husband,
-Dialogue: 0,0:15:18.96,0:15:20.74,Default,NTP,0000,0000,0000,,但是那是次意外  他们都喝醉了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But it was an accident,they were drunk.
-Dialogue: 0,0:15:21.65,0:15:23.16,Default,NTP,0000,0000,0000,,我在说什么来着\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait,what was I saying?
-Dialogue: 0,0:15:23.64,0:15:25.49,Default,NTP,0000,0000,0000,,她可真罗嗦啊\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She's so chatty.
-Dialogue: 0,0:15:26.25,0:15:30.36,Default,NTP,0000,0000,0000,,也许我父母是对的  我应该找个印度女孩\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}maybe my parents are right. Maybe I'd be better off with an indian girl.
-Dialogue: 0,0:15:30.45,0:15:32.19,Default,NTP,0000,0000,0000,,我们有相同的文化背景\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We'd have the same cultural background
-Dialogue: 0,0:15:32.28,0:15:35.37,Default,NTP,0000,0000,0000,,我老婆就可以给我孩子唱\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And my wife could sing to my children the same lullabies my mother sang
-Dialogue: 0,0:15:35.38,0:15:35.74,Default,NTP,0000,0000,0000,,我妈妈经常给我唱的那首摇篮曲\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}To me.
-Dialogue: 0,0:15:35.98,0:15:37.83,Default,NTP,0000,0000,0000,,虽然他们是好意  但是我...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's obvious that they meant well,but...
-Dialogue: 0,0:15:37.93,0:15:40.73,Default,NTP,0000,0000,0000,,我现在过的很不好  我说过我和我男朋友分手了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm having a really rough time. like i said I broke up with my boyfriend
-Dialogue: 0,0:15:40.77,0:15:42.41,Default,NTP,0000,0000,0000,,我有点乱了阵脚\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And...
-Dialogue: 0,0:15:47.10,0:15:50.60,Default,NTP,0000,0000,0000,,虽然我认识的大部分男人都是混蛋\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}i mean Just because most of the men I've known in my life happen to be jerks,
-Dialogue: 0,0:15:50.74,0:15:53.58,Default,NTP,0000,0000,0000,,并不意味着里奥纳德和谢尔顿也是\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Doesn't mean I should just assume leonard and sheldon are.
-Dialogue: 0,0:15:53.74,0:15:54.84,Default,NTP,0000,0000,0000,,是吧\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Right?
-Dialogue: 0,0:15:54.99,0:15:57.80,Default,NTP,0000,0000,0000,,她问了我个问题  我或许应该点头\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She asked me a question. I should probably nod.
-Dialogue: 0,0:16:00.24,0:16:01.78,Default,NTP,0000,0000,0000,,我也是这么想的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's exactly what I thought.
-Dialogue: 0,0:16:01.87,0:16:04.18,Default,NTP,0000,0000,0000,,谢谢你的倾听  你太可爱了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you for listening. you're a doll.
-Dialogue: 0,0:16:06.60,0:16:08.00,Default,NTP,0000,0000,0000,,转动胯部\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Turn your pelvis.
-Dialogue: 0,0:16:21.81,0:16:24.14,Default,NTP,0000,0000,0000,,拿张餐巾吧  兄弟  你刚被伺候了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Grab a napkin,homie. you just got served.
-Dialogue: 0,0:16:27.30,0:16:28.83,Default,NTP,0000,0000,0000,,算了  你赢了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's fine.you win.
-Dialogue: 0,0:16:30.51,0:16:31.78,Default,NTP,0000,0000,0000,,他怎么了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's his problem?
-Dialogue: 0,0:16:32.17,0:16:34.47,Default,NTP,0000,0000,0000,,他的假想女朋友和他分手了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}His imaginary girlfriend broke up with him.
-Dialogue: 0,0:16:36.37,0:16:37.47,Default,NTP,0000,0000,0000,,经历过\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Been there.
-Dialogue: 0,0:16:41.23,0:16:42.33,Default,NTP,0000,0000,0000,,抱歉我现在才来\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hello. Sorry I'm late,
-Dialogue: 0,0:16:42.47,0:16:44.75,Default,NTP,0000,0000,0000,,但是我在走廊里和潘妮聊天来着\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But I was in the hallway,chatting up penny.
-Dialogue: 0,0:16:45.44,0:16:48.75,Default,NTP,0000,0000,0000,,真的假的  你拉杰·库萨帕里和潘妮说话了?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Really? you,rajesh koothrappali,spoke to penny?
-Dialogue: 0,0:16:49.14,0:16:51.79,Default,NTP,0000,0000,0000,,实际上我说的比哑巴还少\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Actually,I was less the chatter than the chat-ee.
-Dialogue: 0,0:16:52.50,0:16:54.61,Default,NTP,0000,0000,0000,,她说什么了  她还生我的气吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What did she say? is she still mad at me?
-Dialogue: 0,0:16:54.72,0:16:56.29,Default,NTP,0000,0000,0000,,刚开始她是很生气\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well,she was upset at first,
-Dialogue: 0,0:16:56.34,0:16:58.99,Default,NTP,0000,0000,0000,,可能是因为她姐姐用枪射了某个人\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But probably because her sister shot somebody.
-Dialogue: 0,0:17:01.23,0:17:03.11,Default,NTP,0000,0000,0000,,然后好象说了点关于你的事\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But then there was something about you,
-Dialogue: 0,0:17:03.20,0:17:04.65,Default,NTP,0000,0000,0000,,然后她抱了下我\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And then she hugged me.
-Dialogue: 0,0:17:05.30,0:17:07.60,Default,NTP,0000,0000,0000,,她抱你了?  她怎么抱你的?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She hugged you? how'd she hug you?
-Dialogue: 0,0:17:16.49,0:17:18.04,Default,NTP,0000,0000,0000,,那个香水是她身上的吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is that her perfume I smell?
-Dialogue: 0,0:17:20.20,0:17:21.89,Default,NTP,0000,0000,0000,,非常醉人  是不是\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Intoxicating,isn't it?
-Dialogue: 0,0:17:38.67,0:17:39.77,Default,NTP,0000,0000,0000,,好啊\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi.
-Dialogue: 0,0:17:42.06,0:17:43.16,Default,NTP,0000,0000,0000,,你在干吗\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's going on?
-Dialogue: 0,0:17:45.49,0:17:46.81,Default,NTP,0000,0000,0000,,是这样的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here's the thing.
-Dialogue: 0,0:17:51.36,0:17:55.92,Default,NTP,0000,0000,0000,,潘妮  就象奥本海默\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"penny,just as oppenheimer came to regret his contributions
-Dialogue: 0,0:17:55.99,0:17:57.59,Default,NTP,0000,0000,0000,,后悔发明了原子弹一样\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"to the first atomic bomb,
-Dialogue: 0,0:17:57.72,0:18:00.06,Default,NTP,0000,0000,0000,,我也后悔了我的加入\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"so too I regret my participation in what was,
-Dialogue: 0,0:18:00.16,0:18:02.28,Default,NTP,0000,0000,0000,,至少是次错误的判断\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"at the very least,an error in judgment.
-Dialogue: 0,0:18:03.82,0:18:05.97,Default,NTP,0000,0000,0000,,一个伟大的实验的标志就是\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"the hallmark of the great human experiment
-Dialogue: 0,0:18:06.09,0:18:08.13,Default,NTP,0000,0000,0000,,敢于承认自己犯下的错误\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"is the willingness to recognize one's mistakes.
-Dialogue: 0,0:18:08.20,0:18:10.63,Default,NTP,0000,0000,0000,,有些错误  象居里夫人发现了镭\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"some mistakes,such as madam curie's discovery of radium,
-Dialogue: 0,0:18:10.66,0:18:12.65,Default,NTP,0000,0000,0000,,后来被证明有很大的科学研究价值\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"turned out to have great scientific potential,
-Dialogue: 0,0:18:12.69,0:18:14.32,Default,NTP,0000,0000,0000,,尽管她后来死于\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"even though she would later die a slow,
-Dialogue: 0,0:18:14.33,0:18:16.09,Default,NTP,0000,0000,0000,,漫长而痛苦的放射线危害\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Painful death "from radiation poisoning.
-Dialogue: 0,0:18:18.71,0:18:21.09,Default,NTP,0000,0000,0000,,还有另一个例子 埃博拉研究...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Another example,from the field of ebola research..."
-Dialogue: 0,0:18:26.02,0:18:28.12,Default,NTP,0000,0000,0000,,里奥纳德  我们之间没事了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Leonard,we're okay.
-Dialogue: 0,0:18:48.59,0:18:50.00,Default,NTP,0000,0000,0000,,-六个两寸的木钉  -有\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-six two inch dowels. -check.
-Dialogue: 0,0:18:50.66,0:18:53.07,Default,NTP,0000,0000,0000,,-一盒十字螺丝钉  -有\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-one package phillips head screws. -check.
-Dialogue: 0,0:18:53.12,0:18:55.19,Default,NTP,0000,0000,0000,,各位  我是在农场长大的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You guys,seriously,I grew up on a farm,okay?
-Dialogue: 0,0:18:55.27,0:18:57.45,Default,NTP,0000,0000,0000,,我12岁的时候自己装起来了个拖拉机发动机\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I rebuilt a tractor engine when I was,like,12.
-Dialogue: 0,0:18:57.52,0:18:59.97,Default,NTP,0000,0000,0000,,我想我能装个廉价的瑞典电视柜\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think I can put together a cheap,swedish media center.
-Dialogue: 0,0:18:59.99,0:19:03.05,Default,NTP,0000,0000,0000,,还是我们来  这是我们唯一能做的  鉴于...\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No,please. we insist. it's the least we can do,considering.
-Dialogue: 0,0:19:03.11,0:19:04.54,Default,NTP,0000,0000,0000,,鉴于什么\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Considering what?
-Dialogue: 0,0:19:04.60,0:19:06.55,Default,NTP,0000,0000,0000,,这个地方看起来有多么漂亮?\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How great this place looks?
-Dialogue: 0,0:19:07.86,0:19:10.00,Default,NTP,0000,0000,0000,,-我就担心这个  -怎么了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-oh,boy. I was afraid of this. -what?
-Dialogue: 0,0:19:10.24,0:19:12.99,Default,NTP,0000,0000,0000,,这些说明书用都是些图解\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}These instructions are a pictographic representation
-Dialogue: 0,0:19:13.01,0:19:16.03,Default,NTP,0000,0000,0000,,用最没有想象力的方式组合的这些零件\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Of the least imaginative way to assemble these components.
-Dialogue: 0,0:19:16.06,0:19:18.50,Default,NTP,0000,0000,0000,,这就是为什么瑞典没有太空项目\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This,right here is why sweden has no space program.
-Dialogue: 0,0:19:20.02,0:19:21.88,Default,NTP,0000,0000,0000,,在店里看起来挺漂亮的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well,it looked pretty good in the store.
-Dialogue: 0,0:19:22.00,0:19:24.99,Default,NTP,0000,0000,0000,,这个设计非常不合理  假设她有个平板电视\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It is an inefficient design. for example,she has a flat screen tv,
-Dialogue: 0,0:19:25.05,0:19:27.12,Default,NTP,0000,0000,0000,,那就意味着这后面的空间都浪费了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Which means all the space behind it is wasted.
-Dialogue: 0,0:19:27.24,0:19:29.87,Default,NTP,0000,0000,0000,,-我们可以把音响放这  -那怎么遥控\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-we could put her stereo back there. -and control it how?
-Dialogue: 0,0:19:29.96,0:19:31.40,Default,NTP,0000,0000,0000,,装个红外线转接器\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Run an infrared repeater.
-Dialogue: 0,0:19:31.44,0:19:33.78,Default,NTP,0000,0000,0000,,光电管装这  接受器装这  小菜一碟\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Photo cell here,emitter here,easy-peasy.
-Dialogue: 0,0:19:35.13,0:19:36.56,Default,NTP,0000,0000,0000,,想法不错  怎么冷却\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good point.How are you gonna cool it?
-Dialogue: 0,0:19:36.59,0:19:38.83,Default,NTP,0000,0000,0000,,-嘿  我知道怎么弄了  -等等  潘妮\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-hey,guys,I got this. -hang on,penny.
-Dialogue: 0,0:19:39.00,0:19:41.43,Default,NTP,0000,0000,0000,,用风扇怎么样  这里一个  这里一个\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How about fans? here and here.
-Dialogue: 0,0:19:41.59,0:19:43.47,Default,NTP,0000,0000,0000,,还是不太合理而且可能有噪音\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Also inefficient,and might be loud.
-Dialogue: 0,0:19:43.51,0:19:46.03,Default,NTP,0000,0000,0000,,液体冷却剂怎么样  在这弄个水泵\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How about liquid coolant? maybe a little aquarium pump here,
-Dialogue: 0,0:19:46.12,0:19:47.70,Default,NTP,0000,0000,0000,,装四分之一英寸的聚氯乙烯\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Run some quarter-inch pvc...
-Dialogue: 0,0:19:47.88,0:19:49.72,Default,NTP,0000,0000,0000,,这个东西其实挺简单的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Guys,this is actually really simple.
-Dialogue: 0,0:19:50.62,0:19:52.17,Default,NTP,0000,0000,0000,,等会  亲爱的  男人在干活\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hold on,honey. men at work.
-Dialogue: 0,0:19:54.68,0:19:55.98,Default,NTP,0000,0000,0000,,聚氯乙烯循环到这\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The pvc comes down here.
-Dialogue: 0,0:19:56.01,0:19:58.39,Default,NTP,0000,0000,0000,,用点波纹薄钢板在这做散热器\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe a little corrugated sheet metal as a radiator here.
-Dialogue: 0,0:19:58.43,0:20:00.48,Default,NTP,0000,0000,0000,,是吗  那怎么装水盘  水闸\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah? show me where we put a drip tray,a sluice,
-Dialogue: 0,0:20:00.49,0:20:01.72,Default,NTP,0000,0000,0000,,还有蓄水池\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And an overflow reservoir.
-Dialogue: 0,0:20:01.80,0:20:04.87,Default,NTP,0000,0000,0000,,如果用到水  那就要把这玩意得接地吧\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If water's involved,we're gonna have to ground the crap out of the thing.
-Dialogue: 0,0:20:05.18,0:20:07.73,Default,NTP,0000,0000,0000,,这里好热哦  我还是把衣服脱光了吧\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's hot in here. I think I'll just take off all my clothes.
-Dialogue: 0,0:20:13.35,0:20:14.45,Default,NTP,0000,0000,0000,,我想出来了\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh,I've got it.
-Dialogue: 0,0:20:16.04,0:20:17.31,Default,NTP,0000,0000,0000,,如果我们把\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What about if we replace
-Dialogue: 0,0:20:17.40,0:20:21.12,Default,NTP,0000,0000,0000,,嵌板A  B  F和横木H都换成航空铝\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Panels a,b and f and crossbar h with aircraft-grade aluminum?
-Dialogue: 0,0:20:21.24,0:20:23.21,Default,NTP,0000,0000,0000,,对了  那整个就都是散热片\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Right. then the entire thing is one heat sink.
-Dialogue: 0,0:20:23.27,0:20:25.23,Default,NTP,0000,0000,0000,,完美  你和谢尔顿去废物堆积场\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You and sheldon go to the junkyard and pick up
-Dialogue: 0,0:20:25.28,0:20:26.73,Default,NTP,0000,0000,0000,,找个6平方的铝合板\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}6 square meters of scrap aluminum?
-Dialogue: 0,0:20:26.78,0:20:28.74,Default,NTP,0000,0000,0000,,我和拉杰搞定氧乙炔喷焊器\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Raj and I will get the oxyacetylene torch.
-Dialogue: 0,0:20:28.80,0:20:30.47,Default,NTP,0000,0000,0000,,-一小时后在这见?  -好的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-meet back here in an hour? -done.
-Dialogue: 0,0:20:34.66,0:20:36.59,Default,NTP,0000,0000,0000,,好吧  这个地方确实看起来挺棒的\N{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay,this place does look pretty good.
+Does it have peanut oil?
 
+
+I'm not sure.
+
+
+Everyone keep an eye on Howard
+in case he starts to swell up.
+
+
+Since it's not bee season,
+you can have my epinephrine.
+
+
+- Any chopsticks?
+- Don't need chopsticks, this is Thai food.
+
+
+Here we go.
+
+
+Thailand has had the fork
+since the latter half of the 19th century.
+
+
+They don't put the fork in their mouth,
+they use it to put the food on a spoon...
+
+
+...which then goes into their mouth.
+
+
+Ask him for a napkin, I dare you.
+
+
+<font color="#E86CE4">(KNOCKING ON DOOR)</font>
+
+
+I'll get it.
+
+
+Do I look puffy? I feel puffy.
+
+
+- Hey, Leonard.
+- Oh, hi, Penny.
+
+
+- Am I interrupting?
+- No.
+
+
+You're not swelling, Howard.
+
+ No, look at my fingers,
+they're like Vienna sausages.
+
+
+- Sounds like you have company.
+- They're not going anywhere.
+
+
+So you're coming home from work.
+That's great. How was work?
+
+
+You know, it's a Cheesecake Factory...
+
+
+...people order cheesecake
+and I bring it to them.
+
+23
+00:00:57,724 --> 00:01:02,728
+So you kind of act
+as like a carbohydrate delivery system?
+
+24
+00:01:03,688 --> 00:01:06,231
+Yeah, call it whatever you want,
+I get minimum wage.
+
+25
+00:01:07,650 --> 00:01:08,650
+Yeah.
+
+26
+00:01:08,818 --> 00:01:10,736
+I was wondering
+if you could help me out...
+
+27
+00:01:10,904 --> 00:01:13,030
+- Yes.
+- Oh.
+
+28
+00:01:13,198 --> 00:01:15,532
+Okay, great, I'm having
+some furniture delivered...
+
+29
+00:01:15,700 --> 00:01:18,035
+...and I may not be here, so, oh...
+
+30
+00:01:18,995 --> 00:01:20,329
+Hello.
+
+31
+00:01:21,164 --> 00:01:23,248
+<font color="#E86CE4">(SPEAKS IN RUSSIAN)</font>
+
+32
+00:01:24,626 --> 00:01:25,667
+I'm sorry?
+
+33
+00:01:25,835 --> 00:01:29,171
+Haven't you ever been told
+how beautiful you are in flawless Russian?
+
+34
+00:01:29,339 --> 00:01:31,924
+- No, I haven't.
+- Get used to it.
+
+35
+00:01:32,509 --> 00:01:34,176
+Yeah, I probably won't.
+
+36
+00:01:35,261 --> 00:01:36,303
+- Hey, Sheldon.
+- Hi.
+
+37
+00:01:36,471 --> 00:01:38,180
+Hey, Raj.
+
+38
+00:01:39,641 --> 00:01:41,475
+Still not talking to me, huh?
+
+39
+00:01:41,643 --> 00:01:43,685
+Don't take it personally,
+it's his pathology.
+
+40
+00:01:43,853 --> 00:01:46,647
+- He can't talk to women.
+- He can't talk to attractive women.
+
+41
+00:01:46,815 --> 00:01:49,316
+Or in your case,
+a cheesecake-scented goddess.
+
+42
+00:01:49,776 --> 00:01:52,444
+- There's gonna be some furniture delivered?
+- Yeah.
+
+43
+00:01:52,612 --> 00:01:56,198
+If it gets here and I'm not here,
+could you sign for it and put it in?
+
+44
+00:01:56,366 --> 00:01:58,700
+- Yeah, no problem.
+- Great, here's my spare key.
+
+45
+00:01:58,868 --> 00:02:00,494
+Thank you.
+
+46
+00:02:01,871 --> 00:02:03,038
+- Penny, wait.
+- Yeah?
+
+47
+00:02:04,415 --> 00:02:05,791
+Um...
+
+48
+00:02:06,376 --> 00:02:08,043
+If you don't have any other plans...
+
+49
+00:02:08,211 --> 00:02:11,380
+...do you wanna join us for Thai food
+and a Superman movie marathon?
+
+50
+00:02:11,548 --> 00:02:14,341
+A marathon? Wow, how many
+Superman movies are there?
+
+51
+00:02:14,759 --> 00:02:17,636
+You're kidding, right?
+
+52
+00:02:17,804 --> 00:02:20,514
+I do like the one where
+Lois Lane falls from the helicopter...
+
+53
+00:02:20,682 --> 00:02:21,974
+...and Superman catches her.
+
+54
+00:02:22,142 --> 00:02:24,560
+- Which one was that?
+- One.
+
+55
+00:02:25,145 --> 00:02:28,564
+You realize that scene was rife
+with scientific inaccuracy?
+
+56
+00:02:28,731 --> 00:02:30,482
+Yes, I know, men can't fly.
+
+57
+00:02:30,650 --> 00:02:32,151
+No, let's assume that they can.
+
+58
+00:02:33,987 --> 00:02:35,237
+Lois Lane is falling.
+
+59
+00:02:35,405 --> 00:02:37,865
+Accelerating at an initial rate
+of 32 feet per second.
+
+60
+00:02:38,032 --> 00:02:41,076
+Superman swoops down to save her
+by reaching out two arms of steel.
+
+61
+00:02:41,244 --> 00:02:42,995
+Miss Lane, who is now traveling...
+
+62
+00:02:43,163 --> 00:02:45,581
+...at approximately
+120 miles an hour, hits them...
+
+63
+00:02:45,748 --> 00:02:48,709
+...and is immediately
+sliced into three equal pieces.
+
+64
+00:02:50,044 --> 00:02:53,422
+Unless Superman
+matches her speed and decelerates.
+
+65
+00:02:53,590 --> 00:02:55,299
+In what space, sir? In what space?
+
+66
+00:02:55,466 --> 00:02:56,884
+She's 2 feet above the ground.
+
+67
+00:02:57,510 --> 00:03:00,095
+If he really loved her,
+he'd let her hit the pavement.
+
+68
+00:03:00,263 --> 00:03:02,598
+- It would be a more merciful death.
+- That doesn't...
+
+69
+00:03:02,765 --> 00:03:06,518
+Excuse me, your entire argument
+is predicated on the assumption...
+
+70
+00:03:06,686 --> 00:03:09,021
+...that Superman's flight
+is a feat of strength.
+
+71
+00:03:09,189 --> 00:03:10,606
+Are you listening to yourself?
+
+72
+00:03:10,773 --> 00:03:12,941
+Superman's flight is a feat of strength.
+
+73
+00:03:13,109 --> 00:03:15,360
+An extension of his ability
+to leap buildings...
+
+74
+00:03:15,528 --> 00:03:17,654
+...an ability he derives
+from exposure to sun...
+
+75
+00:03:17,822 --> 00:03:19,698
+How does he fly at night?
+
+76
+00:03:19,866 --> 00:03:21,992
+A combination
+of the moon's solar reflection...
+
+77
+00:03:22,160 --> 00:03:25,204
+...and the energy storage capacity
+of Kryptonian skin cells.
+
+78
+00:03:26,539 --> 00:03:28,290
+I'm just gonna go wash up.
+
+79
+00:03:28,458 --> 00:03:30,292
+I have 2600 comic books in there.
+
+80
+00:03:30,460 --> 00:03:34,046
+I challenge you to find a single reference
+to Kryptonian skin cells.
+
+81
+00:03:34,214 --> 00:03:36,465
+Challenge accepted.
+
+82
+00:03:39,302 --> 00:03:40,719
+We're locked out.
+
+83
+00:03:40,887 --> 00:03:43,055
+Also, the pretty girl left.
+
+84
+00:04:08,164 --> 00:04:09,331
+Okay.
+
+85
+00:04:09,499 --> 00:04:12,751
+Her apartment's on the fourth floor,
+elevator is broken, you're gonna...
+
+86
+00:04:12,919 --> 00:04:15,462
+Oh, you're just gonna be done?
+Okay, cool, thanks.
+
+87
+00:04:16,923 --> 00:04:20,676
+- I guess we'll just bring it up ourselves.
+- I hardly think so.
+
+88
+00:04:21,386 --> 00:04:22,803
+Why not?
+
+89
+00:04:22,971 --> 00:04:24,554
+Well, we don't have a dolly...
+
+90
+00:04:24,722 --> 00:04:28,475
+...or lifting belts,
+or any measurable upper-body strength.
+
+91
+00:04:29,060 --> 00:04:31,311
+We don't need strength.
+We're physicists.
+
+92
+00:04:31,479 --> 00:04:33,814
+We are the intellectual
+descendents of Archimedes.
+
+93
+00:04:33,982 --> 00:04:36,525
+Give me a fulcrum and a lever
+and I can move the Earth.
+
+94
+00:04:36,693 --> 00:04:39,361
+It's just a matter... I don't have this!
+I do not have this!
+
+95
+00:04:40,321 --> 00:04:43,073
+Archimedes would be so proud.
+
+96
+00:04:48,830 --> 00:04:50,580
+Do you have any ideas?
+
+97
+00:04:50,748 --> 00:04:53,875
+Yes, but they all involve
+a Green Lantern and a power ring.
+
+98
+00:04:55,378 --> 00:04:58,964
+Easy. Easy.
+
+99
+00:05:01,509 --> 00:05:04,803
+Okay. Now we've got an inclined plane.
+
+100
+00:05:04,971 --> 00:05:08,432
+Force required to lift is reduced
+by the sine of the angle of the stairs...
+
+101
+00:05:08,599 --> 00:05:10,475
+...call it 30 degrees, so about half.
+
+102
+00:05:10,643 --> 00:05:15,105
+Exactly half.
+
+103
+00:05:16,399 --> 00:05:18,400
+Let's push.
+
+104
+00:05:20,278 --> 00:05:21,778
+Okay.
+
+105
+00:05:21,946 --> 00:05:24,031
+See, it's moving. This is easy.
+
+106
+00:05:24,198 --> 00:05:25,615
+It's all in the math.
+
+107
+00:05:26,451 --> 00:05:29,244
+- What's your formula for the corner?
+- What?
+
+108
+00:05:31,748 --> 00:05:33,707
+Oh, okay.
+
+109
+00:05:35,376 --> 00:05:38,962
+Okay, yeah, no problem.
+Just come up here, help me pull and turn.
+
+110
+00:05:43,301 --> 00:05:46,970
+Oh, gravity, thou art a heatless bitch.
+
+111
+00:05:48,222 --> 00:05:50,098
+You do understand
+that our efforts here...
+
+112
+00:05:50,266 --> 00:05:54,770
+...will in no way increase the odds of you
+having sexual congress with this woman?
+
+113
+00:05:55,271 --> 00:05:57,814
+Men do things for women
+without expecting sex.
+
+114
+00:05:57,982 --> 00:06:00,067
+Yeah, those would be men
+who just had sex.
+
+115
+00:06:01,652 --> 00:06:03,653
+I'm doing this to be a good neighbor.
+
+116
+00:06:04,655 --> 00:06:07,991
+In any case, there's no way
+it could lower the odds.
+
+117
+00:06:10,078 --> 00:06:13,789
+Almost there.
+
+118
+00:06:13,956 --> 00:06:15,624
+- Almost there.
+<font color="#808080">SHELDON</font>: No, we're not.
+
+119
+00:06:15,792 --> 00:06:18,001
+- No, we're not. No, we're not.
+- I'm sorry.
+
+120
+00:06:19,212 --> 00:06:20,587
+- Watch your fingers.
+- Yeah.
+
+121
+00:06:20,755 --> 00:06:23,215
+Oh, God, my fingers!
+
+122
+00:06:24,884 --> 00:06:26,968
+- You okay?
+- No, it hurt...
+
+123
+00:06:27,136 --> 00:06:30,347
+Great Caesar's ghost, look at this place.
+
+124
+00:06:31,974 --> 00:06:33,392
+So Penny is a little messy.
+
+125
+00:06:33,559 --> 00:06:35,227
+A little messy?
+
+126
+00:06:35,395 --> 00:06:38,313
+The Mandelbrot set
+of complex numbers is a little messy.
+
+127
+00:06:38,481 --> 00:06:39,606
+This is chaos.
+
+128
+00:06:39,774 --> 00:06:41,733
+Excuse me.
+
+129
+00:06:41,901 --> 00:06:43,193
+Explain to me a system...
+
+130
+00:06:43,361 --> 00:06:46,530
+...where a tray of flatware
+on a couch is valid?
+
+131
+00:06:46,697 --> 00:06:48,657
+I'm just inferring that this is a couch...
+
+132
+00:06:48,825 --> 00:06:52,786
+...because the evidence suggests
+the coffee table's having a tiny garage sale.
+
+133
+00:06:53,663 --> 00:06:56,998
+Did it occur to you that not everyone
+has the compulsive need to sort...
+
+134
+00:06:57,166 --> 00:06:59,626
+...organize and label
+the entire world around them?
+
+135
+00:07:00,503 --> 00:07:02,129
+No.
+
+136
+00:07:03,089 --> 00:07:04,297
+Well, they don't.
+
+137
+00:07:04,465 --> 00:07:05,924
+Hard as it may be to believe...
+
+138
+00:07:06,092 --> 00:07:10,595
+...most people don't sort their breakfast
+cereal numerically by fiber content.
+
+139
+00:07:11,139 --> 00:07:14,349
+Excuse me, but I think
+we've both found that helpful at times.
+
+140
+00:07:17,228 --> 00:07:19,813
+- Come on, we should go.
+- Hang on.
+
+141
+00:07:20,731 --> 00:07:23,650
+- What are you doing?
+- I'm straightening up.
+
+142
+00:07:23,818 --> 00:07:25,694
+Sheldon, this is not your home.
+
+143
+00:07:25,862 --> 00:07:29,448
+This is not anyone's home.
+This is a swirling vortex of entropy.
+
+144
+00:07:31,367 --> 00:07:34,703
+When the transvestite lived here,
+you didn't care how he kept the place.
+
+145
+00:07:34,871 --> 00:07:36,079
+Because it was immaculate.
+
+146
+00:07:36,247 --> 00:07:38,248
+I mean, you open that man's closet...
+
+147
+00:07:38,416 --> 00:07:43,712
+...it was left to right, evening gowns,
+cocktail dresses and his police uniforms.
+
+148
+00:07:44,297 --> 00:07:48,091
+- What were you doing in his closet?
+- I helped him run some cable for a webcam.
+
+149
+00:07:48,259 --> 00:07:50,051
+- Hey, guys.
+- Oh, hey, Penny.
+
+150
+00:07:50,219 --> 00:07:52,345
+This just arrived.
+Brought this up. Just now.
+
+151
+00:07:52,513 --> 00:07:54,723
+Great. Was it hard getting up the stairs?
+
+152
+00:07:54,891 --> 00:07:56,057
+- No.
+- No?
+
+153
+00:07:56,225 --> 00:07:59,895
+- No.
+- No.
+
+154
+00:08:00,062 --> 00:08:02,063
+- We'll get out of your hair.
+- Okay, great.
+
+155
+00:08:02,231 --> 00:08:04,274
+Thank you again.
+
+156
+00:08:06,611 --> 00:08:07,944
+Penny?
+
+157
+00:08:08,112 --> 00:08:10,989
+I just want you to know
+that you don't have to live like this.
+
+158
+00:08:11,949 --> 00:08:13,783
+I'm here for you.
+
+159
+00:08:15,411 --> 00:08:17,245
+What's he talking about?
+
+160
+00:08:18,664 --> 00:08:19,998
+- It's a joke.
+- I don't get it.
+
+161
+00:08:20,166 --> 00:08:21,583
+Yeah, he didn't tell it right.
+
+162
+00:08:25,421 --> 00:08:27,506
+<font color="#E86CE4">(DOOR OPENS AND CLOSES)</font>
+
+163
+00:08:33,095 --> 00:08:48,318
+Sheldon?
+
+164
+00:08:51,072 --> 00:08:52,697
+Hello?
+
+165
+00:09:14,345 --> 00:09:16,972
+- <font color="#E86CE4">(WHISPERING)</font> Sheldon?
+- Shh!
+
+166
+00:09:17,974 --> 00:09:19,641
+<font color="#E86CE4">(WHISPERING)</font>
+Penny's sleeping.
+
+167
+00:09:21,978 --> 00:09:23,186
+Are you insane?
+
+168
+00:09:23,354 --> 00:09:26,982
+You can't break into a woman's apartment
+in the middle of the night and clean.
+
+169
+00:09:27,149 --> 00:09:28,149
+I had no choice.
+
+170
+00:09:28,317 --> 00:09:31,820
+I couldn't sleep knowing that just
+outside my bedroom was our living room...
+
+171
+00:09:31,988 --> 00:09:34,281
+...and outside our living room
+was that hallway...
+
+172
+00:09:34,448 --> 00:09:37,742
+...and immediately adjacent
+to that hallway was this.
+
+173
+00:09:38,995 --> 00:09:40,912
+Do you realize that if Penny wakes up...
+
+174
+00:09:41,080 --> 00:09:43,915
+...there is no reasonable explanation
+as to why we're here?
+
+175
+00:09:44,333 --> 00:09:46,835
+I just gave you a reasonable explanation.
+
+176
+00:09:47,503 --> 00:09:49,796
+No, no. You gave me an explanation.
+
+177
+00:09:49,964 --> 00:09:53,300
+It's reasonableness will be determined
+by a jury of your peers.
+
+178
+00:09:53,926 --> 00:09:56,761
+Don't be ridiculous. I have no peers.
+
+179
+00:09:56,929 --> 00:09:58,805
+Sheldon, we have to get out of here.
+
+180
+00:09:58,973 --> 00:10:00,849
+<font color="#E86CE4">(PENNY SNORING)</font>
+
+181
+00:10:02,143 --> 00:10:04,936
+You might want to speak
+in a lower register.
+
+182
+00:10:05,313 --> 00:10:06,771
+What?
+
+183
+00:10:06,939 --> 00:10:10,400
+Evolution has made women sensitive
+to high-pitch noises while they sleep...
+
+184
+00:10:10,568 --> 00:10:12,694
+...so that they'll be roused
+by a crying baby.
+
+185
+00:10:12,862 --> 00:10:16,948
+If you want to avoid waking her,
+speak in a lower register.
+
+186
+00:10:17,950 --> 00:10:19,200
+That's ridiculous!
+
+187
+00:10:19,368 --> 00:10:21,202
+<font color="#E86CE4">(PENNY SNORES)</font>
+
+188
+00:10:22,622 --> 00:10:27,042
+<font color="#E86CE4">(IN DEEP VOICE)</font>
+No, that's ridiculous.
+
+189
+00:10:29,462 --> 00:10:31,254
+<font color="#E86CE4">(IN DEEP VOICE)</font>
+Fine.
+
+190
+00:10:32,548 --> 00:10:35,342
+I accept your premise.
+Now, please let's go.
+
+191
+00:10:35,509 --> 00:10:38,511
+- I'm not leaving until I'm done.
+- Oh, no.
+
+192
+00:10:42,058 --> 00:10:45,852
+If you have time to lean,
+you have time to clean.
+
+193
+00:10:49,106 --> 00:10:51,316
+Oh, what the hell.
+
+194
+00:10:54,904 --> 00:10:56,988
+<font color="#E86CE4">(HUMMING)</font>
+
+195
+00:10:58,699 --> 00:11:00,116
+Good morning.
+
+196
+00:11:00,284 --> 00:11:01,868
+Morning.
+
+197
+00:11:02,036 --> 00:11:05,372
+I have to say I slept splendidly.
+
+198
+00:11:05,539 --> 00:11:08,750
+Granted not long,
+but just deeply and well.
+
+199
+00:11:08,918 --> 00:11:09,959
+I'm not surprised.
+
+200
+00:11:10,127 --> 00:11:11,920
+A well-known folk cure for insomnia...
+
+201
+00:11:12,088 --> 00:11:14,881
+...is to break
+into your neighbor's apartment and clean.
+
+202
+00:11:15,758 --> 00:11:17,425
+Sarcasm?
+
+203
+00:11:17,593 --> 00:11:18,760
+You think?
+
+204
+00:11:19,470 --> 00:11:22,055
+Granted, my methods
+may have been somewhat unorthodox...
+
+205
+00:11:22,223 --> 00:11:25,016
+...but the end result
+will be a measurable enhancement...
+
+206
+00:11:25,184 --> 00:11:26,935
+...to Penny's quality of life.
+
+207
+00:11:27,103 --> 00:11:30,605
+You've convinced me, maybe we should
+sneak in and shampoo her carpet.
+
+208
+00:11:30,773 --> 00:11:33,692
+- You don't think that crosses a line?
+- Yes.
+
+209
+00:11:33,859 --> 00:11:35,318
+For God's sake, Sheldon...
+
+210
+00:11:35,486 --> 00:11:39,280
+...do I have to hold up a sarcasm sign
+every time I open my mouth?
+
+211
+00:11:39,448 --> 00:11:42,283
+You have a sarcasm sign?
+
+212
+00:11:44,078 --> 00:11:46,621
+No, I do not have a sarcasm sign.
+
+213
+00:11:47,164 --> 00:11:48,206
+You want some cereal?
+
+214
+00:11:48,374 --> 00:11:51,835
+I feel so good today, I'm gonna choose
+from the low-fiber end of the shelf.
+
+215
+00:11:52,002 --> 00:11:54,295
+Hello, Honey Puffs.
+
+216
+00:11:54,463 --> 00:11:56,506
+<font color="#808080">PENNY</font>:
+Son of a bitch!
+
+217
+00:11:57,466 --> 00:11:59,300
+Penny's up.
+
+218
+00:11:59,468 --> 00:12:02,512
+<font color="#808080">PENNY</font>:
+You sick, geeky bastards!
+
+219
+00:12:03,472 --> 00:12:05,473
+How did she know it was us?
+
+220
+00:12:06,559 --> 00:12:09,102
+I may have left
+a suggested organizational schematic...
+
+221
+00:12:09,270 --> 00:12:10,979
+...for her bedroom closet.
+
+222
+00:12:11,147 --> 00:12:12,147
+<font color="#808080">PENNY</font>:
+Leonard?
+
+223
+00:12:12,314 --> 00:12:13,440
+This is gonna be bad.
+
+224
+00:12:13,607 --> 00:12:16,735
+Goodbye, Honey Puffs. Hello, Big Bran.
+
+225
+00:12:17,194 --> 00:12:19,529
+You came into my apartment
+while I was sleeping?
+
+226
+00:12:19,697 --> 00:12:20,864
+Yes, but only to clean.
+
+227
+00:12:21,031 --> 00:12:24,534
+Really more to organize,
+you're not actually dirty, per se.
+
+228
+00:12:24,702 --> 00:12:26,870
+Give me back my key.
+
+229
+00:12:27,830 --> 00:12:28,830
+I'm very, very sorry.
+
+230
+00:12:28,998 --> 00:12:31,291
+Do you understand how creepy this is?
+
+231
+00:12:31,459 --> 00:12:33,501
+Yes, we discussed it at length last night.
+
+232
+00:12:33,669 --> 00:12:36,171
+In my apartment? While I was sleeping?
+
+233
+00:12:36,338 --> 00:12:39,340
+And snoring.
+And that's probably just a sinus infection.
+
+234
+00:12:39,508 --> 00:12:43,094
+But it could be sleep apnea. You might
+wanna see an otorhinolaryngologist.
+
+235
+00:12:45,765 --> 00:12:47,557
+The throat doctor.
+
+236
+00:12:48,726 --> 00:12:52,187
+And what kind of doctor
+removes shoes from asses?
+
+237
+00:12:52,897 --> 00:12:54,063
+Depending on the depth...
+
+238
+00:12:54,231 --> 00:12:59,486
+...that's either a proctologist,
+or a general surgeon.
+
+239
+00:13:06,202 --> 00:13:07,994
+Oh.
+
+240
+00:13:08,746 --> 00:13:10,246
+- God!
+- Okay, look. No, Penny...
+
+241
+00:13:10,414 --> 00:13:13,291
+I think what you're feeling is valid
+and maybe later today...
+
+242
+00:13:13,459 --> 00:13:16,669
+...when you're feeling less,
+for lack of a better word, violated...
+
+243
+00:13:16,837 --> 00:13:18,379
+...maybe we can talk about this.
+
+244
+00:13:18,547 --> 00:13:21,007
+- Stay away from me.
+- Sure. That's another way to go.
+
+245
+00:13:21,175 --> 00:13:23,218
+Penny, Penny, hold on.
+
+246
+00:13:23,385 --> 00:13:24,719
+Just to clarify...
+
+247
+00:13:24,887 --> 00:13:28,765
+...because there will be a discussion
+when you leave.
+
+248
+00:13:28,933 --> 00:13:32,894
+Is your objection solely to our presence
+in the apartment while you were sleeping...
+
+249
+00:13:33,062 --> 00:13:37,649
+...or do you also object to the imposition
+of a new organizational paradigm?
+
+250
+00:13:42,738 --> 00:13:43,738
+<font color="#E86CE4">(DOOR SLAMS)</font>
+
+251
+00:13:43,906 --> 00:13:46,157
+Well, that was a little non-responsive.
+
+252
+00:13:46,575 --> 00:13:49,869
+You are going to march yourself
+over there right now and apologize.
+
+253
+00:13:50,037 --> 00:13:51,663
+<font color="#E86CE4">(SHELDON LAUGHS)</font>
+
+254
+00:13:54,667 --> 00:13:56,209
+What's funny?
+
+255
+00:13:56,377 --> 00:13:58,336
+That wasn't sarcasm?
+
+256
+00:13:58,754 --> 00:14:00,380
+- No!
+- Whoo.
+
+257
+00:14:00,548 --> 00:14:03,842
+Boy, you are all over the place
+this morning.
+
+258
+00:14:07,012 --> 00:14:10,807
+I have a Master's and two Ph.Ds,
+I should not have to do this.
+
+259
+00:14:11,183 --> 00:14:12,600
+What?
+
+260
+00:14:12,768 --> 00:14:15,103
+I'm truly sorry
+for what happened last night.
+
+261
+00:14:15,271 --> 00:14:17,105
+I take full responsibility.
+
+262
+00:14:17,273 --> 00:14:19,858
+I hope that it won't color
+your opinion of Leonard...
+
+263
+00:14:20,025 --> 00:14:26,114
+...who is not only a wonderful guy,
+but also, I hear, a gentle and thorough lover.
+
+264
+00:14:38,002 --> 00:14:40,128
+I did what I could.
+
+265
+00:14:44,300 --> 00:14:46,009
+Hey, Raj.
+
+266
+00:14:50,723 --> 00:14:54,475
+Hey, I don't know if you heard about
+what happened with Leonard and Sheldon...
+
+267
+00:14:54,643 --> 00:14:56,311
+...but I'm really upset about it.
+
+268
+00:14:56,478 --> 00:14:59,647
+I mean, they let themselves into my place,
+and then they cleaned it.
+
+269
+00:14:59,815 --> 00:15:02,609
+Can you even believe that?
+How weird is that?
+
+270
+00:15:02,776 --> 00:15:05,028
+RAJESH <font color="#E86CE4">(IN VOICE-OVER)</font>:
+She's standing very close to me.
+
+271
+00:15:05,613 --> 00:15:07,655
+Oh, my. She does smell good.
+
+272
+00:15:07,823 --> 00:15:10,158
+What is that? Vanilla?
+
+273
+00:15:10,326 --> 00:15:11,326
+You know?
+
+274
+00:15:11,493 --> 00:15:14,704
+Where I come from, someone comes
+into your house at night, you shoot.
+
+275
+00:15:14,872 --> 00:15:16,664
+Okay? And you don't shoot to wound.
+
+276
+00:15:16,832 --> 00:15:21,502
+I mean, all right, my sister shot her husband,
+but it was an accident, they were drunk.
+
+277
+00:15:22,171 --> 00:15:23,713
+What was I saying?
+
+278
+00:15:23,881 --> 00:15:25,506
+She's so chatty.
+
+279
+00:15:26,675 --> 00:15:30,303
+Maybe my parents were right.
+Maybe I'd be better off with an Indian girl.
+
+280
+00:15:30,471 --> 00:15:32,347
+We'd have
+the same cultural background...
+
+281
+00:15:32,514 --> 00:15:36,017
+...and my wife could sing to my children
+the lullabies my mother sang to me.
+
+282
+00:15:36,185 --> 00:15:37,602
+It's obvious they meant well.
+
+283
+00:15:37,770 --> 00:15:39,854
+I'm having a really rough time.
+Like I said...
+
+284
+00:15:40,022 --> 00:15:42,357
+...I broke up with my boyfriend
+and it's freaking me out.
+
+285
+00:15:42,524 --> 00:15:44,859
+<font color="#E86CE4">(RAJESH SINGING IN FOREIGN LANGUAGE
+IN VOICE-OVER)</font>
+
+286
+00:15:47,071 --> 00:15:50,490
+I mean, just because most of the men
+I've known happened to be jerks...
+
+287
+00:15:50,658 --> 00:15:53,660
+...doesn't mean I should just assume
+Leonard and Sheldon are.
+
+288
+00:15:53,827 --> 00:15:55,161
+Right?
+
+289
+00:15:55,329 --> 00:15:58,206
+She asked me a question.
+I should probably nod.
+
+290
+00:16:00,167 --> 00:16:01,584
+That's exactly what I thought.
+
+291
+00:16:01,752 --> 00:16:04,087
+Thank you for listening. You're a doll.
+
+292
+00:16:05,589 --> 00:16:08,633
+Uh-oh. Turn your pelvis.
+
+293
+00:16:11,053 --> 00:16:13,429
+<font color="#E86CE4">(DANCE MUSIC PLAYS
+ON TV)</font>
+
+294
+00:16:21,897 --> 00:16:25,066
+Grab a napkin, homey,
+you just got served.
+
+295
+00:16:27,236 --> 00:16:28,778
+It's fine. You win.
+
+296
+00:16:30,572 --> 00:16:31,739
+What's his problem?
+
+297
+00:16:32,241 --> 00:16:34,909
+His imaginary girlfriend
+broke up with him.
+
+298
+00:16:36,412 --> 00:16:38,413
+Been there.
+
+299
+00:16:40,249 --> 00:16:41,416
+Hello.
+
+300
+00:16:41,583 --> 00:16:45,003
+Sorry I'm late,
+but I was in the hallway, chatting up Penny.
+
+301
+00:16:45,504 --> 00:16:46,587
+Really? You?
+
+302
+00:16:46,755 --> 00:16:48,923
+Rajesh Koothrappali spoke to Penny?
+
+303
+00:16:49,258 --> 00:16:52,135
+Actually,
+I was less the chatter than the chattee.
+
+304
+00:16:52,594 --> 00:16:54,637
+What did she say? Is she still mad at me?
+
+305
+00:16:54,805 --> 00:16:56,264
+Well, she was upset at first...
+
+306
+00:16:56,432 --> 00:16:59,934
+...but probably
+because her sister shot somebody.
+
+307
+00:17:01,311 --> 00:17:05,148
+Then there was something about you,
+and then she hugged me.
+
+308
+00:17:05,315 --> 00:17:08,609
+She hugged you? How did she hug you?
+
+309
+00:17:16,493 --> 00:17:18,953
+Is that her perfume I smell?
+
+310
+00:17:20,289 --> 00:17:22,290
+Intoxicating, isn't it?
+
+311
+00:17:38,766 --> 00:17:41,434
+- Hi.
+- Oh.
+
+312
+00:17:42,102 --> 00:17:43,144
+What's going on?
+
+313
+00:17:44,146 --> 00:17:45,354
+Uh...
+
+314
+00:17:45,522 --> 00:17:47,482
+Here's the thing:
+
+315
+00:17:51,528 --> 00:17:57,575
+"Penny, just as Oppenheimer came to regret
+his contributions to the first atomic bomb...
+
+316
+00:17:57,743 --> 00:17:59,994
+...so too I regret my participation
+in what was...
+
+317
+00:18:00,162 --> 00:18:02,955
+...at the very least, an error in judgment.
+
+318
+00:18:03,999 --> 00:18:06,167
+The hallmark
+of the great human experiment...
+
+319
+00:18:06,335 --> 00:18:08,586
+...is the willingness
+to recognize one's mistakes.
+
+320
+00:18:08,754 --> 00:18:12,507
+Madam Curie's discovery of radium
+turned out to have great potential...
+
+321
+00:18:12,674 --> 00:18:16,969
+...even though she would later die a slow,
+painful death from radiation poisoning.
+
+322
+00:18:18,680 --> 00:18:21,307
+Another example,
+from the field of Ebola research..."
+
+323
+00:18:21,475 --> 00:18:23,017
+Leonard.
+
+324
+00:18:23,185 --> 00:18:24,769
+Yeah?
+
+325
+00:18:27,106 --> 00:18:28,856
+We're okay.
+
+326
+00:18:48,502 --> 00:18:50,336
+<font color="#808080">LEONARD</font>: Six two-inch dowels?
+- Check.
+
+327
+00:18:50,504 --> 00:18:52,755
+- One package Philips head screws?
+- Check.
+
+328
+00:18:52,923 --> 00:18:54,882
+Guys, seriously, I grew up
+on a farm, okay?
+
+329
+00:18:55,050 --> 00:18:57,260
+I rebuilt a tractor engine
+when I was, like, 12.
+
+330
+00:18:57,427 --> 00:19:00,012
+I think I can put together
+a cheap Swedish media center.
+
+331
+00:19:00,180 --> 00:19:03,015
+Please, we insist.
+It's the least we can do, considering...
+
+332
+00:19:03,183 --> 00:19:04,267
+Considering what?
+
+333
+00:19:04,434 --> 00:19:07,270
+How great this place looks?
+
+334
+00:19:07,646 --> 00:19:10,064
+- Oh, boy, I was afraid of this.
+- What?
+
+335
+00:19:10,232 --> 00:19:12,733
+These instructions
+are a pictographic representation...
+
+336
+00:19:12,901 --> 00:19:15,736
+...of the least imaginative way
+to assemble these components.
+
+337
+00:19:15,904 --> 00:19:18,739
+This right here
+is why Sweden has no space program.
+
+338
+00:19:20,075 --> 00:19:23,161
+- It looked pretty good in the store.
+- It is an inefficient design.
+
+339
+00:19:23,328 --> 00:19:24,912
+For example,
+Penny has a flatscreen TV...
+
+340
+00:19:25,080 --> 00:19:27,123
+...which means all this space
+behind it is wasted.
+
+341
+00:19:27,291 --> 00:19:29,917
+- We could put her stereo back there.
+- And control it how?
+
+342
+00:19:30,085 --> 00:19:34,380
+Run an infrared repeater,
+photocell here, emitter here, easy-peasy.
+
+343
+00:19:35,048 --> 00:19:37,466
+- Good point. How will you cool it?
+- Guys, I got this.
+
+344
+00:19:37,634 --> 00:19:39,802
+- Hang on, Penny.
+- How about fans?
+
+345
+00:19:39,970 --> 00:19:43,389
+- Here and here.
+- Also inefficient, and might be loud.
+
+346
+00:19:43,557 --> 00:19:46,100
+How about a liquid cooler?
+A little aquarium pump here.
+
+347
+00:19:46,268 --> 00:19:47,768
+Run some quarter-inch PVC...
+
+348
+00:19:47,936 --> 00:19:49,770
+Guys, this is actually really simple.
+
+349
+00:19:50,480 --> 00:19:52,106
+Hold on, honey, men at work.
+
+350
+00:19:54,484 --> 00:19:57,945
+PVC comes here. Maybe a little
+corrugated sheet metal as a radiator here.
+
+351
+00:19:58,113 --> 00:20:01,574
+Show me where we put a drip tray,
+a sluice and a overflow reservoir?
+
+352
+00:20:01,742 --> 00:20:04,660
+If water's involved,
+we'll ground the crap out of the thing.
+
+353
+00:20:04,828 --> 00:20:08,497
+Guys, it's hot in here.
+I think I'll just take off all my clothes.
+
+354
+00:20:13,295 --> 00:20:14,962
+Oh, I've got it.
+
+355
+00:20:15,964 --> 00:20:20,718
+What if we replaced panels A, B and F and
+crossbar H with aircraft-grade aluminum?
+
+356
+00:20:20,886 --> 00:20:23,054
+- Entire thing's one big heat sink.
+- Perfect.
+
+357
+00:20:23,222 --> 00:20:26,807
+Leonard and Sheldon, go to the junkyard
+and pick up 6 square meters of aluminum.
+
+358
+00:20:26,975 --> 00:20:29,769
+- Raj and I will get the oxyacetylene torch.
+- Meet in an hour?
+
+359
+00:20:29,937 --> 00:20:31,687
+- Done.
+- Got it.
+
+360
+00:20:34,566 --> 00:20:36,859
+Okay, this place does look pretty good.
