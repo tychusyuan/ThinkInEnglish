@@ -23,3 +23,9 @@ Here we go.
 
 ## S01 E02
 Here you go.
+
+I dare you.
+
+Get used to it.
+
+in your case.
