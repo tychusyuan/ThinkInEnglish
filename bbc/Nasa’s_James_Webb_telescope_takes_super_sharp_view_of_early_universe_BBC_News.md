@@ -26,14 +26,10 @@ we're looking back more than 13 billion years light travels at 186 000 miles per
 the telescope blasted off last year on Christmas Day a collaboration between the American European and Canadian space agencies and over the last six months it's been getting ready for its Mission
  
 unfolding its huge sun shield which is the size of a tennis court and aligning the segments of its six and a half meter wide golden mirror the largest ever sent into space
- 
 
 the hope is it will answer some of our biggest questions revealing how stars are born and how they die and showing us other planetary systems to see whether life could exist on worlds beyond our own
  
-this spectacular image is just the start more pictures will be released in the coming hours our view of the universe is about to be transformed Rebecca Morrell
- 
+this spectacular image is just the start more pictures will be released in the coming hours our view of the universe is about to be transformed 
 
-00:02:04.380 --> 00:02:07.159 align:start position:0%
-about to be transformed Rebecca Morrell
-BBC<00:02:04.920><c> News</c>
+Rebecca Morrell BBC News
 
