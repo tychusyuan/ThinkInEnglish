@@ -1,3 +1,6 @@
+# Nasa’s James Webb telescope takes super sharp view of early universe - BBC News
+
+https://www.youtube.com/watch?v=spoeRobCOZg
 
 now President[^president] Biden has introduced the first image to be shown publicly from the James Webb Telescope,the largest and most powerful ever launched into space
 [^president]: president /ˈprɛzɪd(ə)nt/ noun ; the elected head of a republic
@@ -23,13 +26,19 @@ the image was shown to the president of the United States.
 we're looking back more than 13 billion years light travels at 186 000 miles per second and that light that you are seeing on one of those little specks[^speck] has been traveling for over 13 billion years and by the way we're going back further
 [^speck]: speck /spɛk/ noun plural noun: specks ; a tiny spot.
 
-the telescope blasted off last year on Christmas Day a collaboration between the American European and Canadian space agencies and over the last six months it's been getting ready for its Mission
- 
+because this is just the first image.
+
+the telescope blasted off[^blasted-off] last year on Christmas Day,a collaboration between the American European and Canadian space agencies and over the last six months it's been getting ready for its Mission
+[^blasted-off]: blast off /ˈblɑːstɪd/ phrasal verb of blast (of a rocket or spacecraft) take off from a launching site.
+
 unfolding its huge sun shield which is the size of a tennis court and aligning the segments of its six and a half meter wide golden mirror the largest ever sent into space
 
-the hope is it will answer some of our biggest questions revealing how stars are born and how they die and showing us other planetary systems to see whether life could exist on worlds beyond our own
- 
-this spectacular image is just the start more pictures will be released in the coming hours our view of the universe is about to be transformed 
+the hope is it will answer some of our biggest questions,revealing how stars are born and how they die and showing us other planetary systems,to see whether[^whether] life could exist on worlds beyond[^beyond] our own.
+[^whether]: whether /ˈwɛðə/ conjunction: whether ; expressing a doubt or choice between alternatives.
+[^beyond]: beyond /bɪˈjɒnd/ preposition: beyond ; at or to the further side of.
+
+this spectacular[^spectacular] image is just the start,more pictures will be released in the coming hours,our view of the universe is about to be transformed.
+[^spectacular]: spectacular /spɛkˈtakjʊlə/ adjective: spectacular ; beautiful in a dramatic and eye-catching way.
 
 Rebecca Morrell BBC News
 
