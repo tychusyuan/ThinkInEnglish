@@ -1,27 +1,16 @@
 
-now President Biden has introduced the
+now President[^president] Biden has introduced the first image to be shown publicly from the James Webb Telescope,the largest and most powerful ever launched into space
+[^president]: president /ˈprɛzɪd(ə)nt/ noun ; the elected head of a republic
 
-first image to be shown publicly from
+its infrared capabilities[^capability] enable it to peer through Cosmic dust and clouds to detect[^detect] light from the earliest Stars 
+[^capability]: capability /keɪpəˈbɪlɪti/ noun the power or ability to do something.
+[^detect]: detect /dɪˈtɛkt/ verb: detect; 3rd person present: detects; past tense: detected; past participle: detected; gerund or present participle: detecting
+discover or identify the presence or existence of.
 
-the James Webb Telescope the largest and
+the first photograph showed an array of colored Points of Light from hundreds of galaxies in one small section[^section] of the universe 
+[^section]: section /ˈsɛkʃ(ə)n/ noun: section; plural noun: sections ; any of the more or less distinct parts into which something is or may be divided or from which it is made up.
 
-most powerful ever launched into space
- 
-its infrared capabilities enable it to
- 
-peer through Cosmic dust and clouds to
-
-detect light from the earliest Stars the
-
-first photograph showed an array of
-
-colored Points of Light from hundreds of
-
-galaxies in one small section of the
- 
-universe our science editor Rebecca
-
-Morrell reports
+our science editor Rebecca Morrell reports
  
 
 a deeper view of our universe than we've
