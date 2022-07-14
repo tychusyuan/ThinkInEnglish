@@ -16,7 +16,12 @@ economists[^economist] are expecting[^expect] to see another increase driven in 
 
 samira hussain reports from new york
 
-outdoor markets have long been a way for new york city's urban to connect with upstate farmers regardless of whether you are a buyer or a seller inflation is hitting the finances of every american 
+outdoor markets have long been a way for new york city's urban[^urban] to connect with upstate[^upstate] farmers, regardless[^regardless] of whether you are a buyer or a seller inflation is hitting the finances of every american.
+[^urban]: urban /ˈəːb(ə)n/ adjective: urban; adjective: urban contemporary ; in, relating to, or characteristic of a town or city.
+[^upstate]: upstate /ˈʌpsteɪt/ adjective: upstate; adverb: up-state ; situated or occurring in the northern part of a state, especially the northern part of New York State as contrasted with New York City.
+adverb: upstate; adverb: up-state ; in or to the northern part of a state, especially the northern part of New York State as contrasted with New York City.
+noun: upstate ; the northern part of a state.
+[^regardless]: regardless /rɪˈɡɑːdləs/ adverb: regardless ; despite the prevailing circumstances.
 
 inflation everything has gone sky high food i prefer to go to the green markets i will not stop going but the prices have gone through the roof
 
