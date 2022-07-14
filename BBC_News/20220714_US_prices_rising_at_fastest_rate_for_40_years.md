@@ -35,11 +35,14 @@ every, i mean from our containers[^container] to our inputs, they're in fertiliz
 [^container]: container /kənˈteɪnə/ plural noun: containers ; an object for holding or transporting something.
 [^fertilizer]: fertilizer /ˈfəːtɪlʌɪzə/ noun: fertilizer; plural noun: fertilizers; noun: fertiliser; plural noun: fertilisers ; a chemical or natural substance added to soil or land to increase its fertility.
 
-the price increases are hating the pocketbooks of most americans 
+the price increases are hating the pocketbooks[^pocketbook] of most americans.
+[^pocketbook]: pocketbook /ˈpɒkɪtbʊk/ plural noun: pocketbooks ; US a wallet, purse, or handbag.
 
-everything has gotten expensive food i have two girls they're home now they eat like crazy so i mean everything is like and the best thing about it is that the salary is the same pay you're getting so you just have to really cut corners
+everything has gotten expensive[^expensive], food, i have two girls, they're home now they eat like crazy. so i mean everything is like, and the best thing about it is that, the salary is the same pay you're getting, so you just have to really cut corners[^cut-corners].
+[^expensive]: expensive /ɪkˈspɛnsɪv,ɛkˈspɛnsɪv/ adjective: expensive ; costing a lot of money.
+[^cut-corners]: phrase of cut ; do something perfunctorily so as to save time or money.
 
-so if prices are going up for everyone but no one is making any more profit well that spells danger for the economy as a whole little wonder perhaps that even as they fret about higher inflation many in the u.s are starting to worry that a potential recession could be just around the corner 
+so, if prices are going up for everyone, but no one is making any more profit. well that spells danger for the economy as a whole. little wonder perhaps that even as they fret about higher inflation. many in the u.s are starting to worry that a potential recession, could be just around the corner.
 
 samir hussein bbc news
 new york
