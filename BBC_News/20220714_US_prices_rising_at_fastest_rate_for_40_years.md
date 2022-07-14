@@ -1,24 +1,10 @@
+# US prices rising at fastest rate for 40 years
 
-while whilst president biden is in the
- 
-middle east news at home will dominate
- 
-today as the latest u.s inflation
- 
-numbers are out later
- 
-in may inflation hit 8.6 the highest in
- 
-40 years economists are expecting to see
- 
-another increase driven in large part by
+[US prices rising at fastest rate for 40 years](https://www.youtube.com/watch?v=Kob4Ny0L3K4)
 
-higher energy costs and continuing
+while whilst president biden is in the middle east news at home will dominate today as the latest u.s inflation numbers are out later in may inflation hit 8.6 the highest in 40 years 
 
-supply chain disruptions and the
-
-american consumer is paying the price as
- 
+economists are expecting to see another increase driven in large part by higher energy costs and continuing supply chain disruptions and the american consumer is paying the price as
 
 samira hussain reports from new york
 
