@@ -16,29 +16,11 @@ jake's mascot is a fourth generation farmer even though he has had to raise pric
 
 it's going to be a hard year profits are going to be down what have you had to pay more for every i mean from our containers to our inputs they're in fertilizer plants i think gas and we're a three hour drive just to get here so everything everything we have coming in is all of our products are up
 
-the price increases are hating the pocketbooks of most americans everything has gotten expensive food
+the price increases are hating the pocketbooks of most americans 
 
-i have two girls they're home now they eat like crazy so i mean everything is like and the best thing about it is that the salary is the same pay you're getting so you just have to really cut corners
+everything has gotten expensive food i have two girls they're home now they eat like crazy so i mean everything is like and the best thing about it is that the salary is the same pay you're getting so you just have to really cut corners
 
-so if prices are going up for everyone
+so if prices are going up for everyone but no one is making any more profit well that spells danger for the economy as a whole little wonder perhaps that even as they fret about higher inflation many in the u.s are starting to worry that a potential recession could be just around the corner 
 
-but no one is making any more profit
-
-well that spells danger for the economy
-
-as a whole
-
-little wonder perhaps that even as they
-
-fret about higher inflation
-
-many in the u.s are starting to worry
-
-that a potential recession could be just
-
-around the corner samir hussein bbc news
- 
-
-00:02:07.520 --> 00:02:09.840 align:start position:0%
-around the corner samir hussein bbc news
-new<00:02:07.680><c> york</c>
+samir hussein bbc news
+new york
