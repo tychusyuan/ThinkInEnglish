@@ -6,7 +6,7 @@ now in washington the committee investigating the storming of the u.s capitol la
 
 here's our north america correspondent peter bose.
 
-piecing together the events that led up to the riot at the u.s capitol this          latest hearing focused on the role donald trump played in the days and weeks after he lost the 2020 election to joe biden including claims the former president encouraged far-right extremists to create chaos on capitol hill.
+piecing together the events that led up to the riot at the u.s capitol this latest hearing focused on the role donald trump played in the days and weeks after he lost the 2020 election to joe biden including claims the former president encouraged far-right extremists to create chaos on capitol hill.
 
 donald trump his legal team and outside advisers are said to have clashed over the former president's refusal to admit defeat hours later mr trump urged his supporters in a tweet to descend on washington on january the 6th for what he promised will be a wild rally that according to one committee member was a call to arms for some of mr trump's supporters.
 
