@@ -8,72 +8,17 @@ economists are expecting to see another increase driven in large part by higher 
 
 samira hussain reports from new york
 
+outdoor markets have long been a way for new york city's urban to connect with upstate farmers regardless of whether you are a buyer or a seller inflation is hitting the finances of every american 
 
-outdoor markets have long been a way for
+inflation everything has gone sky high food i prefer to go to the green markets i will not stop going but the prices have gone through the roof
 
-new york city's urban to connect with
+jake's mascot is a fourth generation farmer even though he has had to raise prices it doesn't mean he's going to make more money 
 
-upstate farmers regardless of whether
+it's going to be a hard year profits are going to be down what have you had to pay more for every i mean from our containers to our inputs they're in fertilizer plants i think gas and we're a three hour drive just to get here so everything everything we have coming in is all of our products are up
 
-you are a buyer or a seller inflation is
+the price increases are hating the pocketbooks of most americans everything has gotten expensive food
 
-hitting the finances of every american
-
-inflation everything has gone sky high
-
-food
-
-i prefer to go to the green markets
-
-i will not stop going but the prices
-
-have gone through the roof
-
-jake's mascot is a fourth generation
-
-farmer even though he has had to raise
-
-prices it doesn't mean he's going to
-
-make more money it's going to be a hard
-
-year profits are going to be down what
-
-have you had to pay more for
-
-every i mean from our containers to our
-
-inputs they're in fertilizer plants i
-
-think gas and we're
-
-we're a three hour drive just to get
-
-here so everything
-
-everything we have coming in is
-
-all of our products are up
-
-the price increases are hating the
-
-pocketbooks of most americans everything
-
-has gotten expensive food
-
-i have two girls
-
-they're home now they eat like crazy
-
-so i mean everything is like
-
-and the best thing about it is that
-
-the salary is the same pay you're
-
-getting so
-
-you just have to really cut corners
+i have two girls they're home now they eat like crazy so i mean everything is like and the best thing about it is that the salary is the same pay you're getting so you just have to really cut corners
 
 so if prices are going up for everyone
 
