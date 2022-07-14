@@ -42,7 +42,11 @@ everything has gotten expensive[^expensive], food, i have two girls, they're hom
 [^expensive]: expensive /ɪkˈspɛnsɪv,ɛkˈspɛnsɪv/ adjective: expensive ; costing a lot of money.
 [^cut-corners]: phrase of cut ; do something perfunctorily so as to save time or money.
 
-so, if prices are going up for everyone, but no one is making any more profit. well that spells danger for the economy as a whole. little wonder perhaps that even as they fret about higher inflation. many in the u.s are starting to worry that a potential recession, could be just around the corner.
+so, if prices are going up for everyone, but no one is making any more profit[^profit]. well that spells danger for the economy as a whole. little wonder perhaps that even as they fret[^fret] about higher inflation. many in the u.s are starting to worry that a potential[^potential] recession[^recession], could be just around the corner.
+[^profit]: profit /ˈprɒfɪt/ noun: profit; plural noun: profits ; a financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something.
+[^fret]: fret /frɛt/ verb: fret; 3rd person present: frets; past tense: fretted; past participle: fretted; gerund or present participle: fretting ; be constantly or visibly anxious.
+[^potential]: potential /pə(ʊ)ˈtɛnʃ(ə)l/ adjective: potential ; having or showing the capacity to develop into something in the future.
+[^recession]: recession /rɪˈsɛʃ(ə)n/ noun: recession; plural noun: recessions ; a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.
 
 samir hussein bbc news
 new york
