@@ -23,11 +23,17 @@ adverb: upstate; adverb: up-state ; in or to the northern part of a state, espec
 noun: upstate ; the northern part of a state.
 [^regardless]: regardless /rɪˈɡɑːdləs/ adverb: regardless ; despite the prevailing circumstances.
 
-inflation everything has gone sky high food i prefer to go to the green markets i will not stop going but the prices have gone through the roof
+inflation everything has gone sky high ,food i prefer to go to the green markets, i will not stop going ,but the prices have gone through the roof.
 
-jake's mascot is a fourth generation farmer even though he has had to raise prices it doesn't mean he's going to make more money 
+jake's mascot is a fourth generation farmer, even though he has had to raise prices, it doesn't mean he's going to make more money.
 
-it's going to be a hard year profits are going to be down what have you had to pay more for every i mean from our containers to our inputs they're in fertilizer plants i think gas and we're a three hour drive just to get here so everything everything we have coming in is all of our products are up
+it's going to be a hard year, profits are going to be down.
+
+what have you had to pay more for?
+
+every, i mean from our containers[^container] to our inputs, they're in fertilizer[^fertilizer] plants. i think gas and we're a three hour drive just to get here so everything we have coming in is all of our products are up
+[^container]: container /kənˈteɪnə/ plural noun: containers ; an object for holding or transporting something.
+[^fertilizer]: fertilizer /ˈfəːtɪlʌɪzə/ noun: fertilizer; plural noun: fertilizers; noun: fertiliser; plural noun: fertilisers ; a chemical or natural substance added to soil or land to increase its fertility.
 
 the price increases are hating the pocketbooks of most americans 
 
