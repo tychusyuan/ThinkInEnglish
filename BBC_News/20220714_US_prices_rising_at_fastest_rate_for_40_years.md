@@ -2,9 +2,17 @@
 
 [US prices rising at fastest rate for 40 years](https://www.youtube.com/watch?v=Kob4Ny0L3K4)
 
-while whilst president biden is in the middle east news at home will dominate today as the latest u.s inflation numbers are out later in may inflation hit 8.6 the highest in 40 years 
+while whilst[^whilst] president biden is in the middle east, news at home will dominate[^dominate] today, as the latest u.s inflation[^inflation] numbers are out later, in may inflation hit 8.6, the highest in 40 years.
+[^whilst]: whilst /wʌɪlst/ conjunction ; during the time that; at the same time as.
+[^dominate]: dominate /ˈdɒmɪneɪt/ verb: dominate; 3rd person present: dominates; past tense: dominated; past participle: dominated; gerund or present participle: dominating ; have power and influence over.
+[^inflation]: inflation /ɪnˈfleɪʃ(ə)n/ noun: inflation ; the action of inflating something or the condition of being inflated.
 
-economists are expecting to see another increase driven in large part by higher energy costs and continuing supply chain disruptions and the american consumer is paying the price as
+economists[^economist] are expecting[^expect] to see another increase driven in large part by higher energy[^energy] costs and continuing[^continue] supply chain disruptions[^disruption], and the american consumer is paying the price as
+[^economist]: economist /ɪˈkɒnəmɪst/ plural noun: economists ; an expert in economics.
+[^expect]: expect /ɪkˈspɛkt,ɛkˈspɛkt/ verb gerund or present participle: expecting ; regard (something) as likely to happen.
+[^energy]: energy /ˈɛnədʒi/ noun: energy ; the strength and vitality required for sustained physical or mental activity.
+[^continue]: continue /kənˈtɪnjuː/ verb gerund or present participle: continuing ; persist in an activity or process.
+[^disruption]: disruption /dɪsˈrʌpʃn/ plural noun: disruptions ; disturbance or problems which interrupt an event, activity, or process.
 
 samira hussain reports from new york
 
