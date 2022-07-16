@@ -118,3 +118,18 @@ verb
 "Alex trailed a hand through the clear water"
 2. walk or move slowly or wearily.
 "he baulked at the idea of trailing around the shops"
+
+catch /katʃ/
+verb
+past tense: caught; past participle: caught
+1.intercept and hold (something which has been thrown, propelled, or dropped).
+"she threw the bottle into the air and caught it again"
+2.capture (a person or animal that tries or would try to escape).
+"we hadn't caught a single rabbit"
+
+pursuit /pəˈsjuːt/
+noun
+1.the action of pursuing someone or something.
+"the cat crouched in the grass in pursuit of a bird"
+2.an activity of a specified kind, especially a recreational or sporting one.
+"a whole range of leisure pursuits"
