@@ -1,5 +1,5 @@
 
-[^forge]: forge /fɔːdʒ/ 
+forge /fɔːdʒ/ 
 verb
 gerund or present participle: forging
 1.make or shape (a metal object) by heating it in a fire or furnace and hammering it.
