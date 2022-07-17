@@ -47,3 +47,37 @@ INFORMAL
 aware of, especially so as to know how to act.
 "fortunately I was already wise to the approach used in this scam"
 ```
+fair /fɛː/
+```
+adjective
+superlative adjective: fairest
+1.treating people equally without favouritism or discrimination.
+"the group has achieved fair and equal representation for all its members"
+Opposite:
+unfair
+just or appropriate in the circumstances.
+"to be fair, this subject poses special problems"
+ARCHAIC
+(of a means or procedure) not violent.
+"try first by fair means"
+2.(of hair or complexion) light; blonde.
+"a pretty girl with long fair hair"
+(of a person) having a light complexion or hair.
+"he's very fair with blue eyes"
+3.considerable though not outstanding in size or amount.
+"he did a fair bit of coaching"
+moderately good.
+"he believes he has a fair chance of success"
+INFORMAL•AUSTRALIAN
+complete; utter.
+"this cow is a fair swine"
+4.(of weather) fine and dry.
+"a fair autumn day"
+(of the wind) favourable.
+"they set sail with a fair wind"
+5.ARCHAIC
+beautiful.
+"the fairest of her daughters"
+(of words) specious despite being initially attractive.
+"the Sophists have plenty of brave words and fair devices"
+```
