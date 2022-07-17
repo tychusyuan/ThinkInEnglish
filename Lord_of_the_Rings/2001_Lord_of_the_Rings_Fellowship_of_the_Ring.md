@@ -272,3 +272,138 @@ fight (against)
 put up a fight against
 battle against
 ```
+
+#### alliance /əˈlʌɪəns/
+```
+noun
+noun: alliance; plural noun: alliances
+a union or association formed for mutual benefit, especially between countries or organizations.
+"a defensive alliance between Australia and New Zealand"
+a relationship based on similarity of interests, nature, or qualities.
+"an alliance between medicine and morality"
+the state of being joined or associated.
+"his party is in alliance with the Greens"
+ECOLOGY
+a group of closely related plant associations.
+```
+
+#### defeated /dɪˈfiːtɪd/
+```
+adjective
+adjective: defeated
+having been beaten in a battle or other contest.
+"the defeated army"
+demoralized and overcome by adversity.
+"she looked defeated, quite unlike her normal self"
+defeat
+/dɪˈfiːt/
+Learn to pronounce
+verb
+past tense: defeated; past participle: defeated
+win a victory over (someone) in a battle or other contest; overcome or beat.
+"Garibaldi defeated the Neapolitan army"
+prevent (someone) from achieving an aim.
+"she was defeated by the last steep hill"
+prevent (an aim) from being achieved.
+"don't cheat by allowing your body to droop—this defeats the object of the exercise"
+reject or block (a motion or proposal).
+"the amendment was defeated"
+be impossible for (someone) to understand.
+"this line of reasoning defeats me, I must confess"
+LAW
+render null and void; annul.
+```
+
+#### chance /tʃɑːns/
+```
+noun
+noun: chance; plural noun: chances
+1.a possibility of something happening.
+"there is a chance of winning the raffle"
+the probability of something desirable happening.
+"he played down his chances of becoming chairman"
+an opportunity to do or achieve something.
+"I gave her a chance to answer"
+2.the occurrence of events in the absence of any obvious intention or cause.
+"he met his brother by chance"
+adjective
+adjective: chance
+fortuitous; accidental.
+"a chance meeting"
+verb
+verb: chance; 3rd person present: chances; past tense: chanced; past participle: chanced; gerund or present participle: chancing
+1.do something by accident or without intending to.
+"he was very effusive if they chanced to meet"
+find or see by accident.
+"he chanced upon an interesting advertisement"
+2.INFORMAL
+do (something) despite its being dangerous or of uncertain outcome.
+"they chanced a late holiday"
+```
+
+#### corrupt /kəˈrʌpt/
+```
+verb
+past tense: corrupted; past participle: corrupted
+1.cause to act dishonestly in return for money or personal gain.
+"there is a continuing fear of firms corrupting politicians in the search for contracts"
+cause to become morally depraved.
+"he has corrupted the boy"
+2.change or debase by making errors or unintentional alterations.
+"a backup copy will be needed if the original copy becomes corrupted"
+3.ARCHAIC
+infect; contaminate.
+"the corrupting smell of death"
+```
+
+#### betray /bɪˈtreɪ/
+```
+verb
+past tense: betrayed; past participle: betrayed
+1.expose (one's country, a group, or a person) to danger by treacherously giving information to an enemy.
+"a double agent who betrayed some 400 British and French agents to the Germans"
+treacherously reveal (information).
+"many of those employed by diplomats betrayed secrets"
+be gravely disloyal to.
+"the men who have betrayed British people's trust"
+2.unintentionally reveal; be evidence of.
+"she drew a deep breath that betrayed her indignation"
+```
+
+#### legend /ˈlɛdʒ(ə)nd/
+```
+noun
+noun: legend; plural noun: legends
+1.a traditional story sometimes popularly regarded as historical but not authenticated.
+"the legend of King Arthur"
+HISTORICAL
+the story of a saint's life.
+"the mosaics illustrate the Legends of the Saints"
+2.an extremely famous or notorious person, especially in a particular field.
+"the man was a living legend"
+3.an inscription, especially on a coin or medal.
+a caption.
+"a picture of a tiger with the legend ‘Go ahead make my day’"
+the wording on a map or diagram explaining the symbols used.
+"see legend to Fig. 1"
+adjective
+adjective: legend
+very well known.
+"his speed and ferocity in attack were legend"
+```
+
+#### myth /mɪθ/
+```
+noun
+noun: myth; plural noun: myths
+1.a traditional story, especially one concerning the early history of a people or explaining a natural or social phenomenon, and typically involving supernatural beings or events.
+"ancient Celtic myths"
+2.a widely held but false belief or idea.
+"the belief that evening primrose oil helps to cure eczema is a myth, according to dermatologists"
+a misrepresentation of the truth.
+"attacking the party's irresponsible myths about privatization"
+a fictitious or imaginary person or thing.
+"nobody had ever heard of Simon's mysterious friend—Anna said he was a myth"
+an exaggerated or idealized conception of a person or thing.
+"the book is a scholarly study of the Churchill myth"
+```
