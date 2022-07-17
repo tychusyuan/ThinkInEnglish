@@ -522,3 +522,178 @@ past tense: crept; past participle: crept
 3.(of a plastic solid) undergo gradual deformation under stress.
 ```
 
+#### abandoned /əˈband(ə)nd/
+```
+adjective
+adjective: abandoned
+1.having been deserted or left.
+"an abandoned car"
+2.unrestrained; uninhibited.
+"a wild, abandoned dance"
+```
+
+#### intend /ɪnˈtɛnd/
+```
+verb: intend; 3rd person present: intends; past tense: intended; past participle: intended; gerund or present participle: intending
+1.have (a course of action) as one's purpose or intention; plan.
+"the company intends to cut 400 jobs"
+plan that something should be or do something.
+"a series of questions intended as a checklist"
+plan that speech should have (a particular meaning).
+"no offence was intended, I assure you"
+2.design or destine something for a particular purpose.
+"this one-roomed cottage was intended to accommodate a family"
+be meant or designed for the use of (a particular person or group).
+"this benefit is intended for people incapable of work"
+```
+
+ #### imaginable /ɪˈmadʒɪnəb(ə)l/
+```
+adjective
+adjective: imaginable
+possible to be thought of or believed.
+"the most spectacular views imaginable"
+```
+
+#### shape /ʃeɪp/
+```
+noun
+noun: shape; plural noun: shapes
+1.the external form, contours, or outline of someone or something.
+"she liked the shape of his nose"
+a person or thing that is difficult to see and identify clearly.
+"he saw a shape through the mist"
+a specific form or guise assumed by someone or something.
+"a fiend in human shape"
+2.a geometric figure such as a square, triangle, or rectangle.
+a piece of material, paper, etc., made or cut in a particular form.
+"stick paper shapes on for the puppet's eyes and nose"
+3.the correct or original form or contours of something.
+"her skirt had lost its shape long ago"
+definite or orderly arrangement.
+"check that your structure will give shape to your essay"
+4.the specified condition or state of someone or something.
+"the company came through a difficult period in excellent financial shape"
+the distinctive nature or qualities of something.
+"debates about the future shape of British society"
+verb
+verb: shape; 3rd person present: shapes; past tense: shaped; past participle: shaped; gerund or present participle: shaping
+1.give a particular shape or form to.
+"most caves are shaped by the flow of water through limestone"
+form or produce (a sound or words).
+"her lips shaped barely audible words"
+make (something) fit the form of something else.
+"suits have been shaped to fit so snugly that no curve is undefined"
+determine the nature of; have a great influence on.
+"his childhood was shaped by a loving relationship with his elder brother"
+2.(of a sports player or athlete) take up a stance or set oneself to perform a particular action.
+"I had plenty of time and shaped to kick to the near touchline"
+```
+
+#### fortune /ˈfɔːtʃuːn,ˈfɔːtʃ(ə)n/
+```
+plural noun: fortunes
+1.chance or luck as an arbitrary force affecting human affairs.
+"some malicious act of fortune keeps them separate"
+luck, especially good luck.
+"only good fortune has prevented British casualties"
+the success or failure of a person or enterprise over a period of time.
+"he is credited with turning round the company's fortunes"
+2.a large amount of money or assets.
+"he inherited a substantial fortune"
+INFORMAL
+a surprisingly high price or amount of money.
+noun: a fortune
+"I spent a fortune on drink"
+```
+
+#### concerning /kənˈsəːnɪŋ/
+```
+preposition
+preposition: concerning
+on the subject of or in connection with; about.
+"we are given little information concerning matters of national security"
+adjective
+adjective: concerning
+causing anxiety; worrying.
+"I find many of the comments very concerning"
+```
+
+#### farthing /ˈfɑːðɪŋ/
+```
+noun
+plural noun: farthings
+a former monetary unit and coin of the UK, withdrawn in 1961, equal to a quarter of an old penny.
+the least possible amount.
+"she didn't care a farthing for the woman"
+```
+
+#### passion /ˈpaʃ(ə)n/
+```
+noun: passion; plural noun: passions; noun: Passion; noun: the Passion
+1.strong and barely controllable emotion.
+"a man of impetuous passion"
+a state or outburst of strong emotion.
+"oratory in which he gradually works himself up into a passion"
+intense sexual love.
+"their all-consuming passion for each other"
+an intense desire or enthusiasm for something.
+"the English have a passion for gardens"
+a thing arousing great enthusiasm.
+"modern furniture is a particular passion of Bill's"
+2.the suffering and death of Jesus.
+"meditations on the Passion of Christ"
+a musical setting of any of the biblical accounts of the Passion.
+"an aria from Bach's St Matthew Passion"
+```
+
+#### stickleback /ˈstɪk(ə)lbak/
+```
+noun
+plural noun: sticklebacks
+a small fish with sharp spines along its back, able to live in both salt and fresh water and found in both Eurasia and North America.
+```
+
+#### wizard /ˈwɪzəd/
+```
+noun: wizard; plural noun: wizards
+1.(in legends and fairy tales) a man who has magical powers.
+a person who is very skilled in a particular field or activity.
+"a financial wizard"
+2.COMPUTING
+a help feature of a software package that automates complex tasks by asking the user a series of easy-to-answer questions.
+adjectiveDATED•INFORMAL
+adjective: wizard
+wonderful; excellent.
+"how absolutely wizard!"
+```
+
+#### precisely /prɪˈsʌɪsli/
+```
+adverb: precisely
+in exact terms; without vagueness.
+"the guidelines are precisely defined"
+exactly (used to emphasize the complete accuracy or truth of a statement).
+"at 2.00 precisely, the phone rang"
+used as a reply to confirm or agree with a previous statement.
+"‘You mean it was a conspiracy?’ ‘Precisely.’"
+```
+
+#### rascal /ˈrɑːsk(ə)l/
+```
+noun
+noun: rascal; plural noun: rascals
+a mischievous or cheeky person, especially a child or man (typically used in an affectionate way).
+"a lovable rascal"
+```
+
+#### magnificence /maɡˈnɪfɪsns/
+```
+noun: magnificence
+the quality of being magnificent.
+"the magnificence of the surrounding countryside"
+HISTORICAL
+a title or form of address for a monarch or other distinguished person.
+noun: His Magnificence; noun: Your Magnificence
+```
+
