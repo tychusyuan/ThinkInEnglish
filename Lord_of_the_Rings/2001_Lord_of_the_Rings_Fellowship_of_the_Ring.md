@@ -731,3 +731,156 @@ a plantation of grapevines, typically producing grapes used in winemaking.
 a sphere of action or labour (in allusion to Matt. 20:1).
 ```
 
+#### arrangement /əˈreɪn(d)ʒm(ə)nt/
+```
+noun
+plural noun: arrangements
+1.the action, process, or result of arranging or being arranged.
+"the arrangement of the furniture in the room"
+a thing that has been arranged in a neat or attractive way.
+"an intricate arrangement of gravel paths"
+2.a plan or preparation for a future event.
+"all the arrangements for the wedding were made"
+an agreement with someone to do something.
+"the travel agents have an arrangement with the hotel"
+3.a musical composition arranged for performance with instruments or voices differing from those originally specified.
+"Mozart's symphonies in arrangements for cello and piano"
+4.ARCHAIC
+a settlement of a dispute or claim.
+```
+
+#### suspect /səˈspɛkt/
+```
+verb
+3rd person present: suspects
+1.have an idea or impression of the existence, presence, or truth of (something) without certain proof.
+"if you suspect a gas leak, do not turn on an electric light"
+believe or feel that (someone) is guilty of an illegal, dishonest, or unpleasant act, without certain proof.
+"parents suspected of child abuse"
+Similar:
+regard as guilty
+think to be guilty
+regard as a wrongdoer
+2.doubt the genuineness or truth of.
+"a broker whose honesty he had no reason to suspect"
+noun
+plural noun: suspects
+/ˈsʌspɛkt/
+a person thought to be guilty of a crime or offence.
+"the police have arrested a suspect"
+```
+
+#### envelope /ˈɛnvələʊp,ˈɒnvələʊp/
+```
+noun
+noun: envelope; plural noun: envelopes
+1.a flat paper container with a sealable flap, used to enclose a letter or document.
+2.a covering or containing structure or layer.
+"the external envelope of the swimming pool"
+the outer metal or glass housing of a vacuum tube, electric light, etc.
+"the switch itself is a glass envelope filled with rare gases and containing two contacts"
+the structure within a balloon or non-rigid airship containing the gas.
+MICROBIOLOGY
+a membrane which forms the outer layer of certain viruses.
+ELECTRONICS
+a curve joining the successive peaks of a modulated wave.
+MATHEMATICS
+a curve or surface tangent to each of a family of curves or surfaces.
+```
+
+#### mantelpiece /ˈmant(ə)lpiːs/
+```
+noun
+noun: mantelpiece; plural noun: mantelpieces; noun: mantlepiece; plural noun: mantlepieces; noun: mantle-piece; plural noun: mantle-pieces
+a structure of wood, marble, or stone above and around a fireplace.
+a mantelshelf.
+```
+### conjuror /ˈkʌndʒərə/
+```
+noun
+noun: conjurer
+a performer of conjuring tricks.
+```
+
+#### possession /pəˈzɛʃ(ə)n/
+```
+noun
+plural noun: possessions
+1.the state of having, owning, or controlling something.
+"she had taken possession of the sofa"
+LAW
+visible power or control over something, as distinct from lawful ownership; holding or occupancy as distinct from ownership.
+"the landlord wishes to gain possession of the accommodation"
+INFORMAL
+the state of possessing an illegal drug.
+"they're charged with possession"
+(in soccer, rugby, and other ball games) temporary control of the ball by a player or team.
+"the ball hit a defender and Brown's quick reaction put him in possession"
+2.something that is owned or possessed.
+"I had no money or possessions"
+a territory or country controlled or governed by another.
+"France's former colonial possessions"
+3.the state of being controlled by a demon or spirit.
+"they said prayers to protect the people inside the hall from demonic possession"
+the state of being completely dominated by an idea or emotion.
+"fear took possession of my soul"
+```
+
+#### heirloom /ˈɛːluːm/
+```
+noun
+noun: heirloom; plural noun: heirlooms
+a valuable object that has belonged to a family for several generations.
+"the violin was a family heirloom"
+NORTH AMERICAN
+denoting a traditional variety of plant or breed of animal which is not associated with large-scale commercial agriculture.
+"his garden is filled with heirloom vegetables"
+```
+
+#### concern /kənˈsəːn/
+```
+verb
+verb: concern; 3rd person present: concerns; past tense: concerned; past participle: concerned; gerund or present participle: concerning
+1.relate to; be about.
+"the story concerns a friend of mine"
+be relevant or important to; affect or involve.
+"she was prying into that which did not concern her"
+interest or involve oneself in.
+"it is not necessary for us to concern ourselves with this point"
+FORMAL
+have a specific connection with or responsibility for.
+"those concerned in industry, academia, and government"
+regard it as important to do something.
+"I was mainly concerned with making something that children could enjoy"
+2.make (someone) anxious or worried.
+"the roof of the barn concerns me because eventually it will fall in"
+noun
+noun: concern
+1.anxiety; worry.
+"Carole gazed at her with concern"
+plural noun: concerns
+"environmental concerns"
+2.a matter of interest or importance to someone.
+"housing is the concern of the Housing Executive"
+3.a business.
+"the town's only travel agent was a small, debt-ridden concern"
+4.DATED•INFORMAL
+a complicated or awkward object.
+```
+
+#### awake /əˈweɪk/
+```
+verb
+past participle: awoken
+stop sleeping; wake from sleep.
+"she awoke to find the streets covered in snow"
+cause (someone) to wake from sleep.
+"my screams awoke my parents"
+regain consciousness.
+"I awoke none the worse for the operation"
+become aware of; come to a realization of.
+"the authorities finally awoke to the extent of the problem"
+make or become active again.
+"there were echoes and scents which awoke some memory in me"
+```
+
