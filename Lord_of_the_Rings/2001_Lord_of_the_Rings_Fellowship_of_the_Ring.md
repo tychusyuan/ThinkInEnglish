@@ -407,3 +407,118 @@ a fictitious or imaginary person or thing.
 an exaggerated or idealized conception of a person or thing.
 "the book is a scholarly study of the Churchill myth"
 ```
+
+#### ensnare /ɪnˈsnɛː,ɛnˈsnɛː/
+```
+verb
+past tense: ensnared; past participle: ensnared
+catch in or as in a trap.
+"they were ensnared in city centre traffic"
+```
+
+#### bearer /ˈbɛːrə/
+```
+noun
+noun: bearer; plural noun: bearers
+1.a person or thing that carries or holds something.
+"a flag-bearer"
+INDIAN
+a domestic servant or other menial worker.
+INDIAN
+a waiter.
+a person who carries the coffin at a funeral.
+2.a person who presents a cheque or other order to pay money.
+"promissory notes payable to the bearer"
+modifier noun: bearer
+"bearer bonds"
+```
+
+#### creature /ˈkriːtʃə/
+```
+noun
+noun: creature; plural noun: creatures
+1.an animal, as distinct from a human being.
+"night sounds of birds and other creatures"
+Similar:
+an animal or person.
+"as fellow creatures on this planet, animals deserve respect"
+a fictional or imaginary being.
+"a creature from outer space"
+a person of a specified kind.
+"you heartless creature!"
+2.a person or organization considered to be under the complete control of another.
+"the village teacher was expected to be the creature of his employer"
+3.ARCHAIC
+anything living or existing.
+"dress, jewels, and other transitory creatures"
+```
+
+#### poison /ˈpɔɪz(ə)n/
+```
+verb
+past tense: poisoned; past participle: poisoned
+1.administer poison to (a person or animal), either deliberately or accidentally.
+"someone had tried to poison me"
+Similar:
+administer poison to
+give poison to
+murder
+adulterate or contaminate with poison.
+"he claimed the guards had poisoned his food"
+smear (a weapon or missile) with poison.
+"hunters would use the sap of monkshood to poison their spears"
+prove harmful or destructive to.
+"the bombings poisoned the political atmosphere and deepened the social divide"
+2.CHEMISTRY
+(of a substance) reduce the activity of (a catalyst).
+```
+
+#### gloom /ɡluːm/
+```
+noun: gloom
+1.partial or total darkness.
+"he strained his eyes peering into the gloom"
+LITERARY
+a dark or shady place.
+plural noun: glooms
+"the meadow-hen floats off, to sink into remoter shades and ferny glooms"
+2.a state of depression or despondency.
+"a year of economic gloom for the car industry"
+verb
+verb: gloom; 3rd person present: glooms; past tense: gloomed; past participle: gloomed; gerund or present participle: glooming
+1.LITERARY
+have a dark or sombre appearance.
+"the black gibbet glooms beside the way"
+make dark or dismal.
+"a black yew gloom'd the stagnant air"
+2.be or look depressed or despondent.
+"Charles was always glooming about money"
+```
+
+cave /keɪv/
+```
+noun: cave; plural noun: caves
+a natural underground chamber in a hillside or cliff.
+"the narrow gorge contains a series of prehistoric caves"
+verb
+verb: cave; 3rd person present: caves; past tense: caved; past participle: caved; gerund or present participle: caving
+1.explore caves as a sport.
+"they say they cave for the adventure, challenge, and physical exercise"
+2.US
+capitulate or submit under pressure; cave in.
+"he caved because his position had become untenable"
+```
+
+#### creep /kriːp/
+```
+verb
+past tense: crept; past participle: crept
+1.move slowly and carefully in order to avoid being heard or noticed.
+"he crept downstairs, hardly making any noise"
+(of a thing) move very slowly and inexorably.
+"the fog was creeping up from the marsh"
+2.(of a plant) grow along the ground or other surface by means of extending stems or branches.
+"thorny roses crept up the dull gray walls"
+3.(of a plastic solid) undergo gradual deformation under stress.
+```
+
