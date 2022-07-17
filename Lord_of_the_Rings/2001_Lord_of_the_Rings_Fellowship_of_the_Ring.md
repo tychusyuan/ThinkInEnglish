@@ -10,8 +10,7 @@ gerund or present participle: forging
 3.produce a fraudulent copy or imitation of (a document, signature, banknote, or work of art).
 "the signature on the cheque was forged"
 ```
-#### elf
-/ɛlf/
+#### elf /ɛlf/
 ```
 noun
 plural noun: elves
