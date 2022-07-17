@@ -1,5 +1,5 @@
 
-forge /fɔːdʒ/ 
+#### forge /fɔːdʒ/ 
 ```
 verb
 gerund or present participle: forging
