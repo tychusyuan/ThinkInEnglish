@@ -697,3 +697,37 @@ a title or form of address for a monarch or other distinguished person.
 noun: His Magnificence; noun: Your Magnificence
 ```
 
+#### uproar /ˈʌprɔː/
+```
+noun: uproar; plural noun: uproars
+a loud and impassioned noise or disturbance.
+"the room was in an uproar"
+a public expression of protest or outrage.
+"it caused an uproar in the press"
+```
+
+#### nudge /nʌdʒ/
+```
+verb
+verb: nudge; 3rd person present: nudges; past tense: nudged; past participle: nudged; gerund or present participle: nudging
+prod (someone) gently with one's elbow in order to attract attention.
+"people were nudging each other and pointing at me"
+touch or push (something) gently or gradually.
+"the canoe nudged a bank of reeds"
+coax or gently encourage (someone) to do something.
+"we have to nudge the politicians in the right direction"
+approach (an age, figure, or level) very closely.
+"both men were nudging fifty"
+noun
+noun: nudge; plural noun: nudges
+a light touch or push.
+"he gave her shoulder a nudge"
+```
+
+#### vineyard /ˈvɪnjɑːd,ˈvɪnjəd/
+```
+noun
+a plantation of grapevines, typically producing grapes used in winemaking.
+a sphere of action or labour (in allusion to Matt. 20:1).
+```
+
