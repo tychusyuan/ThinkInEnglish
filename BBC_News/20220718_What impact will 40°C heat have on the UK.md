@@ -114,6 +114,4 @@ a busy couple of days ahead for you
 
 rachel many thanks for joining us rachel
 
-air senior operational meteorologist at
-
-the met office in the uk
+air senior operational meteorologist at the met office in the uk
