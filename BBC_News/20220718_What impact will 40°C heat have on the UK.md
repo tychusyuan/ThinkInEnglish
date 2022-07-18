@@ -1,25 +1,12 @@
+as we've been hearing in the uk, an amber[^amber] warning of extreme[^extreme] heat has come into force across most of england and parts of wales. 
+[^amber]: amber /ˈambə/ noun: amber ; a yellow light used as a cautionary signal between green for ‘go’ and red for ‘stop’.
+[^extreme]: extreme /ɪkˈstriːm,ɛkˈstriːm/ adjective: extreme ; reaching a high or the highest degree; very great.
 
-as we've been hearing in the uk an amber
+the alert will extend to the whole of wales and southern scotland from tomorrow, when a red heat warning meaning there's a risk to life will come into force in parts of england.
 
-warning of extreme heat has come into
+well joining us now is rachel ayers senior operational meteorologist at the met office in the uk 
 
-force across most of england and parts
-
-of wales the alert will extend to the
-
-whole of wales and southern scotland
-
-from tomorrow when a red heat warning
-
-meaning there's a risk to life will come
-
-into force in parts of england well
-
-joining us now is rachel ayers senior
-
-operational meteorologist at the met
-
-office in the uk rachel thanks for
+rachel thanks for
 
 joining us um in these hot conditions
 
