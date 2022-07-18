@@ -1,3 +1,7 @@
+# What impact will 40°C heat have on the UK? 
+
+[What impact will 40°C heat have on the UK? ](https://www.youtube.com/watch?v=ObnMoUh1htE)
+
 as we've been hearing in the uk, an amber[^amber] warning of extreme[^extreme] heat has come into force across most of england and parts of wales. 
 [^amber]: amber /ˈambə/ noun: amber ; a yellow light used as a cautionary signal between green for ‘go’ and red for ‘stop’.
 [^extreme]: extreme /ɪkˈstriːm,ɛkˈstriːm/ adjective: extreme ; reaching a high or the highest degree; very great.
