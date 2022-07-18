@@ -29,67 +29,14 @@ across the south and east, it'll be a little drier, so it's lower humidity but s
 [^widespread]: widespread /ˈwʌɪdsprɛd,wʌɪdˈsprɛd/ adjective: widespread; adjective: wide-spread ; found or distributed over a large area or number of people.
 [^remaining]: remaining /rɪˈmeɪnɪŋ/ adjective: remaining ; still existing, present, or in use; surviving.
 
-you touched on it there that no cooling
+you touched on it there that no cooling off period[^period] overnight for a couple of days is that one of the main issues here with this.
+[^period]: period /ˈpɪərɪəd/ noun: period; plural noun: periods; noun: menstrual period; plural noun: menstrual periods ; a length or portion of time.
 
-off period overnight for a couple of
+exactly that's part of the reason we've got these extreme heat warnings in place because there's no respite from the heat overnight temperatures are still going to be remaining high we could see a new highest uk minimum temperature record as well over the next couple of days and it's going to be a case of people sort of closing curtains during the day to keep the sunlight out and keep temperatures as cool as possible in the house and if you've maybe got fans that might help a little bit but probably not extreme uh it's gonna help extremely but sort of sleeping without a duvet or a lighter duvet and or blankets instead of a thick duvet is going to help people overnight.
 
-days is that one of the main issues here
+yeah it certainly feels like in parts of the uk we are beyond those small tips of advice what impact will these temperatures have on bodies even in the fit and healthy would you say 
 
-with this
-
-exactly that's part of the reason we've
-
-got these extreme heat warnings in place
-
-because there's no respite from the heat
-
-overnight temperatures are still going
-
-to be remaining high we could see a new
-
-highest uk minimum temperature record as
-
-well over the next couple of days and
-
-it's going to be a case of people sort
-
-of closing curtains during the day to
-
-keep the sunlight out and keep
-
-temperatures as cool as possible in the
-
-house and if you've maybe got fans that
-
-might help a little bit but probably not
-
-extreme uh it's gonna help extremely but
-
-sort of sleeping without a duvet or a
-
-lighter duvet and or blankets instead of
-
-a thick duvet is going to help people
-
-overnight yeah it certainly feels like
-
-in parts of the uk we are beyond those
-
-small tips of advice what impact will
-
-these temperatures have on bodies even
-
-in the fit and healthy would you say
-
-so i think um most people will probably
-
-need to
-
-stay hydrated or drink more water
-
-throughout the day you're going to
-
-notice you're going to feel dehydrated
+so i think um most people will probably need to stay hydrated or drink more water throughout the day you're going to notice you're going to feel dehydrated
 
 more often especially if you're spending
 
