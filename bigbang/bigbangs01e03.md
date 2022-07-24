@@ -95,3 +95,86 @@ an incarnation, embodiment, or manifestation of a person or idea.
 "he chose John Stuart Mill as the avatar of the liberal view"
 2.an icon or figure representing a particular person in a video game, internet forum, etc.
 "conversation is depicted in a balloon over the avatar's head"
+
+accidentally[^accidentally] on purpose
+[^accidentally]: accidentally /aksɪˈdɛnt(ə)li/
+adverb: accidentally
+by chance; inadvertently.
+"his gun went off accidentally"
+unintentionally; by chance.
+"she didn't get where she is today by accident"
+
+very old school
+
+what's up,bro?
+
+not much
+
+that's probaly not such a good idea
+
+you know,civil servants have a documented propensity to,you know,snap,so
+civil servants
+a documented propensity
+
+Penny for your thoughts
+
+what's the matter ?
+
+what's the kind of somesing
+
+what's wrong with your
+
+please dont't tell me that somesing
+
+hopeless somesing
+hopeless infatuation
+
+pointless somesing
+pointless jealousy
+
+devolving into 
+
+
+i'm just a little concerned[^concerned] for her
+[^concerned]: concerned /kənˈsəːnd/ adjective: concerned ; worried, troubled, or anxious. "the villagers are concerned about burglaries"
+
+he was kind of dreamy
+
+at least
+fantasy of somesing
+
+well,at least now you can retrieve[^concerned] the black box from the twisted[^twisted] smoldering wreckage[^wreckage] that was once your fantasy of dating her and analyze the data so that you don't crash into geek mountain again
+
+[^concerned]: retrieve /rɪˈtriːv/ verb: retrieve; 3rd person present: retrieves; past tense: retrieved; past participle: retrieved; gerund or present participle: retrieving
+1.get or bring (something) back from somewhere.
+"I was sent to retrieve the balls from his garden"
+(of a dog) find and bring back (game that has been shot).
+"labradors are used to retrieve the birds after the flush"
+reel or bring in a fishing line.
+"when he reaches the breakers, with you retrieving furiously, he'll probably change course"
+2.find or extract (information stored in a computer).
+"other features include the ability to store, update, retrieve, and print your data"
+recall (something).
+"the police hope to encourage him to retrieve forgotten memories"
+3.put right or improve (an unwelcome situation).
+"he made one last desperate attempt to retrieve the situation"
+
+[^twisted]: twisted /ˈtwɪstɪd/ adjective: twisted
+1.forced out of its natural or proper shape; crumpled.
+"the crash left a trail of twisted metal across the carriageway"
+(of a joint) injured by wrenching; sprained.
+"suffering a twisted ankle, he was carried from the field"
+2.(of a personality or a way of thinking) unpleasantly or unhealthily abnormal; warped.
+"a man with a twisted mind"
+
+[^wreckage]: wreckage /ˈrɛkɪdʒ/ noun: wreckage
+the remains of something that has been badly damaged or destroyed.
+"firemen had to cut him free from the wreckage of the car"
+
+i agreed
+
+i disagree
+
+love is not a sprint,it's a marathon
+
+i'm done with someone
