@@ -18,6 +18,7 @@ on the other sid of
 
 warriors
 magic wielders
+rogue night elf
 
 unsheathe your weapons
 raise your wands
@@ -54,3 +55,43 @@ guard or strengthen (a military force or position) from the side.
 "the southern gate of the fortress is flanked by towers"
 attack down or from the sides, or rake with gunfire from the sides.
 "the ship went straight through the enemy fleet and flanked them"
+
+sleep spell
+
+forget the sword
+
+sword of astaroth
+
+there is no more someone.
+
+the sword master
+
+look out
+
+dammit
+
+we're dying here
+
+good-bye,peasants!
+
+the bastard teleported
+
+you betrayed us for money
+
+you guys
+you people
+
+character descriptions
+
+i'm all sweaty
+
+.... right now
+
+i can't look at you or your avatar[^avatar]: right now
+[^avatar]: avatar /ˈavətɑː/ noun: avatar; plural noun: avatars
+1.HINDUISM
+a manifestation of a deity or released soul in bodily form on earth; an incarnate divine teacher.
+an incarnation, embodiment, or manifestation of a person or idea.
+"he chose John Stuart Mill as the avatar of the liberal view"
+2.an icon or figure representing a particular person in a video game, internet forum, etc.
+"conversation is depicted in a balloon over the avatar's head"
