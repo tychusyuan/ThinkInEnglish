@@ -132,6 +132,9 @@ hopeless infatuation
 pointless somesing
 pointless jealousy
 
+relentless somesing
+relentless pursuit
+
 devolving into 
 
 
@@ -178,3 +181,7 @@ i disagree
 love is not a sprint,it's a marathon
 
 i'm done with someone
+
+pepper spray
+
+a relentless pursuit that only ends when she falls into your arms or hits you with the pepper spray
