@@ -41,3 +41,8 @@ swat someone off
 my tail's prehensile[^prehensile]
 [^prehensile]: prehensile /prɪˈhɛnsʌɪl/ adjective: prehensile ; (chiefly of an animal's limb or tail) capable of grasping. "many monkeys have long, prehensile tails which they use in swinging through the trees"
 
+i spice[^spice] my mead[^mead] with goblin blood
+[^spice]: spice /spʌɪs/ verb: spice; 3rd person present: spices; past tense: spiced; past participle: spiced; gerund or present participle: spicing ； flavour with spice.
+"I've spiced the stew with cloves, pepper, and fennel seed"
+[^mead]: mead /miːd/ noun: mead ; an alcoholic drink of fermented honey and water. "the tavern stocks beer, cider, perry, and mead"
+
