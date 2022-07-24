@@ -46,3 +46,11 @@ i spice[^spice] my mead[^mead] with goblin blood
 "I've spiced the stew with cloves, pepper, and fennel seed"
 [^mead]: mead /miːd/ noun: mead ; an alcoholic drink of fermented honey and water. "the tavern stocks beer, cider, perry, and mead"
 
+it's a trap
+
+they're flanking[^flank] us
+[^flank]: flank /flaŋk/ verb gerund or present participle: flanking ; be on each or on one side of. "the three defendants stood in the dock, flanked by police officers"
+guard or strengthen (a military force or position) from the side.
+"the southern gate of the fortress is flanked by towers"
+attack down or from the sides, or rake with gunfire from the sides.
+"the ship went straight through the enemy fleet and flanked them"
