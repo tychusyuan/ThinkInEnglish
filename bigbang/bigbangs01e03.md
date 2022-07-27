@@ -110,6 +110,9 @@ what's up,bro?
 
 not much
 
+what's going on?
+
+
 that's probaly not such a good idea
 
 you know,civil servants have a documented propensity to,you know,snap,so
@@ -119,6 +122,8 @@ a documented propensity
 Penny for your thoughts
 
 what's the matter ?
+
+it doesn't matter.
 
 what's the kind of somesing
 
@@ -185,3 +190,8 @@ i'm done with someone
 pepper spray
 
 a relentless pursuit that only ends when she falls into your arms or hits you with the pepper spray
+
+fair enough
+
+
+
