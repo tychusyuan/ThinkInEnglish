@@ -1,14 +1,8 @@
-taiwan has thanked president biden for
-telling his chinese counterpart that
-washington remained opposed to any
-action that would change the status of
-the self-governing island the foreign
-ministry in taipei said it had been
-briefed by u.s officials after mr
-biden's two-hour call with xi jinping
-i've been speaking to the bbc's monica
-miller who had more details on what was
-said during that call
+
+[China’s President Xi and US President Biden exchange warnings on Taiwan ](https://www.youtube.com/watch?v=oFmyeDXt1F8)
+
+Taiwan has thanked president biden for telling his chinese counterpart that washington remained opposed to any action that would change the status of the self-governing island. The foreign ministry in Taipei said it had been briefed by u.s officials after mr biden's two-hour call with xi jinping. i've been speaking to the bbc's monica miller who had more details on what was said during that call.
+
 what we do know is that it was a lengthy
 discussion between the two leaders and
 the white house is saying it was direct
