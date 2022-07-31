@@ -26,9 +26,12 @@ now, what has brought this to attention is that, uh. u.s house speaker nancy pel
 monica the two did discuss a possible they did 
 
 they did leave the door open, because it's not just taiwan, the two countries really have a lot to discuss right now, in particular, they're the two biggest economies in the world, and they have a lot in common in terms of suffering from supply chain issues. the war in ukraine that is something that everyone can feel around the globe. but they also have issues of climate change health issues. uh, there is a load of host of discussions, that i don't know if they even in that two-hour discussion were able to cover all of those topics, so their aides are saying that the door is still open, and then maybe in the sometime in the near future, they may have a face-to-face meeting, that may happen later this year, when the two leaders actually come to asia and bangkok and bali for the g20 around november we might see something happen then.
+> supply chain 
+> climate change
 
 and what if any more reaction can we expect from Taipei
 
 well you know they've been rather mum about this visit from nancy pelosi. she is headed to asia within a couple of hours. we expect her to make a stop in japan as well as indonesia and even here in singapore, but it is unclear if she's going to have any sort of stopover in taiwan.
+> a couple of hours
 
 but again even just the discussion that she had made publicly a couple of days ago that she might stop has really uh made this situation between these two countries uh much much worse and this has been a a time for china to really um you know speak out and say where they stand on the issue and what will happen if the u.s crosses that line
