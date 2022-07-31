@@ -2,37 +2,16 @@
 [China’s President Xi and US President Biden exchange warnings on Taiwan ](https://www.youtube.com/watch?v=oFmyeDXt1F8)
 
 Taiwan has thanked president biden for telling his chinese counterpart that washington remained opposed to any action that would change the status of the self-governing island. The foreign ministry in Taipei said it had been briefed by u.s officials after mr biden's two-hour call with xi jinping. i've been speaking to the bbc's monica miller who had more details on what was said during that call.
+> remained opposed
+> the self-governing island
 
-what we do know is that it was a lengthy
-discussion between the two leaders and
-the white house is saying it was direct
-in-depth and straightforward chinese
-president xi jinping has warned
-president biden against playing with
-fire over taiwan he wasn't mincing words
-on this particular topic and said that
-the u.s should abide by the one china
-principle that it had agreed to and that
-it poses any reference to taiwanese
-independence and outside interference as
-a no-go now president joe biden has said
-that taiwan the united states policy
-hasn't been changed and that he's not
-trying to change the status quo he wants
-to be under he doesn't want to undermine
-peace or stability across the taiwan
-straits now what has brought this to
-attention is that uh u.s house speaker
-nancy pelosi has said that she is
-considering a visit to taiwan which has
-been an issue for many years between the
-two countries and really in the
-crosshairs of a lot of tension and
-tensions between the two countries are
-at an all-time low so he was sending a
-very stern message president xi jinping
-to the u.s not to undermine what has
-been established
+what we do know is that it was a lengthy discussion between the two leaders, and the white house is saying it was direct in-depth and straightforward.
+>lengthy discussion
+>
+Chinese president xi jinping has warned president biden against playing with fire over taiwan. he wasn't mincing words on this particular topic and said that the u.s should abide by the one china principle that it had agreed to and that it poses any reference to taiwanese independence and outside interference as a no-go now. 
+
+President joe biden has said that taiwan the united states policy hasn't been changed and that he's not trying to change the status quo he wants to be under, he doesn't want to undermine peace or stability across the taiwan straits. now, what has brought this to attention is that, uh. u.s house speaker nancy pelosi has said that she is considering a visit to taiwan which has been an issue for many years between the two countries and really in the crosshairs of a lot of tension and tensions between the two countries are at an all-time low so he was sending a very stern message president xi jinping to the u.s not to undermine what has been established
+
 monica the two did discuss a possible
 they did they did leave the door open
 because it's not just taiwan the two
