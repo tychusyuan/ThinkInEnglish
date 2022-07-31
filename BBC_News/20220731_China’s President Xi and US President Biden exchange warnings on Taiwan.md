@@ -27,6 +27,7 @@ monica the two did discuss a possible they did
 
 they did leave the door open, because it's not just taiwan, the two countries really have a lot to discuss right now, in particular, they're the two biggest economies in the world, and they have a lot in common in terms of suffering from supply chain issues. the war in ukraine that is something that everyone can feel around the globe. but they also have issues of climate change health issues. uh, there is a load of host of discussions, that i don't know if they even in that two-hour discussion were able to cover all of those topics, so their aides are saying that the door is still open, and then maybe in the sometime in the near future, they may have a face-to-face meeting, that may happen later this year, when the two leaders actually come to asia and bangkok and bali for the g20 around november we might see something happen then.
 > supply chain 
+> 
 > climate change
 
 and what if any more reaction can we expect from Taipei
