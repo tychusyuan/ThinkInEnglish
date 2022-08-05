@@ -8,25 +8,12 @@ taiwan's defense Ministry says China has fired multiple ballistic missiles durin
 Beijing launched the drills in response to a visit by Nancy Pelosi the most senior U.S official to go to the self-governed island in 25 years. the exercises are taking place in some of the world's busiest waterways.
 
 Taiwan sees itself as independent, but China views it as its own. China's foreign Ministry said Nancy Pelosi's visit to Taiwan was a violation of the one China principle and Justified its military exercises by blaming the United States for the rising tensions in the region.
+> the one China principle
 
-China has repeatedly made clear our student opposition and the
-stressed that we are firmly opposed to
-Taiwan independent separatist forces and
-foreign interference and they will allow
-no room for any form of Taiwan
-Independence forces if the U.S continues
-down the wrong path then all
-consequences shall be borne by the U.S
-and do not say that we have not taught
-them in advance the U.S first made a
-malicious provocation and China has been
-compared to act in self-defense so
-whatever we have done to in response as
-a counter measure would be justified and
-the firm and resolute
-of China correspondent Stephen McDonald
-has more from Beijing for the last
-couple of days
+
+China has repeatedly made clear our student opposition and the stressed that we are firmly opposed to Taiwan independent separatist forces and foreign interference and they will allow no room for any form of Taiwan Independence forces if the U.S continues down the wrong path then all consequences shall be borne by the U.S and do not say that we have not taught them in advance the U.S first made a malicious provocation and China has been compared to act in self-defense so whatever we have done to in response as a counter measure would be justified and the firm and resolute
+
+of China correspondent Stephen McDonald has more from Beijing for the last couple of days
 China has been amassing large formations
 of planes and ships all around Taiwan
 and now the shooting has started so
