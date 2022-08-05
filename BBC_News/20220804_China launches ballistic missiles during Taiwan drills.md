@@ -1,20 +1,11 @@
-taiwan's defense Ministry says China has
-fired multiple ballistic missiles during
-a set of military exercises in the air
-and the Sea encircling Taiwan Beijing
-launched the drills in response to a
-visit by Nancy Pelosi the most senior
-U.S official to go to the self-governed
-island in 25 years the exercises are
-taking place in some of the world's
-busiest waterways Taiwan sees itself as
-independent but China views it as its
-own China's foreign Ministry said Nancy
-Pelosi's visit to Taiwan was a violation
-of the one China principle and Justified
-its military exercises by blaming the
-United States for the rising tensions in
-the region China has repeatedly made
+
+taiwan's defense Ministry says China has fired multiple ballistic missiles during a set of military exercises in the air and the Sea encircling Taiwan.
+
+Beijing launched the drills in response to a visit by Nancy Pelosi the most senior U.S official to go to the self-governed island in 25 years. the exercises are taking place in some of the world's busiest waterways.
+
+Taiwan sees itself as independent but China views it as its own. China's foreign Ministry said Nancy Pelosi's visit to Taiwan was a violation of the one China principle and Justified its military exercises by blaming the United States for the rising tensions in the region.
+
+China has repeatedly made
 clear our student opposition and the
 stressed that we are firmly opposed to
 Taiwan independent separatist forces and
