@@ -11,16 +11,15 @@ Taiwan sees itself as independent, but China views it as its own. China's foreig
 > the one China principle
 
 
-China has repeatedly made clear our student opposition and the stressed that we are firmly opposed to Taiwan independent separatist forces and foreign interference and they will allow no room for any form of Taiwan Independence forces if the U.S continues down the wrong path then all consequences shall be borne by the U.S and do not say that we have not taught them in advance the U.S first made a malicious provocation and China has been compared to act in self-defense so whatever we have done to in response as a counter measure would be justified and the firm and resolute
+China has repeatedly made clear our student opposition and the stressed that we are firmly opposed to Taiwan independent separatist forces and foreign interference, and they will allow no room for any form of Taiwan Independence forces. if the U.S continues down the wrong path then all consequences shall be borne by the U.S and do not say that we have not taught them in advance the U.S first made a malicious provocation and China has been compared to act in self-defense so whatever we have done to in response as a counter measure would be justified and the firm and resolute.
+> Independence forces
+
 
 of China correspondent Stephen McDonald has more from Beijing for the last couple of days
-China has been amassing large formations
-of planes and ships all around Taiwan
-and now the shooting has started so
-there's a live fire drills and in those
+China has been amassing large formations of planes and ships all around Taiwan, and now the shooting has started so there's a live fire drills and in those
 zones which have been marked out into
 the North to the southeast and west of
-Taiwan the pla has warned commercial
+Taiwan, the pla has warned commercial
 ships not to enter commercial planes not
 to fly through that airspace
 interestingly I see that the U.S Air
@@ -61,8 +60,11 @@ minister expresses it so a lot of
 questions and and certainly a lot of
 tensions building around Taiwan as we
 speak
+
 Stephen McDonald our correspondent there
-in Beijing well Nancy Pelosi is now in
+in Beijing 
+
+well Nancy Pelosi is now in
 South Korea where she's expressed
 concern over the increasing threat posed
 by North Korea in a joint statement with
