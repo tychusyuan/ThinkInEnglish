@@ -33,8 +33,8 @@ The three-quarter high-top, gorgeous foam soles.
 
 I could barely feel it when he stepped on my face.
 
-- Oh, man.
-- Wow.
+Oh, man.
+Wow.
 
 Life in the big city.
 Ain't nothing like it.
@@ -65,8 +65,8 @@ That's my dream girl, Buddy.
 
 She exists.
 
-- I'm gonna go talk to her.
-- Whoa, whoa, whoa, whoa.
+I'm gonna go talk to her.
+Whoa, whoa, whoa, whoa.
 
 Wait, man. She's wearing sunglasses.
 
@@ -76,8 +76,8 @@ Whatcha mean "so?"
 
 So, people with sunglasses don't talk to people like us.
 
-- You know that!
-- I gotta try.
+You know that!
+I gotta try.
 
 Look, Guy! Guy!
 
@@ -88,3 +88,22 @@ Excuse me!
 Hey!
 
 Hey!
+
+Coming soon... Free City 2!
+
+Bigger! Badder! Radder!
+
+Free City 2: Carnage.
+
+Pre-order today and get the bonus Mayhem Pack.
+
+You done?
+
+Sorry. Are you closing?
+
+Yes.We usually don't put the chairs on the tables, one-small-coffee-over-four-hours girl.You really like that game, huh? My 12-year-old nephew's addicted.Seems like everyone's obsessed with it.
+
+Oh, Free City? Ah. No.I, uh, have a lawsuit against the publisher and the evidence that I need is in the game. So then I had my codes 
+
+Oh,I wish we weren't closing so I could hear more about this.
+
