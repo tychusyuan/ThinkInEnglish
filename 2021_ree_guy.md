@@ -114,62 +114,149 @@ Medium coffee, cream, two sugars.
 Medium coffee, cream, two sugars.
 
 Actually, I think I'd like to try a cappuccino today.
-
 Ooh. "Cappuccino."
-I enjoy saying that.
 
+I enjoy saying that.
 It's like a waterfall made of letters.
 
 Excuse me?
 
 I'd like to try a cappuccino.
-
 Please.
 
 But you get a medium coffee, cream, two sugars.
-
 That's what you get.
 That's what everyone gets.
-
 Every day. Always.
 
- Well, I...
+Well, I...
+
 Somebody's about to get shot.
 
 Officer Johnny.
-
 I just thought I'd try something different today, you know?
-
 Whatever. Right? Yeah?
-
 Hi.
-
 Ha! I'm just keeping you on your toes.
-
 Coffee, cream, two sugars, please.
-
 I'm joking.
-
 Just keeping you on your toes.
 I was kidding.
 
 He was just kidding!
 
 Oh, you think I'd deprive myself of your baristic artistry?
-
 No way, no how.
-
 Mmm. That's hot.
-
 It's like Jesus washed my tongue
-
-but, right before he finished, he finally told my dad,
-
-"He's good enough."
-
+but, right before he finished, he finally told my dad,"He's good enough."
 Thank you so much.
 Officer Johnny!
 
 Have a good one, Guy.
 
 Cappuccino.
+
+
+Don't have a good day......have a great day, I guess.
+
+Okay. Good day to you.
+
+Everybody down on the ground!
+
+Nobody try to be a hero.
+This will all be over soon.
+
+That's the girl.
+
+We've been over this.
+
+You tried to talk to her yesterday,it didn't work.
+
+It will never work.
+
+She's wearing sunglasses.
+
+We don't mess with the sunglasses people.
+
+Maybe I'll get some sunglasses of my own.
+
+What? What are you talking about?
+You can't do that.
+
+Oh, my God. What am I doing?
+
+Hi.
+
+What'd you say?
+
+Hi.
+
+I'm gonna need your sunglasses.
+
+Ooh. Ow.
+
+I'm just gonna...
+
+I'm gonna need your sunglasses for a sec.
+
+What the hell do you think you're doing?
+
+Go back to your side, man.
+
+He's just an NPC.
+Waste that mother--
+
+Okay, just need to borrow them for a sec, okay?
+
+Back off! I said, don't!
+Just real quick. Real quick.
+
+Stop!
+
+You broken or somethin'?
+
+I'm the robber!
+
+You're the guy who lies down and takes it!
+
+Please, just stay down!
+
+I said, stay down!
+
+Guy, you don't do this, man.
+
+This isn't you.
+
+You don't do this.
+
+Maybe I do.
+
+What is wrong with this...
+
+stupid mission?
+
+I told you to smoke his ass.
+
+Let go!
+
+I'll give them right back.
+
+I said...
+
+Guy?
+
+He's just resting.
+
+In pieces!
+
+That man is dead!
+
+He's so sleepy.
+
+I'm just gonna put your gun down,right here,for when you wake.
+
+Okay?
+Guy.
+
+Guy! Where you goin'?
