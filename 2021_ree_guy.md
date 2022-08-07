@@ -22,3 +22,69 @@ Mmm, I see. Fun.Yeah, that's fun.
 Damn, girl, you're so feisty.But, seriously, is it loot or is it just the experience?
 
 Those are questions.
+
+Did you see the sneakers on that last robber?
+
+The 2:30?
+
+No, the 4:00.
+
+The three-quarter high-top, gorgeous foam soles.
+
+I could barely feel it when he stepped on my face.
+
+- Oh, man.
+- Wow.
+
+Life in the big city.
+Ain't nothing like it.
+
+Give it to me!
+
+Looks like rain.
+
+Has anyone seen my cat?
+
+You know something, Guy, people say it all the time, like,"Guy can take a shoe to the face better than anybody I know."
+
+I mean, when you put it on there,you act like it's not a shoe in your face.
+
+Don't have a good day, have a great day.
+
+Love that song.
+
+That's a new one.
+
+Hey!
+
+That's her.
+
+Her who?
+
+That's my dream girl, Buddy.
+
+She exists.
+
+- I'm gonna go talk to her.
+- Whoa, whoa, whoa, whoa.
+
+Wait, man. She's wearing sunglasses.
+
+So?
+
+Whatcha mean "so?"
+
+So, people with sunglasses don't talk to people like us.
+
+- You know that!
+- I gotta try.
+
+Look, Guy! Guy!
+
+Guy! What about beers on the beach?
+
+Excuse me!
+
+Hey!
+
+Hey!
