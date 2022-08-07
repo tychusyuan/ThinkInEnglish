@@ -38,142 +38,139 @@ Don't ever let anybody tell you they're better than you, Forrest.
 lf God intended everybody to be the same,he'd have given us all braces on our legs.
 Mama always had a way of explaining things so l could understand them.
 
-Dialogue: 0,0:06:44.61,0:06:48.11,gump,,0000,0000,0000,,{\i1}We lived about a quarter mile{\i0}\N{\i1}off Route 17,{\i0}
-Dialogue: 0,0:06:48.19,0:06:51.24,gump,,0000,0000,0000,,{\i1}about a haIf miIe from{\i0}\N{\i1}the town of Greenbow, Alabama.{\i0}
-Dialogue: 0,0:06:51.32,0:06:54.07,gump,,0000,0000,0000,,{\i1}That's in the county of Greenbow.{\i0}
-Dialogue: 0,0:06:54.16,0:06:58.58,gump,,0000,0000,0000,,{\i1}Our house had been in Mama's famiIy{\i0}\N{\i1}since her grandpa's grandpa's grandpa{\i0}
-Dialogue: 0,0:06:58.66,0:07:00.58,gump,,0000,0000,0000,,{\i1}had come across the ocean{\i0}\N{\i1}about 1,000 years ago,{\i0}
-Dialogue: 0,0:07:00.67,0:07:02.58,gump,,0000,0000,0000,,{\i1}something like that.{\i0}
-Dialogue: 0,0:07:02.67,0:07:05.38,gump,,0000,0000,0000,,{\i1}Since it was just me and Mama{\i0}\N{\i1}and we had all these empty rooms,{\i0}
-Dialogue: 0,0:07:05.46,0:07:08.21,gump,,0000,0000,0000,,{\i1}Mama decided to let those rooms out,{\i0}
-Dialogue: 0,0:07:08.30,0:07:10.26,gump,,0000,0000,0000,,{\i1}mostly to people passing through,{\i0}
-Dialogue: 0,0:07:10.34,0:07:14.30,gump,,0000,0000,0000,,{\i1}like from, oh, Mobile,{\i0}\N{\i1}Montgomery, places like that.{\i0}
-Dialogue: 0,0:07:14.39,0:07:17.10,gump,,0000,0000,0000,,{\i1}That's how me and Mama got money.{\i0}
-Dialogue: 0,0:07:17.18,0:07:19.93,gump,,0000,0000,0000,,{\i1}Mama was a real smart lady.{\i0}
-Dialogue: 0,0:07:20.02,0:07:25.02,gump,,0000,0000,0000,,Remember what l told you, Forrest.\NYou're no different than anybody else is.
-Dialogue: 0,0:07:27.53,0:07:29.90,gump,,0000,0000,0000,,Did you hear what l said, Forrest?
-Dialogue: 0,0:07:29.99,0:07:34.16,gump,,0000,0000,0000,,You're the same as everybody else.\NYou are no different.
-Dialogue: 0,0:07:34.66,0:07:39.12,gump,,0000,0000,0000,,Your boy's different, Mrs. Gump.
-Dialogue: 0,0:07:39.20,0:07:41.41,gump,,0000,0000,0000,,Now, his lQ is 75.
-Dialogue: 0,0:07:42.21,0:07:45.33,gump,,0000,0000,0000,,Well, we're all different, Mr. Hancock.
-Dialogue: 0,0:07:48.92,0:07:50.96,gump,,0000,0000,0000,,{\i1}She wanted me to have{\i0}\N{\i1}the finest education,{\i0}
-Dialogue: 0,0:07:51.05,0:07:54.97,gump,,0000,0000,0000,,{\i1}so she took me to{\i0}\N{\i1}the Greenbow County CentraI SchooI.{\i0}
-Dialogue: 0,0:07:55.05,0:07:57.30,gump,,0000,0000,0000,,{\i1}l met the principal and all.{\i0}
-Dialogue: 0,0:07:57.81,0:08:00.68,gump,,0000,0000,0000,,l want to show you something,\NMrs. Gump.
-Dialogue: 0,0:08:01.14,0:08:04.02,gump,,0000,0000,0000,,Now, this is normal.
-Dialogue: 0,0:08:04.52,0:08:07.81,gump,,0000,0000,0000,,Forrest is right here.
-Dialogue: 0,0:08:08.65,0:08:14.20,gump,,0000,0000,0000,,The state requires a minimum lQ of\N80 to attend public school, Mrs. Gump.
-Dialogue: 0,0:08:14.70,0:08:17.57,gump,,0000,0000,0000,,He's gonna have to go\Nto a special school.
-Dialogue: 0,0:08:17.66,0:08:19.78,gump,,0000,0000,0000,,Now, he'll be just fine.
-Dialogue: 0,0:08:20.58,0:08:22.66,gump,,0000,0000,0000,,What does "normal" mean, anyway?
-Dialogue: 0,0:08:22.75,0:08:26.12,gump,,0000,0000,0000,,He might be a bit on the slow side,
-Dialogue: 0,0:08:27.25,0:08:29.00,gump,,0000,0000,0000,,but my boy Forrest is gonna get
-Dialogue: 0,0:08:29.09,0:08:31.63,gump,,0000,0000,0000,,the same opportunities\Nas everyone else.
-Dialogue: 0,0:08:31.71,0:08:35.51,gump,,0000,0000,0000,,He's not going to some special school\Nto learn how to re-tread tires.
-Dialogue: 0,0:08:35.59,0:08:38.76,gump,,0000,0000,0000,,We're talking about\Nfive little points here.
-Dialogue: 0,0:08:40.47,0:08:43.10,gump,,0000,0000,0000,,There must be something can be done.
-Dialogue: 0,0:08:44.69,0:08:47.15,gump,,0000,0000,0000,,We're a progressive school system.
-Dialogue: 0,0:08:47.98,0:08:50.90,gump,,0000,0000,0000,,We don't want to see anybody\Nleft behind.
-Dialogue: 0,0:08:51.78,0:08:55.24,gump,,0000,0000,0000,,ls there a Mr. Gump, Mrs. Gump?
-Dialogue: 0,0:08:58.49,0:09:00.37,gump,,0000,0000,0000,,He's on vacation.
-Dialogue: 0,0:09:17.84,0:09:21.64,gump,,0000,0000,0000,,Well, your mama sure does care\Nabout your schooling, son.
-Dialogue: 0,0:09:27.14,0:09:29.60,gump,,0000,0000,0000,,You don't say much, do you?
-Dialogue: 0,0:09:41.12,0:09:43.08,gump,,0000,0000,0000,,"Finally, he had to try.
-Dialogue: 0,0:09:43.16,0:09:45.12,gump,,0000,0000,0000,,"lt looked easy, but,
-Dialogue: 0,0:09:46.33,0:09:48.67,gump,,0000,0000,0000,,"oh, what happened.
-Dialogue: 0,0:09:48.75,0:09:51.75,gump,,0000,0000,0000,,-"First, there..."\N-Mama, what's "vacation" mean?
-Dialogue: 0,0:09:52.30,0:09:54.88,gump,,0000,0000,0000,,-Vacation?\N-Where Daddy went.
-Dialogue: 0,0:09:57.51,0:10:00.22,gump,,0000,0000,0000,,Vacation's when you go somewhere
-Dialogue: 0,0:10:02.60,0:10:04.93,gump,,0000,0000,0000,,and you don't ever come back.
-Dialogue: 0,0:10:09.27,0:10:13.06,gump,,0000,0000,0000,,{\i1}Anyway, l guess you could say{\i0}\N{\i1}me and Mama was on our own.{\i0}
-Dialogue: 0,0:10:14.28,0:10:17.90,gump,,0000,0000,0000,,{\i1}But we didn't mind.{\i0}\N{\i1}Our house was never empty.{\i0}
-Dialogue: 0,0:10:17.99,0:10:20.57,gump,,0000,0000,0000,,{\i1}There was always folks{\i0}\N{\i1}coming and going.{\i0}
-Dialogue: 0,0:10:20.66,0:10:21.74,gump,,0000,0000,0000,,Supper.
-Dialogue: 0,0:10:21.82,0:10:25.24,gump,,0000,0000,0000,,-lt's supper, everyone. Forrest...\N-My, my. That sure looks special.
-Dialogue: 0,0:10:25.33,0:10:27.87,gump,,0000,0000,0000,,{\i1}Sometimes we had{\i0}\N{\i1}so many people staying with us{\i0}
-Dialogue: 0,0:10:27.96,0:10:30.62,gump,,0000,0000,0000,,{\i1}that every room{\i0}\N{\i1}was fiIIed with traveIers.{\i0}
-Dialogue: 0,0:10:30.71,0:10:34.34,gump,,0000,0000,0000,,{\i1}You know, folks living out{\i0}\N{\i1}of their suitcases{\i0}
-Dialogue: 0,0:10:34.42,0:10:37.38,gump,,0000,0000,0000,,{\i1}and hat cases and sample cases.{\i0}
-Dialogue: 0,0:10:37.47,0:10:40.88,gump,,0000,0000,0000,,Forrest Gump, it's suppertime!\NForrest...
-Dialogue: 0,0:10:40.97,0:10:43.51,gump,,0000,0000,0000,,{\i1}One time, a young man{\i0}\N{\i1}was staying with us,{\i0}
-Dialogue: 0,0:10:43.60,0:10:47.22,gump,,0000,0000,0000,,{\i1}and he had him a guitar case.{\i0}
-Dialogue: 0,0:11:01.20,0:11:05.20,gump,,0000,0000,0000,,Forrest! l told you not to bother\Nthis nice young man.
-Dialogue: 0,0:11:05.28,0:11:06.62,gump,,0000,0000,0000,,Oh, no, that's all right, ma'am.
-Dialogue: 0,0:11:06.70,0:11:09.54,gump,,0000,0000,0000,,l was just showing him a thing or two\Non the guitar here.
-Dialogue: 0,0:11:09.62,0:11:12.58,gump,,0000,0000,0000,,All right, but your supper's ready\Nif y'all want to eat.
-Dialogue: 0,0:11:12.67,0:11:15.63,gump,,0000,0000,0000,,Yeah, that sounds good.\NThank you, ma'am.
-Dialogue: 0,0:11:16.30,0:11:19.88,gump,,0000,0000,0000,,Say, man, show me that crazy\Nlittle walk you just did there.
-Dialogue: 0,0:11:19.97,0:11:21.84,gump,,0000,0000,0000,,Slow it down some.
-Dialogue: 0,0:11:23.97,0:11:25.89,gump,,0000,0000,0000,,{\i1}l liked that guitar.{\i0}
-Dialogue: 0,0:11:26.56,0:11:28.31,gump,,0000,0000,0000,,{\i1}lt sounded good.{\i0}
-Dialogue: 0,0:11:30.10,0:11:34.27,gump,,0000,0000,0000,,{\i1}l started moving around to the music,{\i0}
-Dialogue: 0,0:11:34.36,0:11:36.19,gump,,0000,0000,0000,,{\i1}swinging my hips.{\i0}
-Dialogue: 0,0:11:38.78,0:11:41.32,gump,,0000,0000,0000,,{\i1}This one night,{\i0}\N{\i1}me and Mama was out shopping,{\i0}
-Dialogue: 0,0:11:41.40,0:11:44.41,gump,,0000,0000,0000,,{\i1}and we walked right by{\i0}\N{\i1}Benson's furniture and appliance store,{\i0}
-Dialogue: 0,0:11:44.49,0:11:46.07,gump,,0000,0000,0000,,{\i1}and guess what?{\i0}
-Dialogue: 0,0:11:58.42,0:12:01.26,gump,,0000,0000,0000,,This is not for children's eyes.
-Dialogue: 0,0:12:03.80,0:12:05.59,gump,,0000,0000,0000,,{\i1}Some years Iater,{\i0}\N{\i1}that handsome young man{\i0}
-Dialogue: 0,0:12:05.68,0:12:08.22,gump,,0000,0000,0000,,{\i1}who they called "The King,"{\i0}
-Dialogue: 0,0:12:08.31,0:12:10.64,gump,,0000,0000,0000,,{\i1}well, he'd sung too many songs,{\i0}
-Dialogue: 0,0:12:11.31,0:12:13.85,gump,,0000,0000,0000,,{\i1}had himself a heart attack,{\i0}\N{\i1}or something.{\i0}
-Dialogue: 0,0:12:14.94,0:12:17.11,gump,,0000,0000,0000,,Must be hard being a king.
-Dialogue: 0,0:12:21.40,0:12:24.24,gump,,0000,0000,0000,,You know, it's funny how you remember\Nsome things, but some things you can't.
-Dialogue: 0,0:12:24.99,0:12:28.87,gump,,0000,0000,0000,,-You do your very best now, Forrest.\N-l sure will, Mama.
-Dialogue: 0,0:12:30.58,0:12:35.17,gump,,0000,0000,0000,,{\i1}I remember the bus ride{\i0}\N{\i1}on the first day of school very well.{\i0}
-Dialogue: 0,0:12:38.71,0:12:40.42,gump,,0000,0000,0000,,Are you coming along?
-Dialogue: 0,0:12:40.50,0:12:44.01,gump,,0000,0000,0000,,Mama said not to be taking\Nrides from strangers.
-Dialogue: 0,0:12:44.09,0:12:46.26,gump,,0000,0000,0000,,This is the bus to school.
-Dialogue: 0,0:12:49.22,0:12:51.47,gump,,0000,0000,0000,,l'm Forrest. Forrest Gump.
-Dialogue: 0,0:12:52.43,0:12:56.44,gump,,0000,0000,0000,,-l'm Dorothy Harris.\N-Well, now we ain't strangers anymore.
-Dialogue: 0,0:13:09.45,0:13:11.24,gump,,0000,0000,0000,,This seat's taken.
-Dialogue: 0,0:13:13.70,0:13:15.21,gump,,0000,0000,0000,,lt's taken!
-Dialogue: 0,0:13:23.09,0:13:24.96,gump,,0000,0000,0000,,You can't sit here.
-Dialogue: 0,0:13:27.13,0:13:30.55,gump,,0000,0000,0000,,{\i1}You know, it's funny what{\i0}\N{\i1}a young man recollects,{\i0}
-Dialogue: 0,0:13:30.64,0:13:33.01,gump,,0000,0000,0000,,{\i1}'cause l don't remember being born.{\i0}
-Dialogue: 0,0:13:34.64,0:13:36.81,gump,,0000,0000,0000,,l don't recall what l got\Nfor my first Christmas,
-Dialogue: 0,0:13:36.89,0:13:39.98,gump,,0000,0000,0000,,and l don't know when l went\Non my first outdoor picnic.
-Dialogue: 0,0:13:40.06,0:13:44.78,gump,,0000,0000,0000,,But l do remember the first time l heard
-Dialogue: 0,0:13:44.86,0:13:47.70,gump,,0000,0000,0000,,the sweetest voice in the wide world.
-Dialogue: 0,0:13:48.20,0:13:50.57,gump,,0000,0000,0000,,You can sit here if you want.
-Dialogue: 0,0:13:53.49,0:13:57.37,gump,,0000,0000,0000,,{\i1}l had never seen anything{\i0}\N{\i1}so beautiful in my life.{\i0}
-Dialogue: 0,0:13:58.08,0:14:00.17,gump,,0000,0000,0000,,{\i1}She was Iike an angeI.{\i0}
-Dialogue: 0,0:14:00.25,0:14:03.17,gump,,0000,0000,0000,,Well, are you gonna sit down,\Nor aren't you?
-Dialogue: 0,0:14:08.13,0:14:09.93,gump,,0000,0000,0000,,What's wrong with your legs?
-Dialogue: 0,0:14:10.01,0:14:14.26,gump,,0000,0000,0000,,Nothing at all, thank you.\NMy legs are just fine and dandy.
-Dialogue: 0,0:14:15.18,0:14:17.35,gump,,0000,0000,0000,,{\i1}l just sat next to her on that bus{\i0}
-Dialogue: 0,0:14:17.43,0:14:19.52,gump,,0000,0000,0000,,{\i1}and had a conversation{\i0}\N{\i1}all the way to school.{\i0}
-Dialogue: 0,0:14:19.60,0:14:22.31,gump,,0000,0000,0000,,...my back's crooked like\Na question mark.
-Dialogue: 0,0:14:22.40,0:14:23.57,gump,,0000,0000,0000,,These are going to make me...
-Dialogue: 0,0:14:23.65,0:14:28.40,gump,,0000,0000,0000,,{\i1}And next to Mama, no one ever{\i0}\N{\i1}talked to me or asked me questions.{\i0}
-Dialogue: 0,0:14:28.95,0:14:30.91,gump,,0000,0000,0000,,Are you stupid or something?
-Dialogue: 0,0:14:30.99,0:14:33.99,gump,,0000,0000,0000,,Mama says, "Stupid is as stupid does."
-Dialogue: 0,0:14:35.62,0:14:39.29,gump,,0000,0000,0000,,-l'm Jenny.\N-l'm Forrest. Forrest Gump.
-Dialogue: 0,0:14:39.96,0:14:41.79,gump,,0000,0000,0000,,{\i1}From that day on,{\i0}\N{\i1}we was always together.{\i0}
-Dialogue: 0,0:14:41.88,0:14:44.71,gump,,0000,0000,0000,,{\i1}Jenny and me was like{\i0}\N{\i1}peas and carrots.{\i0}
-Dialogue: 0,0:14:48.30,0:14:49.92,gump,,0000,0000,0000,,{\i1}She taught me how to cIimb.{\i0}
-Dialogue: 0,0:14:50.01,0:14:52.72,gump,,0000,0000,0000,,Come on, Forrest, you can do it.
-Dialogue: 0,0:14:52.80,0:14:55.43,gump,,0000,0000,0000,,{\i1}l showed her how to dangle.{\i0}
-Dialogue: 0,0:14:55.51,0:14:57.56,gump,,0000,0000,0000,,"...a good little monkey and..."
-Dialogue: 0,0:14:57.64,0:15:02.56,gump,,0000,0000,0000,,{\i1}She heIped me Iearn how to read,{\i0}\N{\i1}and l showed her how to swing.{\i0}
-Dialogue: 0,0:15:04.90,0:15:08.65,gump,,0000,0000,0000,,{\i1}Sometimes we'd just sit out{\i0}\N{\i1}and wait for the stars.{\i0}
-Dialogue: 0,0:15:08.74,0:15:13.66,gump,,0000,0000,0000,,-Mama's gonna worry about me.\N-Just stay a little longer.
-Dialogue: 0,0:15:14.91,0:15:18.66,gump,,0000,0000,0000,,{\i1}For some reason,{\i0}\N{\i1}Jenny didn't never want to go home.{\i0}
-Dialogue: 0,0:15:18.75,0:15:20.83,gump,,0000,0000,0000,,Okay, Jenny, l'll stay.
-Dialogue: 0,0:15:21.67,0:15:24.42,gump,,0000,0000,0000,,{\i1}She was my most speciaI friend.{\i0}
-Dialogue: 0,0:15:27.84,0:15:29.51,gump,,0000,0000,0000,,My only friend.
-Dialogue: 0,0:15:33.30,0:15:37.10,gump,,0000,0000,0000,,Now, my mama always told me that\Nmiracles happen every day.
-Dialogue: 0,0:15:37.18,0:15:39.56,gump,,0000,0000,0000,,Some people don't think so, but they do.
-Dialogue: 0,0:15:42.60,0:15:44.19,gump,,0000,0000,0000,,Hey, dummy!
-Dialogue: 0,0:15:45.15,0:15:47.23,gump,,0000,0000,0000,,Are you retarded, or just plain stupid?
-Dialogue: 0,0:15:47.32,0:15:50.82,gump,,0000,0000,0000,,-"Look, l'm Forrest Gimp."\N-Just run away, Forrest.
-Dialogue: 0,0:15:52.15,0:15:55.24,gump,,0000,0000,0000,,Run, Forrest! Run away! Hurry!
-Dialogue: 0,0:15:55.32,0:15:58.58,gump,,0000,0000,0000,,-Get the bikes!\N-Hurry up! Let's get him!
-Dialogue: 0,0:15:58.66,0:16:01.20,gump,,0000,0000,0000,,-Come on!\N-Look out, dummy, here we come!
-Dialogue: 0,0:16:01.29,0:16:03.12,gump,,0000,0000,0000,,We're gonna get you!
-Dialogue: 0,0:16:04.08,0:16:07.84,gump,,0000,0000,0000,,Run, Forrest, run! Run, Forrest!
-Dialogue: 0,0:16:09.55,0:16:11.46,gump,,0000,0000,0000,,Come back here, you!
-Dialogue: 0,0:16:25.10,0:16:27.56,gump,,0000,0000,0000,,Run, Forrest!
-Dialogue: 0,0:16:27.65,0:16:29.07,gump,,0000,0000,0000,,Run!
+We lived about a quarter mile{\i0}\N{\i1}off Route 17,{\i0}
+about a haIf miIe from{\i0}\N{\i1}the town of Greenbow, Alabama.{\i0}
+That's in the county of Greenbow.{\i0}
+Our house had been in Mama's famiIy{\i0}\N{\i1}since her grandpa's grandpa's grandpa{\i0}
+had come across the ocean{\i0}\N{\i1}about 1,000 years ago,{\i0}
+something like that.{\i0}
+Since it was just me and Mama{\i0}\N{\i1}and we had all these empty rooms,{\i0}
+Mama decided to let those rooms out,{\i0}
+mostly to people passing through,{\i0}
+like from, oh, Mobile,{\i0}\N{\i1}Montgomery, places like that.{\i0}
+That's how me and Mama got money.{\i0}
+Mama was a real smart lady.{\i0}
+Remember what l told you, Forrest.\NYou're no different than anybody else is.
+Did you hear what l said, Forrest?
+You're the same as everybody else.\NYou are no different.
+
+Your boy's different, Mrs. Gump.
+Now, his lQ is 75.
+Well, we're all different, Mr. Hancock.
+She wanted me to have the finest education, so she took me to the Greenbow County CentraI SchooI. 
+l met the principal and all. 
+l want to show you something, Mrs. Gump.
+Now, this is normal.
+Forrest is right here.
+The state requires a minimum lQ of 80 to attend public school, Mrs. Gump.
+He's gonna have to go to a special school.
+Now, he'll be just fine.
+What does "normal" mean, anyway?
+He might be a bit on the slow side,but my boy Forrest is gonna get the same opportunities as everyone else.
+He's not going to some special school to learn how to re-tread tires.
+We're talking about five little points here.
+There must be something can be done.
+We're a progressive school system.
+We don't want to see anybody left behind.
+ls there a Mr. Gump, Mrs. Gump?
+He's on vacation.
+
+Well, your mama sure does care about your schooling, son.
+You don't say much, do you?
+Finally, he had to try. lt looked easy, but, oh, what happened. First, there...
+Mama, what's "vacation" mean?
+Vacation? 
+Where Daddy went.
+Vacation's when you go somewhere and you don't ever come back.
+Anyway, l guess you could say me and Mama was on our own. 
+But we didn't mind. Our house was never empty. 
+There was always folks coming and going. 
+Supper.
+lt's supper, everyone. 
+Forrest... 
+My, my. That sure looks special.
+Sometimes we had so many people staying with us that every room was fiIIed with traveIers. 
+You know, folks living out of their suitcases and hat cases and sample cases. 
+Forrest Gump, it's suppertime! Forrest...
+One time, a young man was staying with us, and he had him a guitar case. 
+Forrest! l told you not to bother this nice young man.
+Oh, no, that's all right, ma'am.
+l was just showing him a thing or two on the guitar here.
+All right, but your supper's ready if y'all want to eat.
+Yeah, that sounds good. Thank you, ma'am.
+Say, man, show me that crazy little walk you just did there.
+Slow it down some.
+l liked that guitar. 
+lt sounded good. 
+l started moving around to the music, swinging my hips. 
+This one night, me and Mama was out shopping, and we walked right by Benson's furniture and appliance store, and guess what? 
+This is not for children's eyes.
+Some years Iater, that handsome young man who they called "The King," well, he'd sung too many songs, had himself a heart attack, or something. 
+
+Must be hard being a king.
+You know, it's funny how you remember some things, but some things you can't.
+You do your very best now, Forrest. 
+l sure will, Mama.
+I remember the bus ride on the first day of school very well.
+Are you coming along?
+Mama said not to be taking rides from strangers.
+This is the bus to school.
+l'm Forrest. Forrest Gump.
+l'm Dorothy Harris.
+Well, now we ain't strangers anymore.
+This seat's taken.
+lt's taken!
+You can't sit here.
+You know, it's funny what a young man recollects,cause l don't remember being born.
+l don't recall what l got for my first Christmas,and l don't know when l went on my first outdoor picnic.
+But l do remember the first time l heard the sweetest voice in the wide world.
+You can sit here if you want.
+l had never seen anything so beautiful in my life.
+She was Iike an angeI.
+Well, are you gonna sit down, or aren't you?
+What's wrong with your legs?
+Nothing at all, thank you. My legs are just fine and dandy.
+l just sat next to her on that bus and had a conversation all the way to school.
+...my back's crooked like a question mark.
+These are going to make me...
+And next to Mama, no one ever talked to me or asked me questions.
+Are you stupid or something?
+Mama says, "Stupid is as stupid does."
+l'm Jenny. 
+l'm Forrest. Forrest Gump.
+From that day on, we was always together.
+Jenny and me was like peas and carrots.
+She taught me how to cIimb.
+Come on, Forrest, you can do it.
+l showed her how to dangle.
+"...a good little monkey and..."
+She heIped me Iearn how to read, and l showed her how to swing.
+Sometimes we'd just sit out and wait for the stars.
+Mama's gonna worry about me. 
+Just stay a little longer.
+For some reason, Jenny didn't never want to go home.
+Okay, Jenny, l'll stay.
+She was my most speciaI friend.
+My only friend.
+
+Now, my mama always told me that miracles happen every day.
+Some people don't think so, but they do.
+Hey, dummy!
+Are you retarded, or just plain stupid?
+"Look, l'm Forrest Gimp." 
+Just run away, Forrest.
+Run, Forrest! Run away! Hurry!
+Get the bikes! 
+Hurry up! Let's get him!
+Come on! 
+Look out, dummy, here we come!
+We're gonna get you!
+Run, Forrest, run! Run, Forrest!
+Come back here, you!
+Run, Forrest!
+Run!
+
+
 Dialogue: 0,0:17:00.26,0:17:03.14,gump,,0000,0000,0000,,{\i1}Now, you wouldn't believe it{\i0}\N{\i1}if l told you,{\i0}
 Dialogue: 0,0:17:04.27,0:17:06.77,gump,,0000,0000,0000,,but l can run like the wind blows.
 Dialogue: 0,0:17:10.02,0:17:13.11,gump,,0000,0000,0000,,From that day on,\Nif l was going somewhere,
