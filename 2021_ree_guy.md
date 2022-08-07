@@ -107,3 +107,69 @@ Oh, Free City? Ah. No.I, uh, have a lawsuit against the publisher and the eviden
 
 Oh,I wish we weren't closing so I could hear more about this.
 
+
+Good morning, Goldie.
+
+Medium coffee, cream, two sugars.
+Medium coffee, cream, two sugars.
+
+Actually, I think I'd like to try a cappuccino today.
+
+Ooh. "Cappuccino."
+I enjoy saying that.
+
+It's like a waterfall made of letters.
+
+Excuse me?
+
+I'd like to try a cappuccino.
+
+Please.
+
+But you get a medium coffee, cream, two sugars.
+
+That's what you get.
+That's what everyone gets.
+
+Every day. Always.
+
+ Well, I...
+Somebody's about to get shot.
+
+Officer Johnny.
+
+I just thought I'd try something different today, you know?
+
+Whatever. Right? Yeah?
+
+Hi.
+
+Ha! I'm just keeping you on your toes.
+
+Coffee, cream, two sugars, please.
+
+I'm joking.
+
+Just keeping you on your toes.
+I was kidding.
+
+He was just kidding!
+
+Oh, you think I'd deprive myself of your baristic artistry?
+
+No way, no how.
+
+Mmm. That's hot.
+
+It's like Jesus washed my tongue
+
+but, right before he finished, he finally told my dad,
+
+"He's good enough."
+
+Thank you so much.
+Officer Johnny!
+
+Have a good one, Guy.
+
+Cappuccino.
