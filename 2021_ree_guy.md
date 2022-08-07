@@ -170,13 +170,9 @@ This will all be over soon.
 That's the girl.
 
 We've been over this.
-
 You tried to talk to her yesterday,it didn't work.
-
 It will never work.
-
 She's wearing sunglasses.
-
 We don't mess with the sunglasses people.
 
 Maybe I'll get some sunglasses of my own.
@@ -185,19 +181,14 @@ What? What are you talking about?
 You can't do that.
 
 Oh, my God. What am I doing?
-
 Hi.
 
 What'd you say?
 
 Hi.
-
 I'm gonna need your sunglasses.
-
 Ooh. Ow.
-
 I'm just gonna...
-
 I'm gonna need your sunglasses for a sec.
 
 What the hell do you think you're doing?
@@ -215,9 +206,7 @@ Just real quick. Real quick.
 Stop!
 
 You broken or somethin'?
-
 I'm the robber!
-
 You're the guy who lies down and takes it!
 
 Please, just stay down!
@@ -227,7 +216,6 @@ I said, stay down!
 Guy, you don't do this, man.
 
 This isn't you.
-
 You don't do this.
 
 Maybe I do.
@@ -249,14 +237,29 @@ Guy?
 He's just resting.
 
 In pieces!
-
 That man is dead!
 
 He's so sleepy.
-
 I'm just gonna put your gun down,right here,for when you wake.
-
 Okay?
-Guy.
 
+Guy.
 Guy! Where you goin'?
+
+Excuse me. Do you see this?
+
+Have the quarterly reports on my desk by Friday.
+
+Whoo!
+
+Oh!
+
+Giddy up!
+
+I feel brand new.
+
+Loser.
+
+What is happening?
+
+So much money.
