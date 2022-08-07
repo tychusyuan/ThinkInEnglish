@@ -10,12 +10,132 @@ Oh, I know.
 See? That's not even his car.
 Or his wife.
 For the sunglasses people,they get to do anything they want.
-They go on all sorts of missions.
-They got cool hair, cool clothes.
+They go on all sorts of missions.They got cool hair, cool clothes.
 I mean, laws aren't really laws to them.They're more like mild suggestions.
 Like, I don't think he's gonna return that car.
 Or that nice lady.
 See what I mean? Hero.
+
+My name is Guy,and I live in paradise.
+
+Good morning, Goldie.
+
+I've lived here in Free City my whole life.
+I've got a best friend,I've got a goldfish,and I work at the bank.
+What more could a guy want?
+
+Sunday should be warm and sunny
+with just a scattering of drive-bys.
+Great day for the beach,but not Hitman's Beach,which will be mined and sprayed with high-calibre fire from a renegade gunship stolen by--
+
+And every morning, I start my day with the most delicious coffee in the whole, wide, whole world.
+
+Medium coffee, cream, two sugars.
+You know it. Mmm.
+
+Mmm!
+That is unexpectedly hot.
+Jeez, that's good.
+It's like losing my virginity,but in my mouth.
+Thank you for making this with such love.
+
+You're welcome.
+
+Officer Johnny!
+
+Have a good one, Guy.
+
+Don't have a good day,have a great day!
+
+
+Hold the fudge.
+You mean to tell me that nobody snapped up those bad boys? Today is the day.
+
+Like every other day.
+
+I'll be back for those.
+
+Oh! So close.
+
+Mmm! This is the greatest cup of coffee of all time.
+
+I wanna write a song about it.
+
+I wanna dance to that song with my body.
+
+I love my life.
+
+There's something about finding your lane and just staying in it.
+
+That's why they call 'em comfort zones, they're so damn comfortable.
+
+Oh, Joe!
+
+Mondays, am I right, Joe?
+
+You said it, Guy.
+
+Yeah.
+
+
+In Free City, I have everything I need.
+
+Don't have a good day... ...have a great day.
+
+Thank you.
+
+Take care.
+
+Except one thing.
+
+Seem happy.
+
+Oh, come on, don't worry about that, Guy. You gonna find someone.
+
+Oh, it's okay, Bud.
+
+Feel like I've been looking for her forever, you know?
+Maybe it's not meant to be.
+
+Everybody down on the ground!
+
+I know the woman I'm looking for.
+
+Oh, let me guess.
+
+Woman with an offbeat sense of humour.
+
+Sense of humour.
+
+An obsession with feel-good diva pop.
+
+Diva pop. Yes, that's her.
+
+She's rented space in my brain and she won't move out.
+
+And you know what?I don't want her to.
+
+Well, guess what?She won't move either in or out.
+
+You know why?'Cause she doesn't exist.
+
+She's just a fantasy. It's a fantasy.
+That's cruel. You're cruel.
+
+You're being rotten right now. Rotten.
+I'm being real.
+
+Nobody try to be a hero.
+This will all be over soon.
+
+So how about it?
+Beers on the beach after work?
+
+Of course we're going for beers on the beach after work.
+
+That makes me so happy.
+
+Me too.
 
 
 What have you got?
@@ -42,6 +162,7 @@ Damn, girl, you're so feisty.But, seriously, is it loot or is it just the experi
 
 Those are questions.
 
+
 Did you see the sneakers on that last robber?
 
 The 2:30?
@@ -55,8 +176,7 @@ I could barely feel it when he stepped on my face.
 Oh, man.
 Wow.
 
-Life in the big city.
-Ain't nothing like it.
+Life in the big city.Ain't nothing like it.
 
 Give it to me!
 
@@ -65,7 +185,6 @@ Looks like rain.
 Has anyone seen my cat?
 
 You know something, Guy, people say it all the time, like,"Guy can take a shoe to the face better than anybody I know."
-
 I mean, when you put it on there,you act like it's not a shoe in your face.
 
 Don't have a good day, have a great day.
@@ -85,35 +204,29 @@ That's my dream girl, Buddy.
 She exists.
 
 I'm gonna go talk to her.
-Whoa, whoa, whoa, whoa.
 
+Whoa, whoa, whoa, whoa.
 Wait, man. She's wearing sunglasses.
 
 So?
 
 Whatcha mean "so?"
-
 So, people with sunglasses don't talk to people like us.
-
 You know that!
+
 I gotta try.
 
 Look, Guy! Guy!
-
 Guy! What about beers on the beach?
 
 Excuse me!
-
+Hey!
 Hey!
 
-Hey!
 
 Coming soon... Free City 2!
-
 Bigger! Badder! Radder!
-
 Free City 2: Carnage.
-
 Pre-order today and get the bonus Mayhem Pack.
 
 You done?
