@@ -1,3 +1,22 @@
+This is Free City.
+Look at this guy. He's one of the sunglasses people.
+And the people who wear sunglasses are heroes.
+They have a devil-may-care attitude and they run this town.
+
+You are so hot.
+
+Oh, I know.
+
+See? That's not even his car.
+Or his wife.
+For the sunglasses people,they get to do anything they want.
+They go on all sorts of missions.
+They got cool hair, cool clothes.
+I mean, laws aren't really laws to them.They're more like mild suggestions.
+Like, I don't think he's gonna return that car.
+Or that nice lady.
+See what I mean? Hero.
+
 
 What have you got?
 
