@@ -10,44 +10,34 @@ l'll bet you could walk all day in shoes like that and not feel a thing.
 l wish l had shoes like that.
 My feet hurt.
 Mama always said there's an awful lot
-you could tell about a person by their shoes:
-where they're going,where they've been.
+you could tell about a person by their shoes:where they're going,where they've been.
 l've worn lots of shoes.
 l bet if l think about it real hard,l could remember my first pair of shoes.
 Mama said they'd take me anywhere.
-She said they was my magic shoes.
 
-Dialogue: 0,0:04:48.41,0:04:51.58,gump,,0000,0000,0000,,All right, Forrest,\Nyou can open your eyes now.
-Dialogue: 0,0:04:58.88,0:05:01.34,gump,,0000,0000,0000,,Let's take a little walk around.
-Dialogue: 0,0:05:08.14,0:05:09.93,gump,,0000,0000,0000,,How do those feel?
-Dialogue: 0,0:05:12.89,0:05:15.06,gump,,0000,0000,0000,,His legs are strong, Mrs. Gump,
-Dialogue: 0,0:05:15.14,0:05:17.64,gump,,0000,0000,0000,,as strong as l've ever seen,
-Dialogue: 0,0:05:17.73,0:05:21.11,gump,,0000,0000,0000,,but his back is as crooked\Nas a politician.
-Dialogue: 0,0:05:22.40,0:05:25.49,gump,,0000,0000,0000,,But we're gonna straighten him right up,\Nnow, aren't we, Forrest?
-Dialogue: 0,0:05:25.57,0:05:26.70,gump,,0000,0000,0000,,Forrest!
-Dialogue: 0,0:05:28.20,0:05:29.41,gump,,0000,0000,0000,,{\i1}Now, when l was a baby,{\i0}
-Dialogue: 0,0:05:29.49,0:05:32.33,gump,,0000,0000,0000,,{\i1}Mama named me after{\i0}\N{\i1}the great CiviI War hero,{\i0}
-Dialogue: 0,0:05:32.41,0:05:34.83,gump,,0000,0000,0000,,{\i1}GeneraI Nathan Bedford Forrest.{\i0}
-Dialogue: 0,0:05:34.91,0:05:37.12,gump,,0000,0000,0000,,{\i1}She said we was reIated to him{\i0}\N{\i1}in some way.{\i0}
-Dialogue: 0,0:05:37.21,0:05:38.58,gump,,0000,0000,0000,,{\i1}And what he did was,{\i0}
-Dialogue: 0,0:05:38.67,0:05:42.92,gump,,0000,0000,0000,,{\i1}he started up this club called{\i0}\N{\i1}the Ku KIux KIan.{\i0}
-Dialogue: 0,0:05:43.00,0:05:46.34,gump,,0000,0000,0000,,{\i1}They'd all dress up in their robes{\i0}\N{\i1}and their bed sheets{\i0}
-Dialogue: 0,0:05:46.42,0:05:50.76,gump,,0000,0000,0000,,{\i1}and act like a bunch of ghosts{\i0}\N{\i1}or spooks or something.{\i0}
-Dialogue: 0,0:05:50.85,0:05:54.72,gump,,0000,0000,0000,,{\i1}They'd even put bed sheets{\i0}\N{\i1}on their horses and ride around.{\i0}
-Dialogue: 0,0:05:54.81,0:05:57.85,gump,,0000,0000,0000,,{\i1}And anyway, that's how l got my name,{\i0}
-Dialogue: 0,0:05:57.94,0:05:59.35,gump,,0000,0000,0000,,{\i1}Forrest Gump.{\i0}
-Dialogue: 0,0:05:59.44,0:06:01.19,gump,,0000,0000,0000,,{\i1}Mama said that the "Forrest" part{\i0}
-Dialogue: 0,0:06:01.27,0:06:04.82,gump,,0000,0000,0000,,{\i1}was to remind me that sometimes{\i0}\N{\i1}we all do things that,{\i0}
-Dialogue: 0,0:06:04.90,0:06:07.69,gump,,0000,0000,0000,,{\i1}well, just don't make no sense.{\i0}
-Dialogue: 0,0:06:13.37,0:06:16.87,gump,,0000,0000,0000,,Okay... Get it, get it...
-Dialogue: 0,0:06:16.95,0:06:19.92,gump,,0000,0000,0000,,Wait, is it this way? Hold on.
-Dialogue: 0,0:06:20.83,0:06:22.33,gump,,0000,0000,0000,,All right...
-Dialogue: 0,0:06:22.92,0:06:24.59,gump,,0000,0000,0000,,What are you all staring at?
-Dialogue: 0,0:06:24.67,0:06:29.13,gump,,0000,0000,0000,,Haven't you ever seen a little boy\Nwith braces on his legs before?
-Dialogue: 0,0:06:30.68,0:06:34.39,gump,,0000,0000,0000,,Don't ever let anybody tell you\Nthey're better than you, Forrest.
-Dialogue: 0,0:06:34.47,0:06:37.06,gump,,0000,0000,0000,,lf God intended\Neverybody to be the same,
-Dialogue: 0,0:06:37.14,0:06:39.27,gump,,0000,0000,0000,,he'd have given us all braces\Non our legs.
-Dialogue: 0,0:06:39.35,0:06:43.15,gump,,0000,0000,0000,,{\i1}Mama always had a way of explaining{\i0}\N{\i1}things so l could understand them.{\i0}
+She said they was my magic shoes.
+All right, Forrest,you can open your eyes now.
+Let's take a little walk around.
+How do those feel?
+His legs are strong, Mrs. Gump,as strong as l've ever seen,but his back is as crooked as a politician.
+But we're gonna straighten him right up,now, aren't we, Forrest?
+Forrest!
+Now, when l was a baby,Mama named me after the great CiviI War hero,GeneraI Nathan Bedford Forrest.
+She said we was reIated to him in some way.
+And what he did was,he started up this club called the Ku KIux KIan. 
+They'd all dress up in their robes and their bed sheets and act like a bunch of ghosts or spooks or something. 
+They'd even put bed sheets on their horses and ride around. 
+And anyway, that's how l got my name, Forrest Gump.
+Mama said that the "Forrest" part was to remind me that sometimes we all do things that,well, just don't make no sense.
+Okay... Get it, get it...
+Wait, is it this way? Hold on.
+All right...
+What are you all staring at?
+Haven't you ever seen a little boy with braces on his legs before?
+Don't ever let anybody tell you they're better than you, Forrest.
+lf God intended everybody to be the same,he'd have given us all braces on our legs.
+Mama always had a way of explaining things so l could understand them.
+
 Dialogue: 0,0:06:44.61,0:06:48.11,gump,,0000,0000,0000,,{\i1}We lived about a quarter mile{\i0}\N{\i1}off Route 17,{\i0}
 Dialogue: 0,0:06:48.19,0:06:51.24,gump,,0000,0000,0000,,{\i1}about a haIf miIe from{\i0}\N{\i1}the town of Greenbow, Alabama.{\i0}
 Dialogue: 0,0:06:51.32,0:06:54.07,gump,,0000,0000,0000,,{\i1}That's in the county of Greenbow.{\i0}
