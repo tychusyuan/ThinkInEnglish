@@ -395,3 +395,379 @@ Loser.
 What is happening?
 
 So much money.
+
+
+Hey, Mouser, check this out.
+
+What's up, Keys?
+
+What am I looking at?
+
+Okay, so, this user, he gets his glasses stolen and then killed.
+The guy was smoked by a non-playable character.
+
+An NPC? That's impossible.
+
+Yeah, exactly.
+Nobody can equip an NPC skin on their avatar.
+
+Yeah, so you just boot the trash-ass noob and ban him for life, you're done.
+
+I tried that, but I, I can't trace him.
+Whoever it is, they're good.
+
+Hmm. You gotta be better at your job, buddy.
+
+I'm pretty good.
+
+I'll see you on the inside.
+
+Select your skin.
+
+Hey, Keys, what skin are you going with?
+
+The ushe. Dirty stripper cop,big guns, bigger moustache.
+
+Hmm. Little dirt squirrel. I like it.
+
+Almost scared to ask, but what are you going with?
+
+Uh, full body moustache, hot pink.
+You should be very afraid.
+
+I'm terrified.
+
+Let's do this.
+
+Seriously, man.
+
+
+I'm just being honest, I think the bunny suit is just a little much.
+
+Excuse me?
+
+Right.
+
+Rabbit. Okay? My fault.
+
+Hey, 40-year-old virgin!
+Get over here!
+
+Let's go!
+
+Uh-huh. Captain Khakis.
+
+Come here. Come on, bud.
+Go, let's go.
+
+Closer.
+There he is.
+
+Blue shirt guy.
+
+Blue shirt?
+Yes.
+Hello, Officer.
+Rabbit.
+
+Nice skin.
+
+Thank you. That's sweet.
+
+How'd you get it?
+
+Well, uh, mostly genetics,I think. I'm pretty lucky.
+
+I have naturally dewy skin.
+
+Listen up, Neutrogena.
+
+You know you can't go around looking like that. The rules are clear.
+
+And another thing.
+
+You can't hack the NPC avatars.
+No, sir!
+
+It screws up the mission load...
+Screws it up!
+
+...and it makes the game look bad.
+
+Horrible!
+Yeah.
+
+I got, like, 5% of that.
+
+Lose the skin!
+
+I... Lose?
+
+How am I supposed to get rid of my skin?
+
+Take it off, man.
+
+Just take it off.
+What are you doing?
+
+What?
+Seriously.
+
+The whole thing. The face, the outfit.
+How?
+
+Everything. Ditch it.
+Take it off.
+
+If you don't, we're gonna kill you.
+
+Why?
+And we're gonna keep killing you.
+
+Still why?
+
+Until we do find out who you are,and then we're gonna ban you for life.
+
+Okay. No, no.
+Okay, I want to comply.
+I just find the order of those threats very confusing.
+
+Somebody's about to get shot.
+Light him up!
+
+No.
+
+Come on, Blue Shirt.
+
+Oh! Didn't see that one coming.
+Did you see that one coming?
+Scared me a little bit.
+
+We're coming for you, Blue Shirt!
+
+Coming to get ya.
+
+We're coming to get ya.
+
+Wait! Wait!
+I can explain everything.
+I found these glasses and then I can see things now.
+
+Things that-- Whoa, whoa.
+Things that aren't there.
+
+Except they are there.
+
+I know that sounds crazy, but it's true!
+
+You can run, Blue Shirt, but you cannot hide.
+
+Come on, Blue Shirt.
+You can't escape the rabbit.
+
+We're apex predators.
+
+All we do is bone and brawl and slit throats.
+
+Too high! Too high!
+
+Oh, you wanna play, Blue Shirt?
+Watch this.
+
+I tire of these games, Keys. It's time I went god-mode on this beyotch.
+
+Okay, bring it.
+
+Oh, it's brung. Go, go, go, go, go.
+
+I'm so, so good at this.
+
+Time's up, bank teller!
+
+Nope!
+
+I can't die!
+
+I'm never gonna die!
+
+Whoo!
+
+
+And that was the heartbreaking story of Blue Shirt Guy.
+
+The end.
+
+Doesn't make sense.
+What?
+
+I just checked the server stats.
+
+We killed Blue Shirt and the number of players online didn't change.
+
+It's just a glitch, man.
+
+It's not a big deal.
+
+I know, I know.
+It just seems like that's something new, you know?
+
+Keys, I know what you're thinking, okay?
+You should not talk to Antwan.
+
+I just think it's important to be transparent, okay?
+
+Uh-uh. No.
+
+Antwan is deep in the sequel launch.
+He's either not gonna care or he's gonna get pissed and then he's gonna blame us.
+
+So, I don't know what you haven't figured out about the whole situation.
+
+Also, aren't you some kinda MIT genius, indie game designer?
+
+What are you doing down here dealing with complaints?
+
+That, Mouser, is a long and pathetic story involving failed dreams,desperation,
+and a mountain of college debt.
+
+You do not wanna hear about that.
+
+You're absolutely right.
+
+That story sounds horrible and boring and full of white privilege.
+
+Don't talk to Antwan.
+
+We never dreamt this would've happened.
+
+I mean, Life Itself, it's essentially a fishbowl game.
+
+People aren't playing it,they're watching it grow.
+
+It's a strictly observational experience where computer generated characters interact and evolve.
+
+I thought we'd be lucky to give it away.
+
+That's what's so charming about Keys,he's clueless about his own genius.
+
+Uh, no, Millie is the genius.
+
+Uh, she built the AI engine from the ground up.
+
+So, to get a little personal, what's the thing that gets you up in the morning?
+
+Medium coffee,cream, two sugars.
+
+What's the other thing?
+
+Oh, yeah.
+An insatiable thirst for validation.
+
+She's not kidding.
+I'm not.
+
+How about you?
+
+Code.
+Code?
+
+Code.
+Code, yeah.
+
+There we go.
+
+'Cause it's not just zeros and ones, it's hidden messages.
+
+I like to think of myself, actually,as not a code writer, but an author.
+
+I just use zeros and ones instead of words 'cause words will let you down.
+
+But zeros and ones, never.
+Zeros and ones are as cool as shit.
+
+He's not kidding.
+I'm not.
+
+Now, I've gotta ask.
+
+There is a lot of chemistry between the two of you.
+
+Has this evolved into more than--
+No.
+
+No way. No. It's strictly platonic.
+No, no, no. We're friends.
+
+We're like best friends.
+Friendship.
+
+And now your game is gonna be released by Soonami,one of the biggest publishers in the world.
+
+<i>- It's crazy, actually.
+- It is, yeah.</i>
+
+It does seem a little bit like an unlikely pairing, though.
+
+<i>Yeah,I didn't totally get it either.</i>
+
+<i>But Millie's got a real instinct for these things.</i>
+
+<i>Antwan is a genius.</i>
+
+<i>He's brash and obnoxious,but he's really good at what he does.</i>
+
+<i>It's a chance for our work to be seen by a wider audience.</i>
+
+God, those two were young and dumb.
+Jeez.
+
+So we're breaking and entering now?
+
+How does it feel working for a galactic black hole of frozen shit?
+
+You have to leave. I can't talk to you.
+
+Aw, shame will have that effect.
+
+No, Millie. I mean I can't talk to you.
+
+I can't even see you. I'm literally focusing on background objects because looking at your lips move violates my NDA and it could get me fired.
+
+Aw, fired by Antwan,the guy who stole our work?
+
+No, he bought it and then he shelved it.
+
+All right? You're living in the past.
+You are stuck. You gotta move on.
+
+How can I move on?
+
+How can you?
+
+Antwan swiped our AI engine to use in his dumb shooter.
+
+Did he, Millie?
+Because, honestly, I'm not so sure.
+
+Our game was complex and beautiful and interesting.
+
+And <i>Free City,</i> it may be popular but it's so idiotic, it makes me wanna cry.
+
+Then stop defending him and help me beat his ass.
+
+Millie, I'm--
+Come on, Keys, he stole from us.
+
+And now he's lying about it
+
+so he doesn't have to give us the credit and the royalties that we deserve.
+
+Millie--
+
+I found a clue.
+It's on a clip in a gamer's stash house.
+
+All I need from you is to get me in there.
+
+Millie, I care about you but you need to leave.
+
