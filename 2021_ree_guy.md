@@ -831,12 +831,10 @@ I work alone.
 
 You have beautiful grenades.
 
-Besides, if you want to have any chance of making an impact here,
+Besides, if you want to have any chance of making an impact here,you need to have a higher level than that.
 
-you need to have a higher level than that.
-
-- That's tough. No.
-- No.
+That's tough. No.
+No.
 
 Higher level?
 
@@ -846,11 +844,9 @@ See?
 
 Oh.
 That's mine.
-
 And that's yours.
 
-Oh. What,
-is one the best or the worst?
+Oh. What,is one the best or the worst?
 
 There is literally nothing lower.
 
@@ -873,10 +869,7 @@ Uh-huh.
 
 Money. This is Free City.
 
-You could rob a store,
-carjack someone,
-
-punch a pedestrian in the face.
+You could rob a store,carjack someone,punch a pedestrian in the face.
 You'll figure it out.
 
 Oh, I'd never hurt innocent people.
@@ -895,16 +888,13 @@ If you ever met the dick responsible for this world, you'd agree.
 
 Are we talking about God?
 You've met God?
-
 And he's a dick?
 
 His name's Antwan,and, yes, he's an absolute troll.
 
 Trolls exist?
 
-Look, I don't know if anybody does it,
-
-but you could rack experience points up by being a good guy.
+Look, I don't know if anybody does it,but you could rack experience points up by being a good guy.
 
 Like a hero.
 Ooh. Easy, tiger.
