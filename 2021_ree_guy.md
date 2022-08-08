@@ -1288,3 +1288,435 @@ But it's all good with me if I don't have to pay you more.
 Antwan out.
 
 Who is this guy?
+
+
+
+Wow!
+
+I took your advice.
+
+I levelled up.
+
+Impressive.
+
+Why are you doing all of this?
+
+You know, I guess I felt trapped.
+
+You know, in my life,I just felt so Stuck.
+
+Yeah. And then I saw you.
+
+Then I saw you.
+
+Who are you?
+
+I'm Guy.
+
+No, who are you really?
+
+Still Guy.
+
+All of this, levelling up so fast.
+
+Giving this whole world the finger.
+
+How are you pulling this off?
+
+I've never given anyone any of my fingers.
+
+You work at Soonami, don't you?
+
+No.
+You've got an inside track.
+
+I work at the bank.
+Right. The bank.
+
+So, you're just this incredible hacker who happens to work at the bank.
+
+Yes, I work at the bank.
+
+Where did you get that skin?
+
+It's always, sort of, been there.
+
+Why do people keep asking me that question?
+
+I don't know, why do they?
+
+No, no. Not doing that. I--
+
+What's happening right now?
+
+I don't know, but I don't buy it.
+
+No.
+
+Okay, fine. I'll forget it.
+Fine. Good.
+
+I'll let it go.
+Yes.
+
+Great.
+
+We all have our secrets, I guess.
+
+Yes, we do.
+
+Hey.
+
+Do you like ice cream?
+
+I can't believe I've never been here.
+
+Well, it's sort of a secret.
+
+That's why me and my buddy, Buddy,always come here. It's quiet and safe.
+
+Yeah, it makes sense.
+
+No missions here.
+
+Oh, you gotta try this.
+You're gonna think I'm crazy.
+
+This is my favourite flavour in the whole world.
+
+We'll take two of the usual, please.
+You got it, Guy.
+
+It's bubble gum flavour.
+
+You think I'm crazy, don't you?
+
+Guy,get out of my brain hole!
+I love bubble gum ice cream.
+
+No, you don't.
+Are you making fun of me right now?
+
+No! Nobody likes bubble gum ice cream.
+
+No, I do.
+
+I had a relationship end over bubble gum ice cream.
+
+No way. Here.
+Yeah.
+
+Cheers.
+Cheers.
+
+Mmm.
+
+How good is that?
+
+You can taste it?
+
+Taste it? It's like my tongue had a baby with a sunrise.
+
+Mmm-hmm?
+Mmm.
+
+Coffee used to be my favourite food,but, compared with this,it tastes like liquid suffering.
+
+What?
+
+Nothing. You're funny.
+
+I am?
+Yeah.
+
+Weird funny.
+
+But that's kind of my speed.
+
+Weird funny, that's totally my speed, too.
+
+Great.
+Yeah. I know a joke.
+
+A weird funny joke.
+You wanna hear it?
+
+Please.
+Okay.
+
+A homosexual and a man in a wheelchair are trying to murder a very small child.
+
+The cripple says to the homosexual--
+Whoa. Stop, stop.
+
+Stop! Where did you hear that?
+
+A robbery.
+The gunman told it to the driver who thought it was hilarious, so I memorised it and told everyone.
+
+Word of advice?
+
+Don't crib your jokes from the trolls of <i>Free City.</i>
+
+Trolls?
+
+Is that a swing set?
+
+
+
+Wow!
+
+I took your advice.
+I levelled up.
+
+Impressive.
+Why are you doing all of this?
+
+You know, I guess I felt trapped.
+You know, in my life,I just felt so Stuck.
+Yeah. And then I saw you.
+Then I saw you.
+
+Who are you?
+
+I'm Guy.
+
+No, who are you really?
+
+Still Guy.
+
+All of this, levelling up so fast.
+Giving this whole world the finger.
+How are you pulling this off?
+
+I've never given anyone any of my fingers.
+
+You work at Soonami, don't you?
+
+No.
+You've got an inside track.
+
+I work at the bank.
+Right. The bank.
+
+So, you're just this incredible hacker who happens to work at the bank.
+
+Yes, I work at the bank.
+
+Where did you get that skin?
+
+It's always, sort of, been there.
+
+Why do people keep asking me that question?
+
+I don't know, why do they?
+
+No, no. Not doing that. I--
+What's happening right now?
+
+I don't know, but I don't buy it.
+
+No.
+
+Okay, fine. I'll forget it.
+Fine. Good.
+
+I'll let it go.
+Yes.
+
+Great.
+
+We all have our secrets, I guess.
+
+Yes, we do.
+
+Hey.
+
+Do you like ice cream?
+
+I can't believe I've never been here.
+
+Well, it's sort of a secret.
+That's why me and my buddy, Buddy,always come here. It's quiet and safe.
+
+Yeah, it makes sense.
+No missions here.
+
+Oh, you gotta try this.
+You're gonna think I'm crazy.
+This is my favourite flavour in the whole world.
+We'll take two of the usual, please.
+
+You got it, Guy.
+
+It's bubble gum flavour.
+
+You think I'm crazy, don't you?
+
+Guy,get out of my brain hole!
+I love bubble gum ice cream.
+
+No, you don't.
+Are you making fun of me right now?
+
+No! Nobody likes bubble gum ice cream.
+
+No, I do.
+
+I had a relationship end over bubble gum ice cream.
+
+No way. Here.
+Yeah.
+
+Cheers.
+Cheers.
+
+Mmm.
+
+How good is that?
+
+You can taste it?
+
+Taste it? It's like my tongue had a baby with a sunrise.
+
+Mmm-hmm?
+Mmm.
+
+Coffee used to be my favourite food,but, compared with this,it tastes like liquid suffering.
+
+What?
+
+Nothing. You're funny.
+
+I am?
+Yeah.
+
+Weird funny.
+
+But that's kind of my speed.
+
+Weird funny, that's totally my speed, too.
+
+Great.
+Yeah. I know a joke.
+
+A weird funny joke.
+You wanna hear it?
+
+Please.
+Okay.
+
+A homosexual and a man in a wheelchair are trying to murder a very small child.
+
+The cripple says to the homosexual--
+Whoa. Stop, stop.
+
+Stop! Where did you hear that?
+
+A robbery.
+The gunman told it to the driver who thought it was hilarious, so I memorised it and told everyone.
+
+Word of advice?
+
+Don't crib your jokes from the trolls of <i>Free City.</i>
+
+Trolls?
+
+Is that a swing set?
+
+
+Holy--
+
+Okay, this is too weird.
+
+Vintage Mariah, bubble gum ice cream,and now swings?
+
+This is too weird.
+I thought the same thing, too.
+
+I thought the same thing.
+
+When I was younger,I was obsessed with swings.
+
+Growing up in my family, it was--
+
+You don't wanna hear this. No.
+
+Oh, I wanna hear everything.
+
+Oh.
+
+Growing up in my family,it wasn't good enough to be great.
+
+You had to win, and that pressure,you know,
+
+it was just constant.
+
+But when I was in the back garden on that little swing--
+
+You know that moment,that split second between rising and falling,when you're totally weightless,it feels like you're free.
+
+In love.
+
+Free. What you said. Yeah.
+
+I really wanna kiss you.
+Is that weird?
+
+You want to kiss me?
+
+I wanna kiss you so badly.
+
+You want to kiss me badly?
+
+No!
+No?
+
+No, no, no, no, no.
+I wanna kiss you well.
+
+I mean, I'm an idiot,so I say things like an idiot sometimes.
+
+No, you're not. You're not.
+
+I mean, um, uh, if you know how to, go for it.
+
+I know how.
+
+Okay.
+
+Here goes.
+
+That was so much better than ice cream.
+
+Whoa!
+
+I think someone's at the door.
+
+I'll say.
+
+Well, this was great.
+
+Yeah, it was.
+
+Let's meet up again sometime soon.
+Yeah?
+
+Yes. Definitely.
+
+Maybe in the real world.
+
+What?
+
+Yeah. Yeah, yeah, yeah.
+
+Okay. Bye.
+Okay.
+
+Bye, Molotov.
+
+Hey, my real name is Millie.
+
+My real name continues to be Guy.
+
+
