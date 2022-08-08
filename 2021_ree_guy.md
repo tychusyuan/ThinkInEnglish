@@ -923,3 +923,368 @@ That's so much more than one.
 
 Like, 99 more.
 Bye now.
+
+
+Okay.
+
+Hi.
+
+Thanks, Guy.
+
+Good morning, Goldie.
+
+Good morning, Goldie.
+
+Good fucking morning, Goldie.
+
+I have three words for you.
+Blue Shirt Guy.
+
+BSG is levelling up and at a record pace by playing the hero.
+It's got people all over the worldasking, "Just who is this guy?"
+
+I don't know who this guy is,but he's out-skilling all these players.
+
+And here he is,taking out Beefoven, a level 102 from Clan Ragnarok.
+
+This is bullshit.
+Who is this guy?
+
+I don't know, but he's good.
+
+Yeah, he's good.
+He looks like an NPC but he's running around, levelling up crazy fast by being the freaking good guy.
+
+"This colourful character in the video game Free City
+
+"has been turning heads by being the good guy."
+
+Piper.
+Who is Blue Shirt Guy?
+
+You're absolutely right.
+
+Blue Shirt Guy.
+Who is he or she indeed?
+
+Whoo-hoo!
+
+There's a worldwide craze that has captured kids' hearts-- Blue Shirt Guy!
+
+Hello, Hinata.
+
+You have a great outfit.
+
+Don't have a good day... Have a GREAT day!
+
+Crazy awesome!!!
+
+
+Well, well, well. Look who decidedto come to work today, huh?
+Look, where have you been?
+I've been worried sick about you.
+What is this shirt?
+Where's your collar at?
+Where's the rest of the buttons?
+And it's not tucked in.
+You look sloppy.
+Matter of fact, you look horrible.
+Did you pick up some muscles, too?
+Or is somebody outside pumping you up?
+
+I'm sorry
+that I haven't been around, Bud.
+I've been figuring some stuff out.
+
+Whatcha mean, "figure stuff out"?
+It is nothing to figure out.
+Okay? You go to bed, you wake up,you get some coffee,then you come to work.
+And then you repeat the same thing tomorrow.
+
+The girl.
+Oh, my God.
+
+I talked to her. I talked to her.
+
+The one with the sunglasses?
+The sunglasses, yes!
+
+I talked to one of the sunglass people and now I'm one of the sunglass people.
+
+Me.
+
+Everybody down on the ground!
+
+You're so hot.
+
+What if I could tell you that you could be more?
+
+Your life could be fuller.
+
+That you're free to make your own decisions. Your own choices.
+
+Yo, dumbass.
+
+We are in the middle of something.
+
+Uh...
+
+That's my gun.
+Quiet time.
+
+These puppies changed my life.
+And they're gonna change yours, too.
+
+Come on now,you know we don't wear sunglasses.
+
+We do now.
+
+Mine now.
+
+Are you kidding me?
+
+Put 'em on.
+No.
+
+Life doesn't have to be something that just happens to us. All right?
+Just put the glasses on and you're gonna see.
+You're gonna see.
+
+Come on.
+
+I can't, okay?
+I'm sorry.
+
+I'm keeping these, asshole mouth.
+Now get out of here. Go be nicer.
+Beat it. Go, go, go.
+Don't walk, run.
+
+And you...
+
+Ugh.
+
+Sorry.
+...um, you could do so much better than that guy.
+You could be with, like, a good guy.
+
+Or maybe
+I don't have to be with any guy.
+
+Right? Exactly.
+Most of them are awful.
+
+They really are.
+Terrible.
+
+Yeah, do whatever you wanna do.
+
+You're my best friend, Buddy.
+
+And you don't have to be scared.
+
+If you change your mind, I'll be around.
+
+
+Yo, Keys,our Blue Shirt Guy is everywhere.
+
+I know.
+
+Who is this guy?
+
+I'm here.
+
+I really appreciate this, Keys.
+
+Okay. Just to be clear,all I'm doing right now is opening the door.
+If this clip really does prove that Antwan reused our code illegally, go find it and get out.
+Player's doing the jewellery store mission in midtown.
+That gives you 5 minutes.
+And go.
+
+Keys, you're a goddamn genius.
+
+Really?
+I'm sitting on the toilet right now, stealing user codes,so I don't exactly feel like one.
+
+Oh, you never have.
+Good thing I know better.
+
+All right. The clip you're looking for should be on the wall to your left.
+
+Thanks for the assist.
+
+You got it.
+I hope it has the proof you're looking for.
+
+Keys! I need your help!
+
+He's got that place booby-trapped with spawn points.
+Millie, I can't help you.
+
+Blue Shirt Guy?
+
+It's a Henley. Was that cool?
+It felt really cool.
+You look really pretty.
+Wow, this house is so nice.
+What are you doing here?
+
+I was trying to steal a video clip, now we're trying not to die.
+
+Who are you talking to?
+
+You know, that player in the NPC skin.
+
+Millie, there are no other players in that house.
+
+That actually hurt my hand.
+
+Get down!
+
+I'm sorry! Oh, God!
+
+We're doing great.
+
+Wow!
+
+We should definitely go!
+
+Oh, shit!
+
+Is that a Glock in your pocket?
+No.
+
+What?
+It's two Glocks.
+
+Oh!
+
+I don't suppose this thing can fly.
+
+No.
+
+Jump.
+
+Wow!
+
+Whoa!
+
+Oh, shit.
+
+
+Good morning, sheeple!
+
+Oh, you are fired.
+
+There is some concern with the bloody zombies. Retailers won't carry the game.
+
+Cut it. It's out.
+Never even happened. Next.
+
+It's your lawyers.
+They need to get your deposition.
+
+Speak. Which lawsuit are we talking about?
+Millie, Millie Rusk?
+No sweat.
+That will never see the inside of a courtroom because she's got no proof and her ex-partner works for me.
+We're golden.
+
+Antwan, hey. You look great.
+Uh, I thought you were still at Burning Man.
+
+Oh, does it look like I'm still at Burning Man?
+You, you, you--
+No. So, shut your stupid, bearded face and listen.
+You heard about the asshole running around in the game who looks like an NPC?
+
+Yeah, yeah. We call him Blue Shirt Guy.
+But we're gonna get rid of him.
+
+Don't get rid of him. People like him.
+It's all over social media. No.
+In fact, know what I'm gonna do?
+I'm gonna use the skin in <i>Free City 2.</i>
+Oh, art nerds! We're gonna make some upgrades to Blue Shirt, all right?
+'Roid him out.
+Make him a hitman or something.
+
+Antwan, we're already way behind porting over the skins from <i>Free City 1.</i>
+
+Skins?
+Don't even worry about that.
+
+They won't be usable in <i>Free City 2.</i>
+
+Antwan, you told the fans <i>Free City 2</i> is backwards compatible.
+It was in the commercial.
+
+You said there'd be the same characters in the sequel.
+
+Well, here's the thing.
+When I said that, I was lying.
+
+Listen, Antwan,the game is already buggier than ever.
+
+I got a stack of user complaints,like, a mile high.
+
+Look, I know it sucks.
+
+But the IP recognition is rock hard.
+Okay? So don't even worry about it.
+
+I'm just saying,
+we could make an original game.
+
+What?
+
+Make an original? Why would I do that when I could make a sequel?
+
+A sequel.
+
+So we can make it better?
+
+IPs and sequels,that is the thing that people want.
+
+Let me ask you a question.
+Okay.
+
+You love Kentucky Fried Chicken, right?
+
+Mmm-hmm.
+No.
+
+If you love Kentucky Fried Chicken,and I make Kentucky Fried Chicken,and I know that you love Kentucky Fried Chicken,why would I make another restaurant called,uh, I don't know,"Albuquerque Boiled Turkey"?
+
+Okay? Makes no sense, homie.
+Mmm-hmm. No sense.
+
+What am I gonna give you? A sequel.
+
+Kentucky Fried Chicken-Chicken,Part Two.
+
+Uh, yum.
+Drop the deuce on him.
+
+Come on. Come here. Come here.
+
+I don't want you to stress
+
+that glorious shampoo commercial head of yours about it.
+
+<i>Free City 2</i> is gonna be jumunjious.
+That's not a word.
+You sure you don't wanna bump up to programming?
+I know you got the brains for it.
+
+No thanks. I'm good right where I am.
+
+Love it. Fear of flying.
+Can't say I can relate.
+
+But it's all good with me if I don't have to pay you more.
+
+Antwan out.
+
+Who is this guy?
