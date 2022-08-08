@@ -771,3 +771,165 @@ All I need from you is to get me in there.
 
 Millie, I care about you but you need to leave.
 
+
+Today is gonna be different, Goldie.
+
+What are we lookin' at?
+
+Who are you?
+
+Okay, okay. Okay.
+
+We ran into each other the other day, you were humming that great song.
+
+Oh, yeah.
+
+I thought you were an NPC.
+How did you find me?
+
+I waited outside by the murder train,then I followed you.
+
+Shit!
+
+Can I come with you?
+
+Yes?
+
+Holy hell, what just happened?
+
+What just happened is you almost blew my mission.
+
+No, I mean, how did we get from there to wherever this is?
+
+You mean the portal gun?
+
+Portal gun?
+That sounds expensive.
+
+Wow, you are a special kind of noob.
+
+Thank you. You too.
+
+Turn around.
+
+Okay.
+
+Oh.
+
+Is this the North Pole?
+
+Listen, dude.
+
+Guy.
+Guy. Whatever.
+
+Props on the NPC outfit,but I'm busy trying to figure out how to steal something.
+
+Maybe I could help you.
+
+I work alone.
+
+You have beautiful grenades.
+
+Besides, if you want to have any chance of making an impact here,
+
+you need to have a higher level than that.
+
+- That's tough. No.
+- No.
+
+Higher level?
+
+Good Lord, rook.
+
+See?
+
+Oh.
+That's mine.
+
+And that's yours.
+
+Oh. What,
+is one the best or the worst?
+
+There is literally nothing lower.
+
+Well, how do I get to a higher level?
+
+Really?
+Really.
+
+You know, get stuff.
+Yeah.
+
+Are you kidding me right now?
+Yeah.
+
+Experience, guns...
+Yeah.
+
+Put that down.
+Uh-huh.
+
+Money. This is Free City.
+
+You could rob a store,
+carjack someone,
+
+punch a pedestrian in the face.
+You'll figure it out.
+
+Oh, I'd never hurt innocent people.
+
+Hmm. I've got to admit that is kind of refreshing.
+
+Sometimes I forget not everyone you meet on here is a sociopathic man-child.
+
+Thank you.
+
+Wait. But the world isn't that bad, though, is it?
+
+Oh! Pretty bleak.
+
+If you ever met the dick responsible for this world, you'd agree.
+
+Are we talking about God?
+You've met God?
+
+And he's a dick?
+
+His name's Antwan,and, yes, he's an absolute troll.
+
+Trolls exist?
+
+Look, I don't know if anybody does it,
+
+but you could rack experience points up by being a good guy.
+
+Like a hero.
+Ooh. Easy, tiger.
+
+If you don't wanna shoot people,you could steal their guns.
+
+All that shit makes your level go up.
+
+Go be the good guy.
+
+Okay. No, I'm gonna be the great guy.
+
+Ooh! Ooh.
+
+Okay, well, enjoy your lifetime supply of virginity.
+
+Off you go.
+
+Okay. Wait! How will I know that I've levelled up enough?
+
+Uh, get over 100, then we'll talk.
+Whoa.
+
+Bye now.
+That's so much more than one.
+
+Like, 99 more.
+Bye now.
